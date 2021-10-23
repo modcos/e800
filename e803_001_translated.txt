@@ -1,0 +1,1052 @@
+[msg MSG_00A]
+[s]> Вы подслушиваете разговор.[n][f 1 4][e]
+##-[s]> You overhear a conversation.[n][f 1 4][e]-##
+
+[msg MSG_00B]
+[s]> Прозвенел первый звонок.[n][f 1 4][e]
+##-[s]> The first bell has rung.[n][f 1 4][e]-##
+
+[msg MSG_000 [Шепчущий Студент]]
+[s]Вы слышали слух...?[n][w][e]
+##-[s]Did you hear the rumor...?[n][w][e]-##
+
+[msg MSG_001 [Громкий Студент]]
+[s]О, эм... что-то в этом роде... ванная[n]комната?[n][w][e]
+##-[s]Oh, um... something about...[n]a bathroom?[n][w][e]-##
+
+[msg MSG_002 [Шепчущий Студент]]
+[s]Н-Нет![n][w][e]
+##-[s]N-No![n][w][e]-##
+[s]Только не этот! Я имею в виду историю о[n]студенте первого курса![n][w][e]
+##-[s]Not that one! I mean the story about[n]the first-year student![n][w][e]-##
+[s]Она не только перестала ходить в школу, но[n]и ничего не делает, только сидит и весь[n]день пялится в стены.[n][w][e]
+##-[s]Not only did she stop coming to school,[n]she does nothing but sit and stare at[n]the walls all day.[n][w][e]-##
+[s]Если ее мать пытается заговорить с ней, она[n]только бормочет себе под нос: "Это[n]приближается... Это приближается...!"[n][w][e]
+##-[s]If her mother tries to talk to her,[n]she only mutters to herself,[n]"It's coming... It's coming...!"[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Хм. Как насчет этого?[n][w][e]
+##-[s][f 1 5]Громкий Студент[n]Huh. How about that.[n][w][e]-##
+[s][f 1 5]Сплетничающий Студент[n]Ты мне не веришь...?[n][w][e]
+##-[s][f 1 5]Шепчущий Студент[n]You don't believe me...?[n][w][e]-##
+
+[msg MSG_003 [Шепчущий Студент]]
+[s]鰻бдー? 竿誇ЮбПи、葛褐м学К跨企УЭХВ?[n][w][e]
+##-[s]鰻бдー?[n]竿誇ЮбПи、葛褐м学К跨企УЭХВ?[n][w][e]-##
+
+[msg MSG_004 [Громкий Студент]]
+[s]Х、ХДРЛ!?[n][w][e]
+##-[s]Х、ХДРЛ!?[n][w][e]-##
+[s]Ябж維бд、映珂員Кタマ育Эм!?[n][w][e]
+##-[s]Ябж維бд、映珂員Кタマ育Эм!?[n][w][e]-##
+
+[msg MSG_005 [Шепчущий Студент]]
+[s]…Ж、В、泳ВПз、 ガラス侠鈷К雇ЭбдЮП…[n][w][e]
+##-[s]…Ж、В、泳ВПз、[n]ガラス侠鈷К雇ЭбдЮП…[n][w][e]-##
+[s]Тялスケール吸УВ解е…[n][w][e]
+##-[s]Тялスケール吸УВ解е…[n][w][e]-##
+
+[msg MSG_006 [Шепчущий Студент]]
+[s]лーлー、顧謂м割喝竿鼓 カッコЙбЭлー![n][w][e]
+##-[s]лーлー、顧謂м割喝竿鼓[n]カッコЙбЭлー![n][w][e]-##
+
+[msg MSG_007 [Громкий Студент]]
+[s]ДД、АЭм五互 我伍カッコЙбЭー![n][w][e]
+##-[s]ДД、АЭм五互[n]我伍カッコЙбЭー![n][w][e]-##
+
+[msg MSG_008 [Шепчущий Студент]]
+[s]Йб、ЙШНЁカッコВВ! Ы午呉、宇援й因иВел![n][w][e]
+##-[s]Йб、ЙШНЁカッコВВ![n]Ы午呉、宇援й因иВел![n][w][e]-##
+
+[msg MSG_009 [臆環м潅]]
+[s]лー鰻бдЭ!? 芥掛竿鼓、陰吾ХдЮбд![n][w][e]
+##-[s]лー鰻бдЭ!?[n]芥掛竿鼓、陰吾ХдЮбд![n][w][e]-##
+
+[msg MSG_010 [臆環м潅]]
+[s]Жб、宇乾!? …дСжн、Вь陰吾Чо…[n][w][e]
+##-[s]Жб、宇乾!?[n]…дСжн、Вь陰吾Чо…[n][w][e]-##
+
+[msg MSG_011 [臆環м潅]]
+[s]姥мベッドй!? Ыи…娯後御ЧМ![n][w][e]
+##-[s]姥мベッドй!?[n]Ыи…娯後御ЧМ![n][w][e]-##
+
+[msg MSG_012 [Громкий Студент]]
+[s]*вздох*... Золотая неделя закончилась. Мне[n]очень грустно...[n][w][e]
+##-[s]*sigh*... Golden Week is over.[n]I'm pretty sad...[n][w][e]-##
+[s]Знаешь, кролики могут умереть от печали.[n][w][e]
+##-[s]You know, rabbits can die from[n]sadness.[n][w][e]-##
+
+[msg MSG_013 [Шепчущий Студент]]
+[s]Хорошо... Во-первых, ты не кролик. А[n]во-вторых, это всего лишь слухи.[n][w][e]
+##-[s]Okay... First, you're not a rabbit.[n]And second, that's just a rumor.[n][w][e]-##
+
+[msg MSG_014 [Громкий Студент]]
+[s]Что? Ни за что! Я думал, что это научный[n]факт...[n][w][e]
+##-[s]What? No way! I thought it was[n]scientific fact...[n][w][e]-##
+[s]Но, говоря о том, чтобы быть грустным... В[n]последний раз, когда я был в храме[n]Наганаки, я видел ученика начальной школы.[n][w][e]
+##-[s]But speaking of being sad... I saw[n]an elementary school kid at Naganaki[n]Shrine the last time I visited.[n][w][e]-##
+[s]Она выглядела такой грустной, играя совсем[n]одна. Мне стало ее жаль...[n][w][e]
+##-[s]She looked so sad playing all by[n]herself. I felt sorry for her...[n][w][e]-##
+
+[msg MSG_015 [Громкий Студент]]
+[s]О, нет! Испытание состоится сегодня! Вчера[n]я вообще не занимался, потому что... Я[n]заснул![n][w][e]
+##-[s]Oh, no! The test is today! I didn't study[n]at all yesterday, 'cause... I fell asleep![n][w][e]-##
+
+[msg MSG_016 [Шепчущий Студент]]
+[s]Ну же... Тебе не нужно каждый раз лгать об[n]этом.[n][w][e]
+##-[s]Come on... You don't need to lie[n]about it every time.[n][w][e]-##
+[s]Кстати, ты слышал? Наш учитель физкультуры[n]был госпитализирован.[n][w][e]
+##-[s]By the way, did you hear? Our PE[n]teacher was hospitalized.[n][w][e]-##
+[s]Я слышал, как на него упала вывеска.[n][w][e]
+##-[s]I heard a signboard fell on top of him.[n][w][e]-##
+
+[msg MSG_017 [Громкий Студент]]
+[s]Тпру... Ждать. Кого волнует наш учитель[n]физкультуры?[n][w][e]
+##-[s]Whoa... Wait. Who cares about[n]our PE teacher?[n][w][e]-##
+[s]Давай, у нас есть пять минут! Мы можем[n]запомнить десять слов вокаба![n][w][e]
+##-[s]C'mon, we've got five minutes![n]We can memorize ten vocab words![n][w][e]-##
+
+[msg MSG_018 [Шепчущий Студент]]
+[s]Вы слышали последние новости? Кто-то из[n]персонала был госпитализирован с тяжелыми[n]травмами.[n][w][e]
+##-[s]Did you hear the latest? Someone[n]on the staff was hospitalized with[n]some bad injuries.[n][w][e]-##
+[s]Я слышал, что дорога внезапно обрушилась, и[n]машина парня упала на 30 футов прямо вниз![n][w][e]
+##-[s]I heard the road suddenly collapsed,[n]and the guy's car fell 30 feet[n]straight down![n][w][e]-##
+
+[msg MSG_019 [Громкий Студент]]
+[s]Ух ты, я никогда раньше не слышал ни о чем[n]подобном... В этой школе водятся[n]привидения?[n][w][e]
+##-[s]Wow, I've never heard of anything[n]like that before... Is this school[n]haunted?[n][w][e]-##
+
+[msg MSG_020 [Шепчущий Студент]]
+[s]Я знаю, верно!? Кажется, я только что[n]почувствовал, как по спине пробежал[n]холодок... Мне нужно пойти в кабинет[n]медсестры.[n][w][e]
+##-[s]I know, right!? I think I just felt a chill[n]go down my spine... I should go to[n]the nurse's office.[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]В-кабинет медсестры!? В том[n]же месте, где отдыхает сотрудник? Ты что,[n]издеваешься надо мной?[n][w][e]
+##-[s][f 1 5]Громкий Студент[n]Th-The nurse's office!? The same[n]place that staffer is resting?[n]Are you kidding me?[n][w][e]-##
+[s]Он даст тебе это странное лекарство. В[n]конечном итоге вы можете почувствовать себя[n]еще хуже![n][w][e]
+##-[s]He'll give you that weird medicine.[n]You might end up feeling even worse![n][w][e]-##
+
+[msg MSG_021 [Шепчущий Студент]]
+[s]АーАー、ЁДЧО茨還テストЮлー。 茅萱м栄В悟渦й厩ЛЭВ…[n][w][e]
+##-[s]АーАー、ЁДЧО茨還テストЮлー。[n]茅萱м栄В悟渦й厩ЛЭВ…[n][w][e]-##
+
+[msg MSG_022 [Громкий Студент]]
+[s]ьАьА、ЫК寄бЭ蟹轄эЦё![n][w][e]
+##-[s]ьАьА、ЫК寄бЭ蟹轄эЦё![n][w][e]-##
+
+[msg MSG_023 [Шепчущий Студент]]
+[s]…В、Ым右й瓜岐テストЁ英Х。 2ヶ衣ОВАХ。[n][w][e]
+##-[s]…В、Ым右й瓜岐テストЁ英Х。[n]2ヶ衣ОВАХ。[n][w][e]-##
+
+[msg MSG_024 [Громкий Студент]]
+[s]О, нет! Вчера я вообще не занимался, потому[n]что заснул...![n][w][e]
+##-[s]Oh, no! I didn't study at all[n]yesterday, cause I fell asleep...![n][w][e]-##
+
+[msg MSG_025 [Шепчущий Студент]]
+[s]Но свет в твоей комнате горел все это[n]время.[n][w][e]
+##-[s]But the light in your room was on[n]the whole time.[n][w][e]-##
+
+[msg MSG_026 [Громкий Студент]]
+[s]Тьфу... Ты слишком проницателен...[n][w][e]
+##-[s]Ugh... You're too sharp...[n][w][e]-##
+[s]...Эй, все верно, так и было! Я вчера[n]выучил свою задницу наизусть![n][w][e]
+##-[s]...Hey, that's right, it was![n]I studied my ass off yesterday![n][w][e]-##
+
+[msg MSG_027 [Громкий Студент]]
+[s]АーАーЮЮ! 茨還м益詠、雲謂Юлー…[n][w][e]
+##-[s]АーАーЮЮ![n]茨還м益詠、雲謂Юлー…[n][w][e]-##
+[s]梧Уー、щжヤバНд。 侠葛е、閣йЁ荏餌Ам烏гЙиНбд…[n][w][e]
+##-[s]梧Уー、щжヤバНд。[n]侠葛е、閣йЁ荏餌Ам烏гЙиНбд…[n][w][e]-##
+[s]烏гВЭм、寄簡10鋭右ЮбЭー! 価殴бд檎яЭПзУー…[n][w][e]
+##-[s]烏гВЭм、寄簡10鋭右ЮбЭー![n]価殴бд檎яЭПзУー…[n][w][e]-##
+
+[msg MSG_028 [Шепчущий Студент]]
+[s]…Ж?[n][w][e]
+##-[s]…Ж?[n][w][e]-##
+[s]……。[n][w][e]
+##-[s]……。[n][w][e]-##
+[s]閣、АбЭм?[n][w][e]
+##-[s]閣、АбЭм?[n][w][e]-##
+
+[msg MSG_029 [Громкий Студент]]
+[s]…Ж? А、Д…[n][w][e]
+##-[s]…Ж?[n]А、Д…[n][w][e]-##
+[s]……。[n][w][e]
+##-[s]……。[n][w][e]-##
+[s]Т瑚看劃…[n][w][e]
+##-[s]Т瑚看劃…[n][w][e]-##
+
+[msg MSG_030 [Шепчущий Студент]]
+[s]ЫДВЖоー! ЧТВカッコВВ竿鼓椅вПЯёбЭм![n][w][e]
+##-[s]ЫДВЖоー![n]ЧТВカッコВВ竿鼓椅вПЯёбЭм![n][w][e]-##
+[s]プリント欣жХЯёбЭл、碁бдНд… "語ьиНд姻ЙбЭ"бд…[n][w][e]
+##-[s]プリント欣жХЯёбЭл、碁бдНд…[n]"語ьиНд姻ЙбЭ"бд…[n][w][e]-##
+[s]恩В誤КカッコНбдУー! 梧ЁД、芥掛竿鼓Й殻慰Ж![n][w][e]
+##-[s]恩В誤КカッコНбдУー![n]梧ЁД、芥掛竿鼓Й殻慰Ж![n][w][e]-##
+[s]АА、ДХм献莞竿鼓…[n][w][e]
+##-[s]АА、ДХм献莞竿鼓…[n][w][e]-##
+
+[msg MSG_031 [Громкий Студент]]
+[s]献莞竿鼓…А、鰻бд。[n][w][e]
+##-[s]献莞竿鼓…А、鰻бд。[n][w][e]-##
+[s]キンビм牙営Юл?[n][w][e]
+##-[s]キンビм牙営Юл?[n][w][e]-##
+
+[msg MSG_032 [Шепчущий Студент]]
+[s]キンビ?[n][w][e]
+##-[s]キンビ?[n][w][e]-##
+[s][f 1 5]潅м医ЛВ臆環[n]護金割雨鴎Ч牙。[n][w][e]
+##-[s][f 1 5]潅м医ЛВ臆環[n]護金割雨鴎Ч牙。[n][w][e]-##
+[s][f 1 5]解吋Лм臆環[n]А、ЫД…[n][w][e]
+##-[s][f 1 5]解吋Лм臆環[n]А、ЫД…[n][w][e]-##
+[s]…бп芥掛竿鼓л![n][w][e]
+##-[s]…бп芥掛竿鼓л![n][w][e]-##
+
+[msg MSG_033 [Шепчущий Студент]]
+[s]Доброе утро. Я всегда такая сонная по утрам[n]в понедельник...[n][w][e]
+##-[s]Good morning. I'm always so drowsy[n]on Monday mornings...[n][w][e]-##
+
+[msg MSG_034 [Громкий Студент]]
+[s]Да, я тоже. Единственное, что вы можете[n]сделать, это проспать первый урок.[n][w][e]
+##-[s]Yeah, me too. The only thing you can do[n]is to sleep through first period.[n][w][e]-##
+[s]Ждать... Завтра у нас утреннее собрание![n][w][e]
+##-[s]Wait... Tomorrow is when we have[n]morning assembly![n][w][e]-##
+
+[msg MSG_035 [Шепчущий Студент]]
+[s]Тьфу... Я слишком ленив для этого. Я просто[n]притворюсь, что не слышал...[n][w][e]
+##-[s]Ughhh... I'm too lazy for that.[n]I'll just pretend I didn't hear...[n][w][e]-##
+
+[msg MSG_036 [臆環м潅]]
+[s]См右、"нКН"бдラーメン蔚й 厩бЭЮПз、ウマЙбЭиー。[n][w][e]
+##-[s]См右、"нКН"бдラーメン蔚й[n]厩бЭЮПз、ウマЙбЭиー。[n][w][e]-##
+
+[msg MSG_037 [臆環м潅]]
+[s]Аー、穎ВЭСжА。 ウマイХВл。[n][w][e]
+##-[s]Аー、穎ВЭСжА。[n]ウマイХВл。[n][w][e]-##
+
+[msg MSG_038 [臆環м潅]]
+[s]刑йスープК駒ウマиЮ。 И右Ё厩бдэ。[n][w][e]
+##-[s]刑йスープК駒ウマиЮ。[n]И右Ё厩бдэ。[n][w][e]-##
+
+[msg MSG_039 [臆環м潅]]
+[s]Аー雲謂н1臼員Й圭館Ю。 ラッキー![n][w][e]
+##-[s]Аー雲謂н1臼員Й圭館Ю。[n]ラッキー![n][w][e]-##
+
+[msg MSG_040 [臆環м潅]]
+[s]マジЙー!? АВвм醐乞、щбжйвьиВ。[n][w][e]
+##-[s]マジЙー!?[n]АВвм醐乞、щбжйвьиВ。[n][w][e]-##
+
+[msg MSG_041 [臆環м潅]]
+[s]И右鰻иВмЙ? АВвбд恐иВЙ、覚蕎餌иЮЬ。[n][w][e]
+##-[s]И右鰻иВмЙ?[n]АВвбд恐иВЙ、覚蕎餌иЮЬ。[n][w][e]-##
+
+[msg MSG_042 [Шепчущий Студент]]
+[s]жДжД[clr 2]赫謂[clr 0]Юлー![n][clr 2]丘橿牙м牙啓[clr 0]捲ьм。[n][w][e]
+##-[s]жДжД[clr 2]赫謂[clr 0]Юлー![n][clr 2]丘橿牙м牙啓[clr 0]捲ьм。[n][w][e]-##
+[s]ЁД壱иьбЯёбЭ。[n][w][e]
+##-[s]ЁД壱иьбЯёбЭ。[n][w][e]-##
+[s]煙陰臆、陰жВВлー。[n][w][e]
+##-[s]煙陰臆、陰жВВлー。[n][w][e]-##
+
+[msg MSG_043 [Громкий Студент]]
+[s]ЫДЮл、カンユーеЁХбЙиー。[n][w][e]
+##-[s]ЫДЮл、カンユーеЁХбЙиー。[n][w][e]-##
+[s]…бд! АЭ、嘩鯉牙еХ![n][w][e]
+##-[s]…бд![n]АЭ、嘩鯉牙еХ![n][w][e]-##
+
+[msg MSG_044 [Шепчущий Студент]]
+[s]Жー、ьЮ煙陰臆е閏иВ?[n][w][e]
+##-[s]Жー、ьЮ煙陰臆е閏иВ?[n][w][e]-##
+[s]ЁД域萱ベンキョー交ЛЭЮЁ。 禽佼м侯、伎ХЭВЁ![n][w][e]
+##-[s]ЁД域萱ベンキョー交ЛЭЮЁ。[n]禽佼м侯、伎ХЭВЁ![n][w][e]-##
+
+[msg MSG_045 [Громкий Студент]]
+[s]О, эй, ты знаешь, что [clr 2]книжный магазин[clr 0] в[n]торговом центре "стрип"? Разве их[n]грандиозное открытие не сегодня?[n][w][e]
+##-[s]Oh hey, you know the [clr 2]bookstore[clr 0] at[n]the strip mall? Isn't their grand reopening[n]today?[n][w][e]-##
+
+[msg MSG_046 [Шепчущий Студент]]
+[s]А? Книжный магазин?[n][w][e]
+##-[s]Huh? A bookstore?[n][w][e]-##
+
+[msg MSG_047 [Громкий Студент]]
+[s]Да, покиньте станцию Иватодай, идите[n]некоторое время прямо, и это после того,[n]как вы перейдете пешеходный переход.[n][w][e]
+##-[s]Yeah, leave Iwatodai Station, go[n]straight for a while, and it's after[n]you cross the crosswalk.[n][w][e]-##
+[s]Мы уже некоторое время учимся в этой[n]школе... Вам следует почаще исследовать[n]окрестности![n][w][e]
+##-[s]We've been at this school for a while...[n]You should explore more often![n][w][e]-##
+
+[msg MSG_048 [Громкий Студент]]
+[s]イービルネットー★ イービルネットー★[n][w][e]
+##-[s]イービルネットー★ イービルネットー★[n][w][e]-##
+[s]雲開Юж院Дж壱КДШН![n][w][e]
+##-[s]雲開Юж院Дж壱КДШН![n][w][e]-##
+
+[msg MSG_049 [Шепчущий Студент]]
+[s]ЫнЯбж烏К干Вネットー★[n][w][e]
+##-[s]ЫнЯбж烏К干Вネットー★[n][w][e]-##
+
+[msg MSG_050 [Громкий Студент]]
+[s]АЭЁネットー★[n][w][e]
+##-[s]АЭЁネットー★[n][w][e]-##
+
+[msg MSG_051 [Шепчущий Студент]]
+[s]Мне кажется, или в последнее время вокруг[n]стало больше странных людей?[n][w][e]
+##-[s]Is it just me, or have there been[n]more weird people around lately?[n][w][e]-##
+
+[msg MSG_052 [Громкий Студент]]
+[s]Вы говорите о Синдроме Апатии, верно? Это[n]есть у моего соседа... Он вызывает у меня[n]отвращение.[n][w][e]
+##-[s]You're talking about the Apathy[n]Syndrome, right? My neighbor has[n]that... He grosses me out.[n][w][e]-##
+[s]Иногда я думаю, что у меня тоже может быть[n]это, и это меня угнетает.[n][w][e]
+##-[s]Sometimes I think I might have it too,[n]and it depresses me.[n][w][e]-##
+
+[msg MSG_053 [Шепчущий Студент]]
+[s]Может быть, тебе просто нужно немного[n]размяться.[n][w][e]
+##-[s]Maybe you just need some exercise.[n][w][e]-##
+[s]Эй, [clr 2]спортивные команды принимают новых[n]членов[clr 0].Может быть, мне стоит[n]присоединиться![n][w][e]
+##-[s]Hey, [clr 2]the athletic teams are accepting[n]new members[clr 0]. Maybe I should join![n][w][e]-##
+
+[msg MSG_054 [Шепчущий Студент]]
+[s]Золотая неделя начинается завтра. У тебя[n]есть какие-нибудь планы?[n][w][e]
+##-[s]Golden Week starts tomorrow.[n]Have you got any plans?[n][w][e]-##
+
+[msg MSG_055 [Громкий Студент]]
+[s]Эх... Не совсем. Но я не собираюсь[n]пропускать завтрашнее шоу![n][w][e]
+##-[s]Ehh... Not really. But I'm not gonna miss[n]tomorrow's show![n][w][e]-##
+
+[msg MSG_056 [Шепчущий Студент]]
+[s]О, да! Ты имеешь в виду [clr 2]Шоу Танаки[clr 0], верно?[n][w][e]
+##-[s]Oh, yeah! You mean [clr 2]Tanaka's show[clr 0],[n]right?[n][w][e]-##
+[s]Когда я слышу этот звон, я не могу[n]удержаться, чтобы что-нибудь не купить...[n][w][e]
+##-[s]When I hear that jingle, I can't resist[n]buying something...[n][w][e]-##
+[s]Я никогда не скучаю по нему, когда он[n]включен [clr 2]Воскресные вечера[clr 0].Я вот-вот[n]разорюсь![n][w][e]
+##-[s]I never miss it when it's on [clr 2]Sunday[n]afternoons[clr 0]. I'm about to go broke![n][w][e]-##
+
+[msg MSG_057 [Шепчущий Студент]]
+[s]лЖлЖカオリЯё、鰻бдЭ?[n][clr 2]雲謂Й館桔牙м牙啓[clr 0]Ю。[n][w][e]
+##-[s]лЖлЖカオリЯё、鰻бдЭ?[n][clr 2]雲謂Й館桔牙м牙啓[clr 0]Ю。[n][w][e]-##
+[s]ЁДзС陰Й岡яЭ?[n][w][e]
+##-[s]ЁДзС陰Й岡яЭ?[n][w][e]-##
+
+[msg MSG_058 [Громкий Студент]]
+[s]А、雲謂ЙЮбП! ьЮ岡ядиВиА…[n][w][e]
+##-[s]А、雲謂ЙЮбП![n]ьЮ岡ядиВиА…[n][w][e]-##
+
+[msg MSG_059 [Шепчущий Студент]]
+[s]ЦёАУ、慶芥牙нзДЙи? カッコВВХ荻臆м候倖йеЛХ、Жーж…[n][w][e]
+##-[s]ЦёАУ、慶芥牙нзДЙи?[n]カッコВВХ荻臆м候倖йеЛХ、Жーж…[n][w][e]-##
+[s]Аб、岡Хд掬楽е襖援бЛ! жЙ 光ЖдиВЙ![n][w][e]
+##-[s]Аб、岡Хд掬楽е襖援бЛ! жЙ[n]光ЖдиВЙ![n][w][e]-##
+
+[msg MSG_060 [Шепчущий Студент]]
+[s]жДжД[clr 2]赫謂[clr 0]Юлー![n][clr 2]館桔牙м牙啓[clr 0]捲ьм。[n][w][e]
+##-[s]жДжД[clr 2]赫謂[clr 0]Юлー![n][clr 2]館桔牙м牙啓[clr 0]捲ьм。[n][w][e]-##
+[s]Аー、иЙソワソワЧ![n][w][e]
+##-[s]Аー、иЙソワソワЧ![n][w][e]-##
+
+[msg MSG_061 [Громкий Студент]]
+[s]Ж、АЭ丘橿牙й陰бЭоЙЦё。 館桔牙Ё陰м?[n][w][e]
+##-[s]Ж、АЭ丘橿牙й陰бЭоЙЦё。[n]館桔牙Ё陰м?[n][w][e]-##
+
+[msg MSG_062 [Шепчущий Студент]]
+[s]Юбд禽佼н荻演ЛЮЁ! 梧Юбд公謂й功Йбд去ЭВЁ![n][w][e]
+##-[s]Юбд禽佼н荻演ЛЮЁ![n]梧Юбд公謂й功Йбд去ЭВЁ![n][w][e]-##
+[s][f 1 5]潅м医ЛВ臆環[n]館桔牙енЭф去иВж院ДПзи…[n][w][e]
+##-[s][f 1 5]潅м医ЛВ臆環[n]館桔牙енЭф去иВж院ДПзи…[n][w][e]-##
+
+[msg MSG_063 [Шепчущий Студент]]
+[s]Утро... Фу, я такая сонная по[n]понедельникам...[n][w][e]
+##-[s]Morning... Ugh, I'm so drowsy[n]on Mondays...[n][w][e]-##
+
+[msg MSG_064 [Громкий Студент]]
+[s]Разве ты не говорил то же самое на прошлой[n]неделе?[n][w][e]
+##-[s]Didn't you say the same thing[n]last week?[n][w][e]-##
+[s]Сегодня что, особое утреннее собрание? Как[n]получилось, что он у нас есть? У нас был[n]только один на прошлой неделе...[n][w][e]
+##-[s]Is that special morning assembly[n]today? How come we're having one?[n]We just had one last week...[n][w][e]-##
+
+[msg MSG_065 [Шепчущий Студент]]
+[s]Помните, какой замечательной была речь[n]Кириджо-семпая на прошлой неделе?[n][w][e]
+##-[s]Remember how great Kirijo-senpai's[n]speech was last week?[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]О да, эта речь была[n]потрясающей! Хотя, я не понимал большую[n]часть этого...[n][w][e]
+##-[s][f 1 5]Громкий Студент[n]Oh yeah, that speech was awesome![n]Although, I didn't understand most[n]of it...[n][w][e]-##
+[s][f 1 5]Сплетничающий Студент[n]Я слышал, что директор[n]приревновал, поэтому он запланировал свою[n]собственную речь, чтобы конкурировать с[n]ней.[n][w][e]
+##-[s][f 1 5]Шепчущий Студент[n]What I heard was, the principal got[n]jealous, so he scheduled his own[n]speech to compete with her.[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Серьезно!? Что с этим такое?[n]Почему мы должны страдать из-за его эго!?[n][w][e]
+##-[s][f 1 5]Громкий Студент[n]Seriously!? What's up with that?[n]Why do we have to suffer because of[n]his ego!?[n][w][e]-##
+
+[msg MSG_066 [Громкий Студент]]
+[s]Ты выглядишь усталой. Ты что, устал от[n]смены часовых поясов или что-то в этом[n]роде?[n][w][e]
+##-[s]You look tired. Are you jet-lagged[n]or something?[n][w][e]-##
+[s]О, подожди, ты никуда не уходил. Я сделал[n]это![n][w][e]
+##-[s]Oh, wait, you didn't go anywhere.[n]I did![n][w][e]-##
+[s]Это отстой! Я все еще не привык к японскому[n]времени![n][w][e]
+##-[s]This sucks! I'm still not used to[n]Japanese time![n][w][e]-##
+
+[msg MSG_067 [Шепчущий Студент]]
+[s]...Неважно.[n][w][e]
+##-[s]...Whatever.[n][w][e]-##
+
+[msg MSG_068 [Громкий Студент]]
+[s]О, не унывай, друг![n][w][e]
+##-[s]Aww, cheer up, friend![n][w][e]-##
+[s]Я купил для тебя кое-что экзотическое, раз[n]уж ты оказалась в ловушке в жаркой, влажной[n]Японии![n][w][e]
+##-[s]I bought something exotic for you,[n]since you were trapped in hot,[n]humid Japan![n][w][e]-##
+[s]Зацените: орехи макадамии![n][w][e]
+##-[s]Check it out: Macadamia nuts![n][w][e]-##
+[s]Гавайи известны ими. Ты знал об этом?[n][w][e]
+##-[s]Hawaii is known for them.[n]Did you know that?[n][w][e]-##
+
+[msg MSG_069 [Громкий Студент]]
+[s]Вчера я услышал от молодого парня в моем[n]клубе, что 10-классники кого-то дразнят.[n][w][e]
+##-[s]I heard from a younger guy in my club[n]yesterday that the 10th-graders[n]are teasing someone.[n][w][e]-##
+
+[msg MSG_070 [Шепчущий Студент]]
+[s]Что, например, издеваться над ним? Бедный[n]ребенок... Как его зовут?[n][w][e]
+##-[s]What, like bullying him?[n]Poor kid... What's his name?[n][w][e]-##
+
+[msg MSG_071 [Громкий Студент]]
+[s]Я не знаю... Все, что я слышал, это то, что[n]это действительно проблема.[n][w][e]
+##-[s]I don't know... All I heard is that[n]it's really a problem.[n][w][e]-##
+[s]Я тоже думал, что в нашей школе все[n]спокойно, но, думаю, это не так уж и много.[n][w][e]
+##-[s]I thought our school was peaceful,[n]too, but I guess it's not so much.[n][w][e]-##
+
+[msg MSG_072 [Шепчущий Студент]]
+[s]Эй, ты слышал? Тот 11-классник...[n][w][e]
+##-[s]Hey, did you hear? That 11th-grader...[n][w][e]-##
+
+[msg MSG_073 [Громкий Студент]]
+[s]О, да! Тот, кто лежал на земле сегодня[n]утром, верно?[n][w][e]
+##-[s]Oh, yeah! The one who was lying on[n]the ground this morning, right?[n][w][e]-##
+[s]Надеюсь, она просто сбежала из дома... Но я[n]чувствую, что это начало чего-то большого.[n][w][e]
+##-[s]I hope she just ran away from home...[n]But I feel like this is the start of[n]something big.[n][w][e]-##
+
+[msg MSG_074 [Шепчущий Студент]]
+[s]Да... Там могут быть репортеры, съемочные[n]группы и все такое. *вздох* Я не хочу иметь[n]с этим дело.[n][w][e]
+##-[s]Yeah... There might be reporters[n]and camera crews and stuff.[n]*sigh* I don't want to deal with it.[n][w][e]-##
+
+[msg MSG_075 [Шепчущий Студент]]
+[s]Вы слышали об этом [clr 2]веб-сайт с просьбой о[n]мести[clr 0]?[n][w][e]
+##-[s]Have you heard of this [clr 2]revenge request[n]website[clr 0]?[n][w][e]-##
+
+[msg MSG_076 [Громкий Студент]]
+[s]Просьба о мести...? Что это такое?[n][w][e]
+##-[s]Revenge request...? What's that?[n][w][e]-##
+
+[msg MSG_077 [Шепчущий Студент]]
+[s]Вы можете написать имя человека, которому[n]хотите отомстить, и бац! Миссия выполнена.[n][w][e]
+##-[s]You can write the person's name you[n]want to get revenge on, and bam![n]Mission accomplished.[n][w][e]-##
+[s]Они говорят, что это гарантированно успешно[n]и полностью анонимно.[n][w][e]
+##-[s]They say it's guaranteed successful,[n]and completely anonymous.[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Серьезно!? Дайте мне[n]URL-адрес! Быстрее![n][w][e]
+##-[s][f 1 5]Громкий Студент[n]Seriously!? Give me the URL! Quick![n][w][e]-##
+[s][f 1 5]Сплетничающий Студент[n]Хорошо... Это всего[n]лишь слухи... Я имею в виду, я не знаю[n]подробностей...[n][w][e]
+##-[s][f 1 5]Шепчущий Студент[n]Well... It's just a rumor...[n]I mean, I don't know the details...[n][w][e]-##
+[s]Почему ты в таком отчаянии...?[n][w][e]
+##-[s]Why are you so desperate...?[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]А? Я не... Я вообще не думаю[n]о мести.[n][w][e]
+##-[s][f 1 5]Громкий Студент[n]Huh? I'm not... I'm not thinking about[n]revenge at all.[n][w][e]-##
+[s][f 1 5]Сплетничающий Студент[n]......[n][w][e]
+##-[s][f 1 5]Шепчущий Студент[n]......[n][w][e]-##
+
+[msg MSG_078 [Шепчущий Студент]]
+[s]Уже почти летние каникулы. Давай поедем[n]куда-нибудь в отпуск![n][w][e]
+##-[s]It's almost summer break. Let's go[n]somewhere for vacation![n][w][e]-##
+
+[msg MSG_079 [Громкий Студент]]
+[s]Звучит круто для меня! Я хочу поехать на[n]море, в горы, куда угодно![n][w][e]
+##-[s]Sounds cool to me! I wanna go to the sea,[n]the mountains, everywhere![n][w][e]-##
+[s]Но до этого... у нас во вторник начинаются[n]экзамены.[n][w][e]
+##-[s]But, before that... we've got finals[n]starting on Tuesday.[n][w][e]-##
+
+[msg MSG_080 [Шепчущий Студент]]
+[s]Фу, я совсем забыл об этом.[n][w][e]
+##-[s]Ugh, I'd forgotten about that.[n][w][e]-##
+[s]Но это означает перерыв после экзаменов! А[n]летние каникулы уже не за горами![n][w][e]
+##-[s]But that means a break after the exams![n]And summer vacation is just around[n]the corner![n][w][e]-##
+
+[msg MSG_081 [Шепчущий Студент]]
+[s]Утренний восход солнца так освежает![n]Солнечный свет, отражающийся от окон,[n]прекрасен![n][w][e]
+##-[s]The morning sunrise is so refreshing![n]The sunlight reflecting off the windows[n]is beautiful![n][w][e]-##
+
+[msg MSG_082 [Громкий Студент]]
+[s]Это потому, что здание было построено не[n]так давно, так что все еще блестит.[n][w][e]
+##-[s]It's because the building wasn't built[n]that long ago, so everything is still[n]gleaming.[n][w][e]-##
+[s]Знаете, я слышал от своих родителей, что[n]здесь 10 лет назад произошел взрыв.[n][w][e]
+##-[s]You know, I heard from my parents[n]there was an explosion here[n]10 years ago.[n][w][e]-##
+[s]После этого они заменили здание, но...[n][w][e]
+##-[s]They replaced the building after that,[n]but...[n][w][e]-##
+[s]И это еще не все.[n][w][e]
+##-[s]There's more to it, too.[n][w][e]-##
+[s]Примерно в то же время многие ученики[n]перестали ходить в школу.[n][w][e]
+##-[s]Around that time, a lot of students[n]stopped coming to school.[n][w][e]-##
+[s]Может быть, именно поэтому они построили[n]новое здание... Начать с чистого листа...[n][w][e]
+##-[s]Maybe that's why they put up the[n]new building... To start with a clean[n]slate...[n][w][e]-##
+
+[msg MSG_083 [Шепчущий Студент]]
+[s]Взрыв!?[n][w][e]
+##-[s]An explosion!?[n][w][e]-##
+[s]Кто-то напортачил в химической лаборатории[n]или что-то в этом роде? Должно быть, это[n]была опасная лекция...[n][w][e]
+##-[s]Did someone screw up in chem lab[n]or something? That must have been[n]a dangerous lecture...[n][w][e]-##
+
+[msg MSG_084 [Шепчущий Студент]]
+[s]Эй, давай поедем в отпуск вместе. Летние[n]каникулы начинаются завтра![n][w][e]
+##-[s]Hey, let's go on vacation together.[n]Summer break starts tomorrow![n][w][e]-##
+[s]Чистый, голубой океан... Мягкий белый[n]песок... Эти сладкие, сладкие тропические[n]фрукты! Это будет здорово![n][w][e]
+##-[s]The clear, blue ocean... The soft,[n]white sand... Those sweet, sweet[n]tropical fruits! It'll be great![n][w][e]-##
+[s]Может быть, какая-нибудь островная красотка[n]пригласит нас потусоваться - или пригласит[n]на ужин![n][w][e]
+##-[s]Maybe some island hottie will ask[n]us to hang out--or invite us to[n]dinner![n][w][e]-##
+
+[msg MSG_085 [Громкий Студент]]
+[s]Я думаю, ты все неправильно понял...[n][w][e]
+##-[s]I think you've got it wrong...[n][w][e]-##
+[s]Серый, облачный океан; грязный, влажный[n]песок; серферы с растрепанными волосами...[n]Ты это имеешь в виду?[n][w][e]
+##-[s]The gray, cloudy ocean; the filthy,[n]damp sand; the ratty-haired[n]surfers... Is that what you mean?[n][w][e]-##
+[s]Нет, Окинава была бы великолепна. Но зачем[n]оставаться в Японии?[n][w][e]
+##-[s]Nah, Okinawa would be great.[n]But why stay in Japan?[n][w][e]-##
+
+[msg MSG_086 [Шепчущий Студент]]
+[s]Потому что у тебя только что был тяжелый[n]разрыв! Японский океан был бы идеальным для[n]вас![n][w][e]
+##-[s]Cause you just had a bad breakup![n]The Japanese ocean would be perfect[n]for you![n][w][e]-##
+[s][f 1 5]Громкий Студент[n]А? Я ни с кем не[n]расставалась.[n][w][e]
+##-[s][f 1 5]Громкий Студент[n]Huh? I didn't break up with anyone.[n][w][e]-##
+
+[msg MSG_087 [Шепчущий Студент]]
+[s]Эй, ты слышал?![n][w][e]
+##-[s]Hey, did you hear!?[n][w][e]-##
+[s]Юкари собирается нарядиться горничной для[n]кафе на Фестивале культуры![n][w][e]
+##-[s]Юкари is going to dress up as a maid[n]for a cafe in the Culture Festival![n][w][e]-##
+
+[msg MSG_088 [Громкий Студент]]
+[s]Подожди, ты серьезно?! Почему? Что[n]случилось?[n][w][e]
+##-[s]Wait, are you serious!?[n]Why? What happened?[n][w][e]-##
+
+[msg MSG_089 [Шепчущий Студент]]
+[s]Она вытянула короткую соломинку в Клубе[n]лучников![n][w][e]
+##-[s]She drew the short straw in the[n]Archery Club![n][w][e]-##
+[s]Она разозлится, но это еще одна причина[n]заглянуть в кафе![n][w][e]
+##-[s]She's gonna be pissed, but that's[n]all the more reason to check out[n]the cafe![n][w][e]-##
+
+[msg MSG_090 [Шепчущий Студент]]
+[s]Промежуточные экзамены начинаются в[n]следующий вторник. Математика убивает[n]меня...[n][w][e]
+##-[s]Midterms start next Tuesday.[n]Math is killing me...[n][w][e]-##
+[s]Синус! Косинус! Касательная![n][w][e]
+##-[s]Sine! Cosine! Tangent![n][w][e]-##
+
+[msg MSG_091 [Громкий Студент]]
+[s]Мегидо! Мегидола! Мегидолаон![n][w][e]
+##-[s]Megido! Megidola! Megidolaon![n][w][e]-##
+
+[msg MSG_092 [Шепчущий Студент]]
+[s]Синус! Косинус! Тангентон![n][w][e]
+##-[s]Sine! Cosine! Tangenton![n][w][e]-##
+
+[msg MSG_093 [Шепчущий Студент]]
+[s]Ты слышал...?[n][w][e]
+##-[s]Did you hear...?[n][w][e]-##
+
+[msg MSG_094 [Громкий Студент]]
+[s]О президенте Студенческого совета? Я[n]слышал, что ее отец скончался от своей[n]болезни...[n][w][e]
+##-[s]About the Student Council President?[n]I heard her dad passed away from[n]his illness...[n][w][e]-##
+[s]Держу пари, трудно жить без своих[n]родителей...[n][w][e]
+##-[s]I bet it's tough to live without[n]your parents...[n][w][e]-##
+
+[msg MSG_095 [Шепчущий Студент]]
+[s]Да, я знаю... Я думаю, что помогу маме[n]приготовить ужин, когда вернусь домой...[n][w][e]
+##-[s]Yeah, I know... I think I'll help my mom[n]cook dinner when I go back home...[n][w][e]-##
+
+[msg MSG_096 [Шепчущий Студент]]
+[s]*вздох* После выходного дня в понедельник у[n]нас есть [clr 2]Карьерный Опыт[clr 0] начиная со[n]вторника...[n][w][e]
+##-[s]*sigh* After the day off on Monday,[n]we've got [clr 2]Career Experience[clr 0] starting[n]on Tuesday...[n][w][e]-##
+[s]Где они заставили тебя работать?[n][w][e]
+##-[s]Where have they got you working?[n][w][e]-##
+
+[msg MSG_097 [Громкий Студент]]
+[s]Во вторник и среду у меня работа на[n]стройке. А в четверг и пятницу я на[n]заправке...[n][w][e]
+##-[s]Tuesday and Wednesday, I've got[n]a construction job. And on Thursday[n]and Friday, I'm at a gas station...[n][w][e]-##
+
+[msg MSG_098 [Шепчущий Студент]]
+[s]Это так же плохо, как и у меня... Я буду[n]собирать пустые банки.[n][w][e]
+##-[s]That's just as bad as mine...[n]I'll be picking up empty cans.[n][w][e]-##
+
+[msg MSG_099 [Шепчущий Студент]]
+[s]Доброе утро! Сегодня холодно, но это того[n]стоит для завтрашних зимних каникул![n][w][e]
+##-[s]Morning! It's cold today, but it's worth it[n]for winter vacation tomorrow![n][w][e]-##
+[s]Что ты получишь в подарок на Новый год?[n][w][e]
+##-[s]What are you getting with your[n]New Year's gift?[n][w][e]-##
+
+[msg MSG_100 [Громкий Студент]]
+[s]У нас еще нет своего![n][w][e]
+##-[s]We haven't got ours yet![n][w][e]-##
+[s]Но я хочу получить сумку на удачу! Я целюсь[n]в эту сумочку...[n][w][e]
+##-[s]But I want to get a lucky bag![n]I'm aiming for that purse...[n][w][e]-##
+
+[msg MSG_101 [Шепчущий Студент]]
+[s]О, я тоже! Эй, ты хочешь начать стоять в[n]очереди сегодня? Мы могли бы взять с собой[n]котацу...[n][w][e]
+##-[s]Ooh, me too! Hey, do you want to[n]start waiting in line today?[n]We could bring a kotatsu...[n][w][e]-##
+
+[msg MSG_102 [Шепчущий Студент]]
+[s]Эй, ты слышал об этом культе?[n][w][e]
+##-[s]Hey, have you heard of this cult?[n][w][e]-##
+
+[msg MSG_103 [Громкий Студент]]
+[s]Эй, не называй это так, если ты ничего об[n]этом не знаешь. Грядет осень, все уже[n]решено.[n][w][e]
+##-[s]Hey, don't call it that if you don't[n]know anything about it. The Fall is[n]coming; it's already decided.[n][w][e]-##
+
+[msg MSG_104 [Шепчущий Студент]]
+[s]О... Что ж, если это уже решено, то ничего[n]не поделаешь.[n][w][e]
+##-[s]Oh... Well, if it's already decided,[n]then it can't be helped.[n][w][e]-##
+[s]Кстати, о домашнем задании на второй[n]урок...[n][w][e]
+##-[s]By the way, about the homework for[n]second period...[n][w][e]-##
+
+[msg MSG_105 [Шепчущий Студент]]
+[s]Наша консультация по вопросам карьеры[n]состоится на следующей неделе, верно? Ты[n]планируешь поступить в университет, Юми?[n][w][e]
+##-[s]Our Career Counseling is next[n]week, right? Are you planning to[n]go to a university, Yumi?[n][w][e]-##
+
+[msg MSG_106 [Громкий Студент]]
+[s]Ага! Я собираюсь учиться за границей![n][w][e]
+##-[s]Yup! I'm going to school overseas![n][w][e]-##
+
+[msg MSG_107 [Шепчущий Студент]]
+[s]За кадром...? Это первый раз, когда я слышу[n]об этом...![n][w][e]
+##-[s]Overs...? This is the first[n]I've heard about this...![n][w][e]-##
+[s]Я-я твой парень...! Ты должен рассказать[n]мне все это![n][w][e]
+##-[s]I-I'm your boyfriend...![n]You have to tell me this stuff![n][w][e]-##
+
+[msg MSG_108 [Шепчущий Студент]]
+[s]Хороший м... Что случилось? У тебя красные[n]глаза...[n][w][e]
+##-[s]Good m... What happened?[n]Your eyes are red...[n][w][e]-##
+
+[msg MSG_109 [Громкий Студент]]
+[s]Да... Ты же знаешь, что сегодня[n]Консультирование по вопросам карьеры,[n]верно? Я поссорился из-за этого с[n]родителями...[n][w][e]
+##-[s]Yeah... You know Career Counseling[n]is today, right? I got into a fight[n]with my parents about it...[n][w][e]-##
+[s]Я хочу стать знаменитым укротителем змей![n]Но они категорически против этого...[n][w][e]
+##-[s]I want to be a famous snake handler![n]But they're dead set against it...[n][w][e]-##
+
+[msg MSG_110 [Шепчущий Студент]]
+[s]Что ж, я понимаю их точку зрения. Это[n]довольно безрассудная работа...[n][w][e]
+##-[s]Well, I can see their point.[n]It's a pretty reckless job...[n][w][e]-##
+
+[msg MSG_111 [Шепчущий Студент]]
+[s]Я прекрасно себя чувствую в этой летней[n]одежде![n][w][e]
+##-[s]I feel great in this Summer Wear![n][w][e]-##
+
+[msg MSG_112 [Громкий Студент]]
+[s]Хм...? Ты чувствуешь какой-то странный[n]запах?[n][w][e]
+##-[s]Hmm...? Do you smell something[n]weird?[n][w][e]-##
+
+[msg MSG_113 [Шепчущий Студент]]
+[s]О... Ты можешь сказать?[n][w][e]
+##-[s]Oh... You can tell?[n][w][e]-##
+[s]Я забыл сначала отдать его в химчистку...[n][w][e]
+##-[s]I forgot to have it dry-cleaned[n]first...[n][w][e]-##
+
+[msg MSG_114 [Шепчущий Студент]]
+[s]С этого момента мы должны носить зимнюю[n]одежду... Он такой тяжелый, что у меня[n]болят плечи.[n][w][e]
+##-[s]We have to wear winter wear[n]from now on... It's so heavy,[n]my shoulders hurt.[n][w][e]-##
+[s]Но я заглянул в карман и нашел потерянную[n]вещь![n][w][e]
+##-[s]But I looked in the pocket, and[n]I found a lost possession![n][w][e]-##
+
+[msg MSG_115 [Громкий Студент]]
+[s]У меня тоже болели плечи....[n][w][e]
+##-[s]My shoulders hurt too....[n][w][e]-##
+[s]Плюс, я слышу странные голоса... И у меня[n]болит голова...[n][w][e]
+##-[s]Plus, I hear weird voices...[n]And I've got a headache...[n][w][e]-##
+
+[msg MSG_116 [Шепчущий Студент]]
+[s]...П-Обладание...![n][w][e]
+##-[s]...P-Possession...![n][w][e]-##
+
+[msg MSG_117 [Шепчущий Студент]]
+[s]Эй, послушай это.[n][w][e]
+##-[s]Hey, listen to this.[n][w][e]-##
+[s]В последний раз, когда я гуляла со своим[n]парнем, он направлялся на бульвар Сиракава![n][w][e]
+##-[s]Last time I was out with my boyfriend,[n]he was heading to Shirakawa Boulevard![n][w][e]-##
+
+[msg MSG_118 [Громкий Студент]]
+[s]Ого, бульвар Сиракава? Фу-у-у... Я знаю,[n]что было у него на уме![n][w][e]
+##-[s]Whoa, Shirakawa Boulevard? Ewww...[n]I know what was on his mind![n][w][e]-##
+
+[msg MSG_119 [Шепчущий Студент]]
+[s]Мы только начали встречаться, но мне уже[n]немного противно. У него такие грязные[n]мысли...[n][w][e]
+##-[s]We've just started dating, but I'm[n]already kind of disgusted. He's got[n]such a dirty mind...[n][w][e]-##
+[s]Может быть, мне следует бросить его.[n][w][e]
+##-[s]Maybe I should dump him.[n][w][e]-##
+[s]Я не хочу быть объектом одного из тех[n]слухов, которые гласят: "Пара была найдена[n]без сознания..."[n][w][e]
+##-[s]I don't want to be the subject of[n]one of those rumors that goes,[n]"A couple was found unconscious..."[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Ха-ха! Это было бы здорово![n][w][e]
+##-[s][f 1 5]Громкий Студент[n]Hahah! That'd be great![n][w][e]-##
+
+[msg MSG_120 [Шепчущий Студент]]
+[s]* вздох* [clr 2]Финалы начнутся завтра[clr 0]...Я[n]чувствую, что мы только что закончили[n]экзамены некоторое время назад.[n][w][e]
+##-[s]*sigh* [clr 2]Finals start tomorrow[clr 0]...[n]I feel like we just finished exams[n]a little while ago.[n][w][e]-##
+
+[msg MSG_121 [Громкий Студент]]
+[s]Что я буду делать, если снова потерплю[n]неудачу? Я бы хотел, чтобы школа не[n]публиковала наши имена...[n][w][e]
+##-[s]What am I going to do if I fail again?[n]I wish the school wouldn't post[n]our names...[n][w][e]-##
+
+[msg MSG_122 [Шепчущий Студент]]
+[s]Да, это самое худшее. Ты получаешь плохую[n]оценку, и все смотрят на тебя так, будто[n]твоя собака только что умерла...[n][w][e]
+##-[s]Yeah, that's the worst part. You get[n]a bad grade, and everyone looks at you[n]like your dog just died...[n][w][e]-##
+
+[msg MSG_123 [Шепчущий Студент]]
+[s]Посмотри на солнце в этом небе! Всегда так[n]ясно сразу после того, как проходит тайфун![n][w][e]
+##-[s]Look at the sun in that sky![n]It's always so clear just after[n]a typhoon passes![n][w][e]-##
+
+[msg MSG_124 [Громкий Студент]]
+[s]Да, тайфун прошел! Теперь мне больше[n]никогда не придется об этом беспокоиться![n][w][e]
+##-[s]Yeah, the typhoon's gone![n]Now I don't have to worry about[n]it ever again![n][w][e]-##
+
+[msg MSG_125 [Шепчущий Студент]]
+[s]Ммм... Это не значит, что никогда не будет[n]другого тайфуна...[n][w][e]
+##-[s]Ummm... It's not like there won't[n]ever be another typhoon...[n][w][e]-##
+
+[msg MSG_126 [Шепчущий Студент]]
+[s]Эй, ты не видел переводного ученика из[n]класса 2-F? Разве он не красив?[n][w][e]
+##-[s]Hey, have you seen the transfer student[n]in Class 2-F? Isn't he handsome?[n][w][e]-##
+
+[msg MSG_127 [Громкий Студент]]
+[s]О да, я так и сделал! Реджи, верно? Он[n]добрый, красивый И богатый![n][w][e]
+##-[s]Oh yeah, I did! Ryoji, right?[n]He's kind, handsome, AND rich![n][w][e]-##
+[s]На этот раз я пойду за ним по-настоящему![n][w][e]
+##-[s]I'm going for him for real this time![n][w][e]-##
+
+[msg MSG_128 [Шепчущий Студент]]
+[s]Это... это несправедливо! Я позвонил чур![n][w][e]
+##-[s]Th-That's not fair! I called dibs![n][w][e]-##
+
+[msg MSG_129 [Шепчущий Студент]]
+[s]Поездка в Киото почти началась.[n][w][e]
+##-[s]The Kyoto trip is almost here.[n][w][e]-##
+[s]Меня не очень волнуют святыни, но я все еще[n]в восторге от этого![n][w][e]
+##-[s]I don't care much about shrines, but[n]I'm still excited about it![n][w][e]-##
+
+[msg MSG_130 [Громкий Студент]]
+[s]Я тоже! Я хочу видеть оленей, оленей и[n]оленей![n][w][e]
+##-[s]Me too! I want to see deers,[n]deers, and deers![n][w][e]-##
+
+[msg MSG_131 [Шепчущий Студент]]
+[s]Просто олени, а?.. Подожди, ты думаешь о[n]Наре...[n][w][e]
+##-[s]Just deers, eh...?[n]Wait, you're thinking of Nara...[n][w][e]-##
+
+[msg MSG_132 [Шепчущий Студент]]
+[s]Завтра школьная поездка! Ты собрала свои[n]вещи?[n][w][e]
+##-[s]Tomorrow's the school trip![n]Have you packed your things?[n][w][e]-##
+
+[msg MSG_133 [Громкий Студент]]
+[s]Конечно! Юката, купальный костюм, фонарик,[n]закуски...[n][w][e]
+##-[s]Of course! Yukata, bathing suit,[n]flashlight, snacks...[n][w][e]-##
+[s]И... И моя шахматная доска.[n][w][e]
+##-[s]A-And my checkerboard.[n][w][e]-##
+
+[msg MSG_134 [Шепчущий Студент]]
+[s]...Вы ведь не путешествуете налегке, не так[n]ли?[n][w][e]
+##-[s]...You don't travel light, do you?[n][w][e]-##
+
+[msg MSG_135 [Шепчущий Студент]]
+[s]В последнее время даже в ночных комедийных[n]шоу говорят о конце света... Это кажется[n]жутким.[n][w][e]
+##-[s]Lately, even the late-night comedy[n]shows have been talking about the[n]end of the world... It feels creepy.[n][w][e]-##
+
+[msg MSG_136 [Громкий Студент]]
+[s]Ты все еще говоришь об этом?[n][w][e]
+##-[s]Are you still talking about that?[n][w][e]-##
+[s]Кстати... Я хотел показать вам этот журнал,[n]который сегодня появился на прилавках.[n][w][e]
+##-[s]By the way... I wanted to show you[n]this magazine that hit the stands today.[n][w][e]-##
+
+[msg MSG_137 [Шепчущий Студент]]
+[s]Журнал...? Только не говори мне, что это[n]из-за культов.[n][w][e]
+##-[s]Magazine...? Don't tell me it's about cults.[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Что ж, просто прочтите это[n]сами. Вы увидите, насколько это правда на[n]самом деле.[n][w][e]
+##-[s][f 1 5]Громкий Студент[n]Well, just read it for yourself.[n]You'll see how true it really is.[n][w][e]-##
+
+[msg MSG_138 [Шепчущий Студент]]
+[s]Эй, ты слышал, что есть[n][clr 2]открытия в[n]культурных клубах[clr 0]?[n][w][e]
+##-[s]Hey, did you hear there are[n][clr 2]openings in the Culture Clubs[clr 0]?[n][w][e]-##
+
+[msg MSG_139 [Громкий Студент]]
+[s]Действительно? Я думаю, что некоторые[n]студенты перевелись...[n][w][e]
+##-[s]Really? I guess some students[n]transferred out...[n][w][e]-##
+[s]Но это звучит интересно. Я устал идти прямо[n]домой без внеклассных занятий...[n][w][e]
+##-[s]But it sounds interesting. I'm tired[n]of going straight home with no[n]extracurriculars...[n][w][e]-##
+
+[msg MSG_140 [Шепчущий Студент]]
+[s]Давай проверим это после школы.[n][w][e]
+##-[s]Let's go check it out after school.[n][w][e]-##
+
+[msg MSG_141 [Шепчущий Студент]]
+[s]Компания Кириджо вчера снова была в[n]новостях.[n][w][e]
+##-[s]The Kirijo Company was in the news[n]again yesterday.[n][w][e]-##
+
+[msg MSG_142 [Громкий Студент]]
+[s]Кириджо...? Президент Студенческого совета?[n][w][e]
+##-[s]Kirijo...? The Student Council President?[n][w][e]-##
+[s]Вы знаете, компания Кириджо построила всю[n]эту школу.[n][w][e]
+##-[s]You know, the Kirijo Company built this[n]whole school.[n][w][e]-##
+
+[msg MSG_143 [Шепчущий Студент]]
+[s]Интересно, как такая крупная компания[n]получила контракт на строительство школы?..[n][w][e]
+##-[s]I wonder how a company that big was[n]contracted to build a school...[n][w][e]-##
+
+[msg MSG_144 [Шепчущий Студент]]
+[s]О, мой учитель рассказал мне о Мицуру[n]Киридзе, президенте Школьного совета.[n][w][e]
+##-[s]Oh, my teacher told me about Мицуру[n]Kirijo, the Student Council President.[n][w][e]-##
+[s]Она уезжает за границу после окончания[n]школы. Вероятно, для того, чтобы позже она[n]могла управлять компанией Кириджо...[n][w][e]
+##-[s]She's going overseas after she[n]graduates. Probably so she can run[n]the Kirijo Company later...[n][w][e]-##
+
+[msg MSG_145 [Громкий Студент]]
+[s]Ух ты, это безумие. Она так отличается от[n]нас...[n][w][e]
+##-[s]Wow, that's crazy.[n]She's so different from us...[n][w][e]-##
+
+[msg MSG_146 [Шепчущий Студент]]
+[s]Самое смешное, я слышал, что она все еще[n]живет в общежитии. Интересно, почему?..[n][w][e]
+##-[s]The funny thing is, I hear she still lives[n]in the dorms. I wonder why...[n][w][e]-##
+[s]Может быть, ее родители были строгими,[n]когда она росла.[n][w][e]
+##-[s]Maybe her parents were strict when[n]she was growing up.[n][w][e]-##
+
+[msg MSG_147 [Шепчущий Студент]]
+[s]Эй, ты слышал обо всех тех людях, которых[n]недавно нашли без сознания?[n][w][e]
+##-[s]Hey, did you hear about all those people[n]who were found unconscious recently?[n][w][e]-##
+[s]Я думаю, они все были парами.[n][w][e]
+##-[s]I guess they were all in pairs.[n][w][e]-##
+
+[msg MSG_148 [Громкий Студент]]
+[s]Что, как будто они пытались совершить[n]двойное самоубийство?[n][w][e]
+##-[s]What, like they were attempting[n]a double suicide?[n][w][e]-##
+
+[msg MSG_149 [Шепчущий Студент]]
+[s]Я не знаю. Но если бы я мог упасть в[n]обморок с кем-то, кто мне нравится, я бы не[n]возражал быть без сознания![n][w][e]
+##-[s]I don't know. But if I could pass out[n]with someone I liked, I wouldn't mind[n]being unconscious![n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Я бы возражал![n][w][e]
+##-[s][f 1 5]Громкий Студент[n]I would mind![n][w][e]-##
+
+[msg MSG_150 [Шепчущий Студент]]
+[s]Доброе утро... Летние каникулы[n]закончились...[n][w][e]
+##-[s]Good morning... Summer vacation[n]is over...[n][w][e]-##
+
+[msg MSG_151 [Громкий Студент]]
+[s]Да... Я не в настроении быть здесь. Я[n]просто хочу развернуться и вернуться в[n]постель...[n][w][e]
+##-[s]Yeah... I'm in no mood to be here.[n]I just want to turn around and head[n]back to bed...[n][w][e]-##
+
+[msg MSG_152 [Шепчущий Студент]]
+[s]Хех, у тебя может развиться Синдром[n]Апатии... Тогда тебе не пришлось бы ни о[n]чем беспокоиться.[n][w][e]
+##-[s]Heh, you might come down with that[n]Apathy Syndrome... Then you wouldn't[n]have to worry about anything.[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Неееет! Ты что, издеваешься[n]надо мной?![n][w][e]
+##-[s][f 1 5]Громкий Студент[n]Noooo! Are you kidding me!?[n][w][e]-##
+[s]Хотя, если подумать, это звучит не так уж[n]плохо. Может быть, я попробую это сделать.[n][w][e]
+##-[s]Although, come to think of it, it doesn't[n]sound too bad. Maybe I'll try it.[n][w][e]-##
+[s][f 1 5]Сплетничающий Студент[n]Ха-ха! Ты серьезно?[n][w][e]
+##-[s][f 1 5]Шепчущий Студент[n]Hahah! Are you serious?[n][w][e]-##
+
+[msg MSG_153 [Шепчущий Студент]]
+[s]Что твой класс собирается делать на[n]Фестивале культуры?[n][w][e]
+##-[s]What is your class gonna do for[n]the Culture Festival?[n][w][e]-##
+
+[msg MSG_154 [Громкий Студент]]
+[s]Дом с привидениями. Держу пари, мне[n]придется играть роль призрака.[n][w][e]
+##-[s]A haunted house. I bet I'll be stuck[n]playing the ghost.[n][w][e]-##
+
+[msg MSG_155 [Шепчущий Студент]]
+[s]Быть призраком не так уж и плохо. Ты можешь[n]просто прийти и надеть костюм. Я должен[n]сделать волшебное шоу...[n][w][e]
+##-[s]Being a ghost isn't so bad. You can[n]just show up and put on the costume.[n]I have to do a magic show...[n][w][e]-##
+[s]Кстати, вы слышали, что тайфун уже в пути?[n]Я слышал, что это большое дело... Школа[n]будет пуста.[n][w][e]
+##-[s]By the way, did you hear a typhoon[n]is on its way? I hear it's a big one...[n]The school will be empty.[n][w][e]-##
+
+[msg MSG_156 [Шепчущий Студент]]
+[s]Я слышал, что надвигается ужасный тайфун.[n]Ты думаешь, у нас все еще будет Фестиваль[n]культуры в субботу?[n][w][e]
+##-[s]I heard there's a nasty typhoon on[n]the way. You think we'll still have[n]the Culture Festival on Saturday?[n][w][e]-##
+
+[msg MSG_157 [Громкий Студент]]
+[s]Нет, я так не думаю. Судя по тому, как они[n]говорят, тайфун будет слишком[n]разрушительным.[n][w][e]
+##-[s]Nah, I don't think so. The way[n]they're talking, the typhoon's[n]going to be way too destructive.[n][w][e]-##
+
+[msg MSG_158 [Шепчущий Студент]]
+[s]Это нехорошо. Я надеюсь, что Япония не[n]станет подводной страной...[n][w][e]
+##-[s]That's not good. I hope Japan doesn't[n]become an undersea country...[n][w][e]-##
+
+[msg MSG_159 [Шепчущий Студент]]
+[s]Эти инциденты с людьми, находящимися в[n]бессознательном состоянии... Мне кажется,[n]или им действительно становится хуже?[n][w][e]
+##-[s]Those incidents with the unconscious[n]people... Is it me, or do they seem[n]to be getting worse?[n][w][e]-##
+
+[msg MSG_160 [Громкий Студент]]
+[s]Нет, дело не только в тебе... Они[n]определенно находятся на подъеме.[n][w][e]
+##-[s]No, it's not just you... They're[n]definitely on the rise.[n][w][e]-##
+
+[msg MSG_161 [Шепчущий Студент]]
+[s]Это тоже во всех новостях. Все это[n]заставляет меня чувствовать себя неловко...[n][w][e]
+##-[s]It's all over the news, too. The whole[n]thing makes me uncomfortable...[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Что, если это начнет[n]происходить по всему миру...?[n][w][e]
+##-[s][f 1 5]Громкий Студент[n]What if it started happening[n]all over the world...?[n][w][e]-##
+[s][f 1 5]Сплетничающий Студент[n]Эй, не говори таких[n]вещей...[n][w][e]
+##-[s][f 1 5]Шепчущий Студент[n]H-Hey, don't say stuff like that...[n][w][e]-##
+
+[msg MSG_162 [Шепчущий Студент]]
+[s]Последний человек, который потерял[n]сознание, был прямо по соседству с моим[n]районом...[n][w][e]
+##-[s]The latest person to pass out was[n]right around my neighborhood...[n][w][e]-##
+
+[msg MSG_163 [Громкий Студент]]
+[s]В моем районе тоже было несколько таких.[n]Мне страшно...[n][w][e]
+##-[s]There've been a few around my[n]neighborhood, too. I'm scared...[n][w][e]-##
+
+[msg MSG_164 [Шепчущий Студент]]
+[s]По телевизору сказали, что это не заразно,[n]но я чувствую, что это признак конца[n]света...[n][w][e]
+##-[s]They said on TV that it's not[n]contagious, but I feel like it's[n]a sign of the end of the world...[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Ч-Что...? Не говори так![n][w][e]
+##-[s][f 1 5]Громкий Студент[n]Wh-What...? Don't say that![n][w][e]-##
+
+[msg MSG_165 [Шепчущий Студент]]
+[s]Они появляются повсюду, не так ли?[n][w][e]
+##-[s]They're popping up all over,[n]aren't they?[n][w][e]-##
+
+[msg MSG_166 [Громкий Студент]]
+[s]Люди с синдромом апатии? Да, так и есть.[n]Друг брата моей подруги тоже один из них.[n][w][e]
+##-[s]The people with Apathy Syndrome?[n]Yeah, they are. My friend's brother's[n]friend is one too.[n][w][e]-##
+
+[msg MSG_167 [Шепчущий Студент]]
+[s]Это начинает становиться серьезной[n]проблемой.[n][w][e]
+##-[s]It's starting to be a serious problem.[n][w][e]-##
+[s]Теперь это каждый день показывают в[n]новостях. О, и вы видели специальную[n]программу, которую они запустили?[n][w][e]
+##-[s]It's on the news every day now.[n]Oh, and did you see the special[n]program they ran?[n][w][e]-##
+[s]Нострадамус действительно предсказал все[n]это![n][w][e]
+##-[s]Nostradamus actually predicted all of this![n][w][e]-##
+
+[msg MSG_168 [Шепчущий Студент]]
+[s]Боже... Они тоже нашли кого-то с синдромом[n]апатии в моей начальной школе. Они повсюду.[n][w][e]
+##-[s]Geez... They found someone with[n]Apathy Syndrome at my cram school,[n]too. They're all over the place.[n][w][e]-##
+
+[msg MSG_169 [Громкий Студент]]
+[s]Вы знаете, я слышал, что проблема не[n]ограничивается только этим городом. Это[n]происходит повсюду.[n][w][e]
+##-[s]You know, I hear the problem isn't[n]just limited to this city. It's happening[n]everywhere.[n][w][e]-##
+
+[msg MSG_170 [Шепчущий Студент]]
+[s]Интересно, что будет с этой страной?..[n][w][e]
+##-[s]I wonder what's going to happen[n]to this country...[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Н-Не говори "эта страна"...![n][w][e]
+##-[s][f 1 5]Громкий Студент[n]D-Don't say "this country"...![n][w][e]-##
+
+[msg MSG_171 [Шепчущий Студент]]
+[s]Эй, хорошие новости! Хочешь это услышать? Я[n]знаю, что ты любишь![n][w][e]
+##-[s]Hey, good news! Wanna hear it?[n]I know you do![n][w][e]-##
+[s]Я слышал, что парень, который сегодня[n]переводится сюда, - жеребец![n][w][e]
+##-[s]I heard the boy who's transferring here[n]today is a stud![n][w][e]-##
+
+[msg MSG_172 [Громкий Студент]]
+[s]Действительно? Ты просто издеваешься надо[n]мной?[n][w][e]
+##-[s]Really? Are you just messing with me?[n][w][e]-##
+
+[msg MSG_173 [Шепчущий Студент]]
+[s]Нет! Я слышал это от кого-то, кто видел,[n]как он заполнял бланки.[n][w][e]
+##-[s]No! I heard it from someone who saw him[n]filling out the forms.[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Какой класс!?[n][w][e]
+##-[s][f 1 5]Громкий Студент[n]Which class!?[n][w][e]-##
+[s][f 1 5]Сплетничающий Студент[n]11-й класс, Класс F.[n][w][e]
+##-[s][f 1 5]Шепчущий Студент[n]11th grade, Classroom F.[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]О... Что ж, это[n]разочаровывает. Но я пойду проверю его[n]позже![n][w][e]
+##-[s][f 1 5]Громкий Студент[n]Oh... Well, that's disappointing.[n]But I'll go check him out later![n][w][e]-##
+
+[msg MSG_174 [Шепчущий Студент]]
+[s]Я слышал, как некоторые люди говорили, что[n]синдром апатии - это не о чем беспокоиться.[n][w][e]
+##-[s]I heard some people saying that[n]Apathy Syndrome is nothing to[n]worry about.[n][w][e]-##
+
+[msg MSG_175 [Громкий Студент]]
+[s]Я слышал то же самое. Это успокаивает[n]людей, верно?[n][w][e]
+##-[s]I heard the same thing.[n]It puts people at ease, right?[n][w][e]-##
+
+[msg MSG_176 [Шепчущий Студент]]
+[s]Да... Для меня это определенно имеет[n]значение. Ты думаешь, это какая-то новая[n]религия?[n][w][e]
+##-[s]Yeah... It certainly does for me.[n]You think it's some new religion?[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Что, ты принимаешь это[n]всерьез?[n][w][e]
+##-[s][f 1 5]Громкий Студент[n]What, are you taking this seriously?[n][w][e]-##
+[s][f 1 5]Сплетничающий Студент[n]О-Конечно, нет![n][w][e]
+##-[s][f 1 5]Шепчущий Студент[n]O-Of course not![n][w][e]-##
+
+[msg MSG_177 [Шепчущий Студент]]
+[s]Ты слышал о Редзи в классе 2-F?[n][w][e]
+##-[s]Did you hear about Ryoji in Class 2-F?[n][w][e]-##
+
+[msg MSG_178 [Громкий Студент]]
+[s]Нет, я этого не делал! Что с ним случилось?[n][w][e]
+##-[s]No, I didn't! What happened to him?[n][w][e]-##
+
+[msg MSG_179 [Шепчущий Студент]]
+[s]Его родителей снова перевели, так что его[n]больше не будет рядом.[n][w][e]
+##-[s]His parents got transferred again,[n]so he won't be around anymore.[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Так вот почему я его не[n]видел... Что ж, это было неожиданно![n][w][e]
+##-[s][f 1 5]Громкий Студент[n]So that's why I didn't see him...[n]Well, that was sudden![n][w][e]-##
+
+[msg MSG_180 [Шепчущий Студент]]
+[s]Я купил флаер в торговом центре[n]"Павловния", когда был там в прошлый раз.[n][w][e]
+##-[s]I got a flyer at Paulownia Mall[n]when I went last time.[n][w][e]-##
+[s]Это тот же самый, который расклеен по всему[n]городу.[n][w][e]
+##-[s]It's the same one that's plastered[n]all over the city.[n][w][e]-##
+
+[msg MSG_181 [Громкий Студент]]
+[s]Тот, с логотипом НИКС?[n][w][e]
+##-[s]The one with the NYX logo?[n][w][e]-##
+
+[msg MSG_182 [Шепчущий Студент]]
+[s]О, так вот как это произносится... Мне[n]просто нравится дизайн логотипа.[n][w][e]
+##-[s]Oh, so that's how it's pronounced...[n]I just like the logo's design.[n][w][e]-##
+[s]То, что здесь написано, тоже довольно[n]интересно. Может быть, мне стоит спросить[n]их об этом в следующий раз...[n][w][e]
+##-[s]The stuff written here is kinda[n]interesting, too. Maybe I should ask[n]them about it next time...[n][w][e]-##
+
+[msg MSG_183 [Шепчущий Студент]]
+[s]*вздох* Становится холодно... В эти дни я[n]ненавижу даже вылезать из-под одеяла.[n][w][e]
+##-[s]*sigh* It's getting cold...[n]I hate to even get out from under[n]the covers these days.[n][w][e]-##
+[s]Синдром апатии звучит не так уж плохо, если[n]вы действительно подумаете об этом...[n][w][e]
+##-[s]Apathy Syndrome doesn't sound so bad,[n]if you really think about it...[n][w][e]-##
+
+[msg MSG_184 [Громкий Студент]]
+[s]Я знаю, верно? Я мог бы проспать весь день,[n]и люди стали бы беспокоиться обо мне![n][w][e]
+##-[s]I know, right? I could sleep all day,[n]and people would get all concerned[n]for me![n][w][e]-##
+
+[msg MSG_185 [Шепчущий Студент]]
+[s]Я знаю! Может быть, я попробую стать одним[n]из них... Только на некоторое время.[n][w][e]
+##-[s]I know! Maybe I'll try becoming one...[n]Just for a while.[n][w][e]-##
+
+[msg MSG_186 [Шепчущий Студент]]
+[s]В последнее время я много слышал разговоров[n]о спасении и о том, что мир обновляется.[n][w][e]
+##-[s]I've heard a lot of talk lately[n]about salvation, and the world[n]becoming renewed.[n][w][e]-##
+[s]Если Синдром апатии становится широко[n]распространенным, может быть, это и[n]хорошо...[n][w][e]
+##-[s]If the Apathy Syndrome is becoming[n]widespread, maybe that's a good[n]thing...[n][w][e]-##
+
+[msg MSG_187 [Громкий Студент]]
+[s]Да, я всегда слышу, как люди говорят об[n]этом по телевизору.[n][w][e]
+##-[s]Yeah, I'm always hearing people talk[n]about it on TV.[n][w][e]-##
+[s]Сначала я думал, что это культ, но, может[n]быть, это не так...[n][w][e]
+##-[s]I thought it was a cult at first,[n]but maybe it isn't...[n][w][e]-##
+
+[msg MSG_188 [Шепчущий Студент]]
+[s]Я имею в виду, если бы весь мир верил в[n]это, я чувствовал бы себя глупо, если бы[n]был единственным, кто это отрицал.[n][w][e]
+##-[s]I mean, if the whole world believes[n]in it, I'd feel stupid to be the only one[n]denying it.[n][w][e]-##
+
+[msg MSG_189 [Шепчущий Студент]]
+[s]Вчера я снова ходил в аркаду, и разве ты[n]этого не знаешь? Я потратил все свои[n]карманные деньги...[n][w][e]
+##-[s]I went to the arcade again yesterday,[n]and wouldn't you know it? I spent my[n]entire allowance...[n][w][e]-##
+[s]Я серьезно подсел на эту игру с кулаками.[n][w][e]
+##-[s]I got seriously hooked on that[n]punching game.[n][w][e]-##
+[s]Плюсом является то, что я чувствую, что [clr 2]Я[n]стал сильнее[clr 0].У меня сейчас болят мышцы.[n][w][e]
+##-[s]The upside is that I feel like [clr 2]I got[n]stronger[clr 0]. My muscles are sore now.[n][w][e]-##
+
+[msg MSG_190 [Громкий Студент]]
+[s]Это в торговом центре "Павловния", верно? В[n]игре Panic есть хороший выбор, но она[n]всегда переполнена.[n][w][e]
+##-[s]That's at Paulownia Mall, right?[n]Game Panic has a good selection,[n]but it's always packed.[n][w][e]-##
+[s]Если вы хотите играть на определенной[n]машине, это действительно зависит от [clr 2]какой[n]сегодня день недели[clr 0].[n][w][e]
+##-[s]If you want to play a particular[n]machine, it really depends on [clr 2]what[n]day of the week it is[clr 0].[n][w][e]-##
+
+[msg MSG_191 [Шепчущий Студент]]
+[s]О, неужели? Пойдем посмотрим, какие такси[n]сегодня открыты.[n][w][e]
+##-[s]Oh, really? Let's go see what cabs[n]are open today.[n][w][e]-##
+[s]То есть... если ты сможешь заметить во мне[n]какие-то изменения.[n][w][e]
+##-[s]That is... if you can spot me some[n]change.[n][w][e]-##
+[s][f 1 5]Громкий Студент[n]Ни за что! Ты все еще должен[n]мне за ту игру в Супер Нео в далеком 2003[n]году![n][w][e]
+##-[s][f 1 5]Громкий Студент[n]No way! You still owe me for that[n]game of Super Neo all the way back[n]in 2003![n][w][e]-##
+
+[msg MSG_192 [Шепчущий Студент]]
+[s]Эй, ты уже был на кинофестивале?[n][w][e]
+##-[s]Hey, have you been to the film[n]festival yet?[n][w][e]-##
+
+[msg MSG_193 [Громкий Студент]]
+[s]Этот театр у вокзала устраивает его, верно?[n]Я потерял счет тому, как часто я ездил туда[n]во время летних каникул.[n][w][e]
+##-[s]That theater by the station is hosting[n]it, right? I lost count of how often[n]I went there over summer break.[n][w][e]-##
+[s]Я слышал, что будет еще один фестиваль [clr 2][n]3-го числа[clr 0].Хочешь пойти?[n][w][e]
+##-[s]I hear there's going to be another[n]festival [clr 2]on the 23rd[clr 0]. Wanna go?[n][w][e]-##
+
+[msg MSG_194 [Шепчущий Студент]]
+[s]Нет, я откажусь от этого.[n][w][e]
+##-[s]Nah, I'll pass on this one.[n][w][e]-##
+[s]Я забыл, какая у этого тема, но я помню,[n]что все это было по-детски.[n][w][e]
+##-[s]I forget what this one's theme is,[n]but I remember it was all kiddy.[n][w][e]-##
+

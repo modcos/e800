@@ -1,0 +1,2404 @@
+[msg MSG_0]
+[s]> Вы дали правильный ответ![n][w][e]
+##-[s]> You gave the correct answer![n][w][e]-##
+
+[msg MSG_00]
+[s]> Ваш ответ был неверным...[n][w][e]
+##-[s]> Your answer was incorrect...[n][w][e]-##
+
+[msg MSG_000 [Учитель Оуниши]]
+[s][bup 49 161 0 0]*вздох* Уже декабрь?[n][w][e]
+##-[s][bup 49 161 0 0]*sigh*[n]December already?[n][w][e]-##
+[s]Это почти конец года... Давай не будем[n]портить наш последний месяц года вместе с[n]ленью, хорошо?[n][w][e]
+##-[s]It's almost the end of the year...[n]Let's not ruin our last month of the[n]year together with laziness, okay?[n][w][e]-##
+[s]Помните, что есть [clr 2]экзамен на следующей[n]неделе[clr 0].Хотя разве у вас, ребята, только что[n]не было экзаменов...? Время летит.[n][w][e]
+##-[s]Remember, there's [clr 2]an exam next week[clr 0].[n]Though didn't you guys just have[n]exams...? Time flies.[n][w][e]-##
+[s]Материал по экзамену начинается со страницы[n]160 и будет включать в себя то, что мы[n]рассмотрим на сегодняшнем уроке.[n][w][e]
+##-[s]The material on the exam begins on[n]page 160, and will include what we[n]go over in today's lesson.[n][w][e]-##
+[s]Который... определение аллотропии.[n][w][e]
+##-[s]Which is... the definition of[n]allotropy.[n][w][e]-##
+[s]"Свойство некоторых элементов существовать[n]в двух или более формах, которые химически[n]идентичны, но физически дискретны".[n][w][e]
+##-[s]"The property of some elements to exist[n]in two or more forms that are chemically[n]identical, yet physically discrete."[n][w][e]-##
+[s]...Понял? Держу пари, что есть по крайней[n]мере один аллотроп, с которым вы, ребята,[n]знакомы.[n][w][e]
+##-[s]...Get it? I bet there's at least one[n]allotrope you guys are familiar with.[n][w][e]-##
+[s]Давайте посмотрим, понимаете ли вы, о чем я[n]говорю, [f 4 2].[n][w][e]
+##-[s]Let's see if you know what I'm talking[n]about, [f 4 2].[n][w][e]-##
+
+[msg MSG_001 [Учитель Оуниши]]
+[s][bup 49 161 0 0]Какой аллотроп образован тремя атомами[n]кислорода?[n][w][e]
+##-[s][bup 49 161 0 0]Which allotrope is formed by three[n]oxygen atoms?[n][w][e]-##
+
+[sel SEL002 top]
+[s][f 2 7 0 1 1552 1]"Озон".[e]
+##-[s][f 2 7 0 1 1552 1]"Ozone."[e]-##
+[s]"Малиновый".[e]
+##-[s]"Crimson."[e]-##
+[s]"Сухой лед".[e]
+##-[s]"Dry ice."[e]-##
+
+[msg MSG_003 [Учитель Оуниши]]
+[s][bup 49 161 0 0]Ух ты, хорошая работа. Я уверен, что ты[n]хорошо сдашь экзамен.[n][w][e]
+##-[s][bup 49 161 0 0]Wow, good job. I'm sure you'll do[n]fine on the exam.[n][w][e]-##
+[s]Каждое живое существо нуждается в[n]кислороде, чтобы выжить.[n][w][e]
+##-[s]Every living being needs oxygen[n]to survive.[n][w][e]-##
+[s]И все на планете тоже нуждается в озоне.[n][w][e]
+##-[s]And everything on the planet needs[n]ozone, too.[n][w][e]-##
+[s]Вы ведь знаете, как ядовитые[n]ультрафиолетовые лучи разъедают озоновый[n]слой, верно?[n][w][e]
+##-[s]You know how toxic UV rays have been[n]eating away at the ozone layer, right?[n][w][e]-##
+[s]Из-за разрушения окружающей среды озона[n]становится все меньше и меньше...[n][w][e]
+##-[s]Due to the environmental destruction,[n]there's less and less ozone...[n][w][e]-##
+[s]Мне, наверное, не о чем беспокоиться, но[n]вам, ребята, может быть.[n][w][e]
+##-[s]I probably have nothing to worry[n]about, but you guys might.[n][w][e]-##
+[s]Так что будь осторожен, хорошо?[n][w][e]
+##-[s]So watch out, okay?[n][w][e]-##
+
+[msg MSG_004 [Учитель Оуниши]]
+[s][bup 49 161 0 0]Неправильный. Ответ - озон.[n][w][e]
+##-[s][bup 49 161 0 0]Wrong. The answer is ozone.[n][w][e]-##
+[s]Каждое живое существо нуждается в[n]кислороде, чтобы выжить.[n][w][e]
+##-[s]Every living being needs oxygen[n]to survive.[n][w][e]-##
+[s]И все на планете тоже нуждается в озоне.[n][w][e]
+##-[s]And everything on the planet needs[n]ozone, too.[n][w][e]-##
+[s]Вы ведь знаете, как ядовитые[n]ультрафиолетовые лучи разъедают озоновый[n]слой, верно?[n][w][e]
+##-[s]You know how toxic UV rays have been[n]eating away at the ozone layer, right?[n][w][e]-##
+[s]Из-за разрушения окружающей среды озона[n]становится все меньше и меньше...[n][w][e]
+##-[s]Due to the environmental destruction,[n]there's less and less ozone...[n][w][e]-##
+[s]Мне, наверное, не о чем беспокоиться, но[n]вам, ребята, может быть.[n][w][e]
+##-[s]I probably have nothing to worry[n]about, but you guys might.[n][w][e]-##
+[s]Так что будь осторожен, хорошо?[n][w][e]
+##-[s]So watch out, okay?[n][w][e]-##
+
+[msg MSG_005 [Учитель Экода]]
+[s][bup 48 161 0 0]ЖЕ～СЙ、ХоН汲鰯芽券м価佳、 ХьЧ…[n][w][e]
+##-[s][bup 48 161 0 0]ЖЕ～СЙ、ХоН汲鰯芽券м価佳、[n]ХьЧ…[n][w][e]-##
+[s]А、ЫДЮ、[f 4 1]У。 弓ЖдНЮУВ…[n][w][e]
+##-[s]А、ЫДЮ、[f 4 1]У。[n]弓ЖдНЮУВ…[n][w][e]-##
+
+[msg MSG_006 [Учитель Экода]]
+[s][bup 48 161 0 0]Жー…科м疫н～鍬йПи～ ВЭгйБ…[n][w][e]
+##-[s][bup 48 161 0 0]Жー…科м疫н～鍬йПи～[n]ВЭгйБ…[n][w][e]-##
+[s]剣К獲掩йу～иКяЩХ逸йБー… ж堰Ю街駕и激鰯н?[n][w][e]
+##-[s]剣К獲掩йу～иКяЩХ逸йБー…[n]ж堰Ю街駕и激鰯н?[n][w][e]-##
+
+[sel SEL007 top]
+[s][f 2 7 0 1 1552 1]簡掲簡喧[e]
+##-[s][f 2 7 0 1 1552 1]簡掲簡喧[e]-##
+[s]圏金梶[e]
+##-[s]圏金梶[e]-##
+[s]群柑計[e]
+##-[s]群柑計[e]-##
+
+[msg MSG_008 [Учитель Экода]]
+[s][bup 48 161 0 0]Ым唄。 尉惟м碍иУК雅課УдВ…[n][w][e]
+##-[s][bup 48 161 0 0]Ым唄。[n]尉惟м碍иУК雅課УдВ…[n][w][e]-##
+[s]ьбЭН汲鰯芽券н駕鎌м堅嫌…[n][w][e]
+##-[s]ьбЭН汲鰯芽券н駕鎌м堅嫌…[n][w][e]-##
+
+[msg MSG_009 [Учитель Экода]]
+[s][bup 48 161 0 0]А…院ХЛ柑鞄м意建н饗Ю…[n][w][e]
+##-[s][bup 48 161 0 0]А…院ХЛ柑鞄м意建н饗Ю…[n][w][e]-##
+[s]簡掲簡喧УЖ奥иВжн…[n][w][e]
+##-[s]簡掲簡喧УЖ奥иВжн…[n][w][e]-##
+
+[msg MSG_010 [Учитель Тераучи]]
+[s][bup 50 161 0 0]穎ВЁме、意憲罫ЁЁД揮赫м懸еЧл。 АиЭЭЯКクレバーиме究эК菊ВеЧ。[n][w][e]
+##-[s][bup 50 161 0 0]穎ВЁме、意憲罫ЁЁД揮赫м懸еЧл。[n]АиЭЭЯКクレバーиме究эК菊ВеЧ。[n][w][e]-##
+[s]ЫХд、於м陥咳ЁЁДЧОラストеЧ。 於、群Йインドй拳б歓ХьЧ。[n][w][e]
+##-[s]ЫХд、於м陥咳ЁЁДЧОラストеЧ。[n]於、群Йインドй拳б歓ХьЧ。[n][w][e]-##
+[s]於мダーリンн捲意慰е柑鞄йВьЧК、 雲検Н、柑鞄нЁДダメЮж。[n][w][e]
+##-[s]於мダーリンн捲意慰е柑鞄йВьЧК、[n]雲検Н、柑鞄нЁДダメЮж。[n][w][e]-##
+[s]ミステリアスи厩権К河ВеЧЙ… 於、ジャパンК嫁ЛеЧПз…[n][w][e]
+##-[s]ミステリアスи厩権К河ВеЧЙ…[n]於、ジャパンК嫁ЛеЧПз…[n][w][e]-##
+[s]АиЭЭЯй、サンキューЭНУ 遠ВЭВеЧ。[n][w][e]
+##-[s]АиЭЭЯй、サンキューЭНУ[n]遠ВЭВеЧ。[n][w][e]-##
+[s]…нВ、ЦёА為畏мИ還稲мЭяй、 ミスター[f 4 1]、牽近ХдэьХД。[n][w][e]
+##-[s]…нВ、ЦёА為畏мИ還稲мЭяй、[n]ミスター[f 4 1]、牽近ХдэьХД。[n][w][e]-##
+
+[msg MSG_011 [Учитель Тераучи]]
+[s][bup 50 161 0 0]為畏й軽頚е還犬Р碓臼、 営д遠Дж揮Ё骸ВЙХ?[n][w][e]
+##-[s][bup 50 161 0 0]為畏й軽頚е還犬Р碓臼、[n]営д遠Дж揮Ё骸ВЙХ?[n][w][e]-##
+
+[sel SEL012 top]
+[s]Пока![e]
+##-[s]Bye![e]-##
+[s]Увидимся![e]
+##-[s]See you![e]-##
+[s][f 2 7 0 1 1552 1]Спасибо![e]
+##-[s][f 2 7 0 1 1552 1]Thank you![e]-##
+
+[msg MSG_013 [Учитель Тераучи]]
+[s][bup 50 161 0 0]イエース! ьШн甥具м園侃Я葛Жм。[n][w][e]
+##-[s][bup 50 161 0 0]イエース![n]ьШн甥具м園侃Я葛Жм。[n][w][e]-##
+[s]ВВ畏磯侃ЯьХЭ、於、鞄勧й…[n][w][e]
+##-[s]ВВ畏磯侃ЯьХЭ、於、鞄勧й…[n][w][e]-##
+
+[msg MSG_014 [Учитель Тераучи]]
+[s][bup 50 161 0 0]ノー…жЁ遠ЖиВПз、 Ын屋ХВ廻叡й焔Дм。[n][w][e]
+##-[s][bup 50 161 0 0]ノー…жЁ遠ЖиВПз、[n]Ын屋ХВ廻叡й焔Дм。[n][w][e]-##
+[s]…Ыщз為畏 冠бдНдбдСжимЙХ?[n][w][e]
+##-[s]…Ыщз為畏[n]冠бдНдбдСжимЙХ?[n][w][e]-##
+[s]ВВ畏磯侃ЯьХЭ、於、鞄勧й…[n][w][e]
+##-[s]ВВ畏磯侃ЯьХЭ、於、鞄勧й…[n][w][e]-##
+
+[msg MSG_015 [Учитель Мияхара]]
+[s][bup 46 161 0 0]...Тогда собирайтесь, так что... Ответ:[n]X=1.[n][w][e]
+##-[s][bup 46 161 0 0]...Then round up, so... The answer[n]is X=1.[n][w][e]-##
+[s]Хм? Это не так? О, я вижу, это становится[n]11, так что...[n][w][e]
+##-[s]Hmm? It isn't? Oh, I see, this becomes 11,[n]so...[n][w][e]-##
+[s]Мне очень жаль, но вы правы. X=2.[n][w][e]
+##-[s]I'm sorry, you're right. X=2.[n][w][e]-##
+[s]Ждать... Это правильно?[n][w][e]
+##-[s]Wait... Is that right?[n][w][e]-##
+[s]Ладно, твое задание - разобраться в этом[n]деле.[n][w][e]
+##-[s]Okay, uh, your assignment is to[n]figure this one out.[n][w][e]-##
+[s]В любом случае... Разве это не было[n]невероятно?[n][w][e]
+##-[s]Anyway... Wasn't that incredible?[n][w][e]-##
+[s]Даже с такой сложной проблемой, как эта,[n]как только вы ее решите, X все равно будет[n]равно 1. Или, может быть, 2.[n][w][e]
+##-[s]Even with a difficult problem like[n]this one, once you solve it, X still[n]equals 1. Or maybe 2.[n][w][e]-##
+[s]Я хочу сказать, что математика - это[n]весело! Ты так не думаешь?[n][w][e]
+##-[s]What I'm getting at is, math is fun![n]Don't you think so?[n][w][e]-##
+[s]Цивилизация обязана своим существованием[n]математике![n][w][e]
+##-[s]Civilization owes its very existence[n]to math![n][w][e]-##
+[s]Все в порядке. Сегодня самый [f 5 5]эт, так что[n]получается... твоя очередь,[n][f 4 2].[n][w][e]
+##-[s]All right. Today is the [f 5 5]th,[n]so that works out to... your turn,[n][f 4 2].[n][w][e]-##
+
+[msg MSG_016 [Учитель Мияхара]]
+[s][bup 46 161 0 0]Вы знаете, когда были изобретены числа?[n][w][e]
+##-[s][bup 46 161 0 0]Do you know when numbers were[n]invented?[n][w][e]-##
+
+[sel SEL017 top]
+[s]"10 000 лет назад".[e]
+##-[s]"10,000 years ago."[e]-##
+[s][f 2 7 0 1 1552 1]"6000 лет назад".[e]
+##-[s][f 2 7 0 1 1552 1]"6,000 years ago."[e]-##
+[s]"4000 лет назад".[e]
+##-[s]"4,000 years ago."[e]-##
+
+[msg MSG_018 [Учитель Мияхара]]
+[s][bup 46 161 0 0]У тебя получилось! Шумеры изобрели числа[n]6000 лет назад.[n][w][e]
+##-[s][bup 46 161 0 0]You got it! The Sumerians invented[n]numbers 6,000 years ago.[n][w][e]-##
+[s]Позже в Индии были изобретены арабские[n]цифры, которые принесли нам число 0 и[n]бесчисленные уравнения![n][w][e]
+##-[s]Later, Arabic numerals were invented[n]in India, which brought us the number[n]0 and countless equations![n][w][e]-##
+[s]Ах... красота и чудо всего этого![n]Математика ВЕЛИКОЛЕПНА![n][w][e]
+##-[s]Ahh... the beauty and wonder of it[n]all! Math is MAGNIFICENT![n][w][e]-##
+
+[msg MSG_019 [Учитель Мияхара]]
+[s][bup 46 161 0 0]Мне очень жаль, но это неправильно. Вам[n]следовало бы прислушаться к Богу[n]математики.[n][w][e]
+##-[s][bup 46 161 0 0]I'm sorry, but that's wrong. You[n]should have listened to the God of[n]Mathematics.[n][w][e]-##
+[s]Шумеры изобрели числа 6000 лет назад.[n][w][e]
+##-[s]The Sumerians invented numbers 6,000[n]years ago.[n][w][e]-##
+[s]Позже в Индии были изобретены арабские[n]цифры, которые принесли нам число 0 и[n]бесчисленные уравнения![n][w][e]
+##-[s]Later, Arabic numerals were invented[n]in India, which brought us the number[n]0 and countless equations![n][w][e]-##
+[s]Ах... красота и чудо всего этого![n]Математика ВЕЛИКОЛЕПНА![n][w][e]
+##-[s]Ahh... the beauty and wonder of it[n]all! Math is MAGNIFICENT![n][w][e]-##
+
+[msg MSG_020 [Учитель Такенозука]]
+[s][bup 47 161 0 0]...Итак, давайте сегодня обсудим вращение[n]Земли.[n][w][e]
+##-[s][bup 47 161 0 0]...So let's discuss the Earth's[n]rotation today.[n][w][e]-##
+[s]Земля вращается один раз в 24 часа...[n][w][e]
+##-[s]The Earth rotates once every[n]24 hours...[n][w][e]-##
+[s]Ладно, не засыпай или что-нибудь в этом[n]роде. Это основное, но это важная[n]предпосылка для всего остального.[n][w][e]
+##-[s]All right, don't fall asleep or[n]anything. It's basic, but it's an[n]important premise for the rest.[n][w][e]-##
+[s]Давайте посмотрим... Хм... [f 4 2]?[n][w][e]
+##-[s]Let's see... Hmm... [f 4 2]?[n][w][e]-##
+
+[msg MSG_021 [Учитель Такенозука]]
+[s][bup 47 161 0 0]Как быстро, по-вашему, Земля вращается[n]вблизи экватора?[n][w][e]
+##-[s][bup 47 161 0 0]How fast would you say the Earth[n]rotates near the equator?[n][w][e]-##
+
+[sel SEL022 top]
+[s]"Около 420 км/час".[e]
+##-[s]"About 420 km/hour."[e]-##
+[s]"Около 850 км/час".[e]
+##-[s]"About 850 km/hour."[e]-##
+[s][f 2 7 0 1 1552 1]"Около 1700 км/час".[e]
+##-[s][f 2 7 0 1 1552 1]"About 1,700 km/hour."[e]-##
+
+[msg MSG_023 [Учитель Такенозука]]
+[s][bup 47 161 0 0]Правильно! Вблизи экватора Земля вращается[n]быстрее скорости звука. Хорошо, что[n]дальше...?[n][w][e]
+##-[s][bup 47 161 0 0]Correct! Near the equator, the Earth[n]spins faster than the speed of sound.[n]All right, what's next...?[n][w][e]-##
+[s]Перейдите на следующую страницу... О, это[n]приложение. Давайте пропустим это и... Хм,[n]это эксперимент. Ладно, эм...[n][w][e]
+##-[s]Flip to the next page... Oh, this is[n]an application. Let's skip that and...[n]Hm, that's an experiment. Okay, um...[n][w][e]-##
+
+[msg MSG_024 [Учитель Такенозука]]
+[s][bup 47 161 0 0]Извините, нет. Хотите верьте, хотите нет,[n]но вблизи экватора Земля вращается быстрее[n]скорости звука. Двигаться дальше...[n][w][e]
+##-[s][bup 47 161 0 0]Sorry, no. Believe it or not, but near[n]the equator, the Earth spins faster[n]than the speed of sound. Moving on...[n][w][e]-##
+[s]Перейдите на следующую страницу... О, это[n]приложение. Давайте пропустим это и... Хм,[n]это эксперимент. Ладно, эм...[n][w][e]
+##-[s]Flip to the next page... Oh, this is[n]an application. Let's skip that and...[n]Hm, that's an experiment. Okay, um...[n][w][e]-##
+
+[msg MSG_025 [Учитель Оуниши]]
+[s][bup 49 161 0 0]*вздох* Мне сегодня не хочется[n]преподавать...[n][w][e]
+##-[s][bup 49 161 0 0]*sigh* I don't feel like teaching today...[n][w][e]-##
+[s]Вчера вечером я смотрел телевизор, и там[n]был специальный выпуск о похудении.[n][w][e]
+##-[s]I was watching TV last night, and[n]there was a special on weight loss.[n][w][e]-##
+[s]"Чем больше ты пьешь, тем тоньше[n]становишься!" Да, точно![n][w][e]
+##-[s]"The more you drink, the thinner[n]you get!" Yeah, right![n][w][e]-##
+[s]А как насчет осмотического давления, а? Это[n]дезинформация, но люди верят тому, что[n]видят по телевизору...[n][w][e]
+##-[s]What about the osmotic pressure,[n]huh? It's misinformation, but people[n]believe what they see on TV...[n][w][e]-##
+[s]Многие компании говорят что-то вроде: "Наш[n]продукт содержит минералы!" Но это полная[n]чушь.[n][w][e]
+##-[s]A lot of companies say stuff like,[n]"Our product contains minerals!"[n]But that's a load of hooey.[n][w][e]-##
+[s]Там едва ли больше, чем микроэлементы того,[n]о чем они говорят. Это бессмысленно.[n][w][e]
+##-[s]There's hardly more than trace[n]elements of whatever they're talking[n]about. It's meaningless.[n][w][e]-##
+[s]Знаете ли вы, что существуют разные[n]названия воды в зависимости от содержания в[n]ней кальция или магния?[n][w][e]
+##-[s]Did you know that there are different[n]names for water depending on its[n]calcium or magnesium content?[n][w][e]-##
+[s]Ты выглядишь так, будто знаешь ответ,[n][f 4 2][n]..Удиви меня.[n][w][e]
+##-[s]You look like you know the answer,[n][f 4 2]... Surprise me.[n][w][e]-##
+
+[msg MSG_026 [Учитель Оуниши]]
+[s][bup 49 161 0 0]Что вы называете водой без большого[n]количества кальция и магния?[n][w][e]
+##-[s][bup 49 161 0 0]What do you call water without much[n]calcium and magnesium?[n][w][e]-##
+
+[sel SEL027 top]
+[s]"Жесткая вода".[e]
+##-[s]"Hard water."[e]-##
+[s][f 2 7 0 1 1552 1]"Мягкая вода".[e]
+##-[s][f 2 7 0 1 1552 1]"Soft water."[e]-##
+[s]"Природная вода".[e]
+##-[s]"Natural water."[e]-##
+
+[msg MSG_028 [Учитель Оуниши]]
+[s][bup 49 161 0 0]Верно. Вы осведомлены лучше, чем я думал![n][w][e]
+##-[s][bup 49 161 0 0]That's right. You're better-informed[n]than I thought![n][w][e]-##
+[s]Большая часть воды в Японии - мягкая вода.[n][w][e]
+##-[s]Most of the water in Japan is soft[n]water.[n][w][e]-##
+[s]Вот почему многим японцам кажется странным[n]пить жесткую воду, потому что они привыкли[n]к другому виду.[n][w][e]
+##-[s]That's why many Japanese find it[n]strange to drink hard water, because[n]they're used to the other kind.[n][w][e]-##
+[s]Помните, что приготовление риса с жесткой[n]водой портит вкус. Теперь давайте посмотрим[n]на различные ионы в воде...[n][w][e]
+##-[s]Remember, cooking rice with hard water[n]ruins the flavor. Now, let's look at[n]the various ions in water...[n][w][e]-##
+
+[msg MSG_029 [Учитель Оуниши]]
+[s][bup 49 161 0 0]Э-э-э. Ответ - мягкая вода.[n][w][e]
+##-[s][bup 49 161 0 0]Uh-uh. The answer is soft water.[n][w][e]-##
+[s]Большая часть воды в Японии - мягкая вода.[n][w][e]
+##-[s]Most of the water in Japan is soft[n]water.[n][w][e]-##
+[s]Вот почему многим японцам кажется странным[n]пить жесткую воду, потому что они привыкли[n]к другому виду.[n][w][e]
+##-[s]That's why many Japanese find it[n]strange to drink hard water, because[n]they're used to the other kind.[n][w][e]-##
+[s]Помните, что приготовление риса с жесткой[n]водой портит вкус. Теперь давайте посмотрим[n]на различные ионы в воде...[n][w][e]
+##-[s]Remember, cooking rice with hard water[n]ruins the flavor. Now, let's look at[n]the various ions in water...[n][w][e]-##
+
+[msg MSG_030 [Учитель Оно]]
+[s][bup 45 161 0 0]Давайте сегодня поговорим об эпохе Хэйан. Я[n]не буду тратить на это много времени, так[n]что будьте внимательны.[n][w][e]
+##-[s][bup 45 161 0 0]Let's talk about the Heian era today.[n]I won't spend a lot of time on this,[n]so pay attention.[n][w][e]-##
+[s]В 794 году был основан Хэйан-Ке. В 894 году[n]они отменили императорские посольства в[n]Китай...[n][w][e]
+##-[s]In 794, the Heian-Kyo was established.[n]In 894, they abolished imperial[n]embassies to China...[n][w][e]-##
+[s]Я мог бы поместить этот раздел на [clr 2]экзамен[n]на следующей неделе[clr 0]...Я чувствую себя[n]ленивым.[n][w][e]
+##-[s]I might put this section on the [clr 2]exam[n]next week[clr 0]... I'm feeling lazy.[n][w][e]-##
+[s]В любом случае, перейдем к феодализму.[n]Слушайте внимательно, потому что это имеет[n]отношение к происхождению самураев.[n][w][e]
+##-[s]Anyways, on to feudalism. Listen[n]carefully, because this has to do[n]with the origins of the samurai.[n][w][e]-##
+[s]Я выбираю... тебя, [f 4 2] Давай посмотрим, знаешь[n]ли ты.[n][w][e]
+##-[s]I choose... you, [f 4 2]![n]Let's see if you know.[n][w][e]-##
+
+[msg MSG_031 [Учитель Оно]]
+[s][bup 45 161 0 0]Какой закон послужил основой для развития[n]феодализма?[n][w][e]
+##-[s][bup 45 161 0 0]What law served as a foundation for[n]the development of feudalism?[n][w][e]-##
+
+[sel SEL032 top]
+[s]"Санзе - это не Хоу".[e]
+##-[s]"The Sanze Isshin no Hou."[e]-##
+[s][f 2 7 0 1 1552 1]"Конден Эйнен Шизайхо".[e]
+##-[s][f 2 7 0 1 1552 1]"The Konden Einen Shizaihou."[e]-##
+[s]"Сикимоку Госэйбай".[e]
+##-[s]"The Goseibai Shikimoku."[e]-##
+
+[msg MSG_033 [Учитель Оно]]
+[s][bup 45 161 0 0]Хорошо, что ты вспомнил. У него очень[n]длинное название, не так ли?[n][w][e]
+##-[s][bup 45 161 0 0]Good, you remembered. It's got a[n]very long name, doesn't it?[n][w][e]-##
+[s]Этот закон был принят, потому что[n]предыдущий закон, Санзе Ишин но Хоу, не[n]помог.[n][w][e]
+##-[s]This law was enacted because the[n]previous law, the Sanze Isshin no[n]Hou, didn't help.[n][w][e]-##
+[s]Фермеры обленились. Не то чтобы это было[n]необычно для любой эпохи... Но это все для[n]периода Хэйан.[n][w][e]
+##-[s]The farmers got lazy. Not that that's[n]unusual for any era... But that's[n]all for the Heian period.[n][w][e]-##
+
+[msg MSG_034 [Учитель Оно]]
+[s][bup 45 161 0 0]Ты можешь сделать лучше, чем это! Ты[n]потомок самурая![n][w][e]
+##-[s][bup 45 161 0 0]You can do better than that! You're[n]descended from the samurai![n][w][e]-##
+[s]Правильный ответ - Конден Эйнен Шизайхо.[n][w][e]
+##-[s]The correct answer is the Konden[n]Einen Shizaihou.[n][w][e]-##
+[s]Этот закон был принят, потому что[n]предыдущий закон, Санзе Ишин но Хоу, не[n]помог.[n][w][e]
+##-[s]This law was enacted because the[n]previous law, the Sanze Isshin no[n]Hou, didn't help.[n][w][e]-##
+[s]Фермеры обленились. Не то чтобы это было[n]необычно для любой эпохи... Но это все для[n]периода Хэйан.[n][w][e]
+##-[s]The farmers got lazy. Not that that's[n]unusual for any era... But that's[n]all for the Heian period.[n][w][e]-##
+
+[msg MSG_035 [Учитель Тераучи]]
+[s][bup 50 161 0 0]Давайте переведем абзац на странице 30,[n]хорошо?[n][w][e]
+##-[s][bup 50 161 0 0]Let's translate the paragraph on[n]page 30, shall we?[n][w][e]-##
+[s]Скоро прозвенит звонок, так что поторопись![n][w][e]
+##-[s]The bell's going to ring soon, so[n]make this quick![n][w][e]-##
+[s]В этой сцене семья садится ужинать.[n][w][e]
+##-[s]In this scene, the family is sitting[n]down to dinner.[n][w][e]-##
+[s]Разве это не согревает твое сердце?[n][w][e]
+##-[s]Doesn't it warm your heart?[n][w][e]-##
+[s]Итак, кто хочет ответить на вопрос?[n][w][e]
+##-[s]Now, who wants to answer a question?[n][w][e]-##
+[s]Сегодня самый [f 5 5]эт, так что я выберу...[n][f 4 2].[n][w][e]
+##-[s]Today's the [f 5 5]th, so I'll pick...[n][f 4 2].[n][w][e]-##
+
+[msg MSG_036 [Учитель Тераучи]]
+[s][bup 50 161 0 0]Одним из пунктов меню для всей семьи[n]является "сковорода". Как бы вы перевели[n]это на английский?[n][w][e]
+##-[s][bup 50 161 0 0]One of the items on the menu for the[n]family is "pan." How would you[n]translate this to English?[n][w][e]-##
+
+[sel SEL037 top]
+[s][f 2 7 0 1 1552 1]"Хлеб".[e]
+##-[s][f 2 7 0 1 1552 1]"Bread."[e]-##
+[s]"Цыпленок".[e]
+##-[s]"Chicken."[e]-##
+[s]"Блинчики".[e]
+##-[s]"Pancakes."[e]-##
+
+[msg MSG_038 [Учитель Тераучи]]
+[s][bup 50 161 0 0]Хорошая работа![n][w][e]
+##-[s][bup 50 161 0 0]Good job![n][w][e]-##
+[s]"Пан" по-английски означает "хлеб".[n][w][e]
+##-[s]"Pan" means "bread" in English.[n][w][e]-##
+[s]Термин "пан" пришел из Португалии в Японию[n]давным-давно.[n][w][e]
+##-[s]The term "pan" came from Portugal[n]to Japan a long time ago.[n][w][e]-##
+[s][clr 2]Это будет на следующем экзамене[clr 0], так что[n]убедитесь, что вы все предусмотрели![n][w][e]
+##-[s][clr 2]This will be on the next exam[clr 0],[n]so make sure you got this covered![n][w][e]-##
+[s]У нас еще есть пара минут в запасе... О, в[n]сегодняшней газете...[n][w][e]
+##-[s]We've still got a couple minutes[n]left... Oh, in today's newspaper...[n][w][e]-##
+
+[msg MSG_039 [Учитель Тераучи]]
+[s][bup 50 161 0 0]Нет. Тем не менее, хорошая попытка![n][w][e]
+##-[s][bup 50 161 0 0]Nope. Good try, though![n][w][e]-##
+[s]"Пан" по-английски означает "хлеб".[n][w][e]
+##-[s]"Pan" means "bread" in English.[n][w][e]-##
+[s]Термин "пан" пришел из Португалии в Японию[n]давным-давно.[n][w][e]
+##-[s]The term "pan" came from Portugal[n]to Japan a long time ago.[n][w][e]-##
+[s][clr 2]Это будет на следующем экзамене[clr 0], так что[n]убедитесь, что вы все предусмотрели![n][w][e]
+##-[s][clr 2]This will be on the next exam[clr 0],[n]so make sure you got this covered![n][w][e]-##
+[s]У нас еще есть пара минут в запасе... О, в[n]сегодняшней газете...[n][w][e]
+##-[s]We've still got a couple minutes[n]left... Oh, in today's newspaper...[n][w][e]-##
+
+[msg MSG_040 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Зимние каникулы начинаются завтра, хотя я[n]уверен, что большинство из вас просто будут[n]спать в течение Нового года.[n][w][e]
+##-[s][bup 44 161 0 0]Winter break starts tomorrow, though[n]I'm sure most of you are just going to[n]sleep in during New Year's.[n][w][e]-##
+[s]Тебе лучше перестать так сильно полагаться[n]на своих родителей. Ради всего святого, по[n]крайней мере, очисти свои собственные[n]апельсины.[n][w][e]
+##-[s]You'd better stop relying on your[n]parents so much. For heaven's sake,[n]at least peel your own oranges.[n][w][e]-##
+[s]Давайте пропустим сегодняшнюю лекцию и[n]пойдем в класс.[n][w][e]
+##-[s]Let's skip the lecture for today,[n]and go to homeroom.[n][w][e]-##
+[s]Ну тогда, [f 4 2]...[n][w][e]
+##-[s]Well then, [f 4 2]...[n][w][e]-##
+
+[msg MSG_041 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Момент страсти внезапно возникает летом![n]Что ты делаешь?[n][w][e]
+##-[s][bup 44 161 0 0]A moment of passion suddenly arises[n]in the summer! What do you do?[n][w][e]-##
+
+[sel SEL042 top]
+[s]"Иди за ним!"[e]
+##-[s]"Go after it!"[e]-##
+[s]"Мисс Ториуми - единственная для меня..."[e]
+##-[s]"Учитель Ториуми is the one for me..."[e]-##
+[s][f 2 7 0 1 1552 1]"Сохраняйте спокойствие и действуйте[n]соответственно".[e]
+##-[s][f 2 7 0 1 1552 1]"Stay calm and act accordingly."[e]-##
+
+[msg MSG_043 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Повезло тебе. Это было бы скучно без[n]романтики и всего такого, но не теряй[n]контроль.[n][w][e]
+##-[s][bup 44 161 0 0]Good for you. It would be boring[n]without some romance and whatnot,[n]but don't lose control.[n][w][e]-##
+[s]Наслаждайся этим, пока ты еще молод... *[n]вздох*[n][w][e]
+##-[s]Enjoy it while you're still[n]young... *sigh*[n][w][e]-##
+
+[msg MSG_044 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Даже не думай об этом, малыш![n][w][e]
+##-[s][bup 44 161 0 0]Don't even think about it, kid![n][w][e]-##
+[s]Молодость... Проклятая молодость...[n][w][e]
+##-[s]Youth...[n]Curse youth...[n][w][e]-##
+
+[msg MSG_045 [Учитель Такенозука]]
+[s][bup 47 161 0 0]Успокойся! Летние каникулы закончились![n]Теперь ты снова в школе, так что веди себя[n]соответственно![n][w][e]
+##-[s][bup 47 161 0 0]Quiet down! Summer vacation's over![n]You're back in school now, so act[n]accordingly![n][w][e]-##
+[s]Теперь давайте рассмотрим....[f 4 2].[n][w][e]
+##-[s]Now, let's review.[n]...[f 4 2].[n][w][e]-##
+
+[msg MSG_046 [Учитель Такенозука]]
+[s][bup 47 161 0 0]Как вы называете явление, когда[n]электрическое сопротивление равно нулю?[n][w][e]
+##-[s][bup 47 161 0 0]What do you call the phenomenon[n]when electrical resistance is zero?[n][w][e]-##
+
+[sel SEL047 top]
+[s][f 2 7 0 1 1552 1]"Сверхпроводимость".[e]
+##-[s][f 2 7 0 1 1552 1]"Superconductivity."[e]-##
+[s]"Абсолютный ноль".[e]
+##-[s]"Absolute zero."[e]-##
+[s]"Квантовый эффект Холла".[e]
+##-[s]"The Quantum Hall Effect."[e]-##
+
+[msg MSG_048 [Учитель Такенозука]]
+[s][bup 47 161 0 0]Точно. Я вижу, ты учился.[n][w][e]
+##-[s][bup 47 161 0 0]Exactly. Been studying, I see.[n][w][e]-##
+[s]Сверхпроводящий материал обладает нулевым[n]электрическим сопротивлением.[n][w][e]
+##-[s]A superconductive material has zero[n]electrical resistance.[n][w][e]-##
+[s]В результате электрический ток может вечно[n]проходить по сверхпроводящей цепи.[n][w][e]
+##-[s]As a result, electric current can[n]travel eternally through a[n]superconductive circuit.[n][w][e]-##
+[s]......[n][w][e]
+##-[s]......[n][w][e]-##
+[s]Много лет назад я пытался использовать этот[n]факт, чтобы признаться кому-то в своей[n]любви...[n][w][e]
+##-[s]Many years ago, I tried to use this[n]fact to confess my love to someone...[n][w][e]-##
+[s]"Моя любовь к тебе сверхпроводящая!" Я[n]сказал им.[n][w][e]
+##-[s]"My love for you is superconductive!"[n]I told them.[n][w][e]-##
+[s]......[n][w][e]
+##-[s]......[n][w][e]-##
+[s]Конечно же, ей понравился мой энтузиазм, и[n]мы начали встречаться.[n][w][e]
+##-[s]Sure enough, she liked my enthusiasm,[n]and we started dating.[n][w][e]-##
+[s]Но энтузиазм - это не очень научно. Вскоре[n]я потерял к ней интерес.[n][w][e]
+##-[s]But enthusiasm isn't very scientific.[n]I lost interest in her before long.[n][w][e]-##
+[s]Хорошо, в следующем разделе...[n][w][e]
+##-[s]All right, in the next section...[n][w][e]-##
+
+[msg MSG_049 [Учитель Такенозука]]
+[s][bup 47 161 0 0]...Твоя голова все еще в отпуске?[n][w][e]
+##-[s][bup 47 161 0 0]...Is your head still on vacation?[n][w][e]-##
+[s]Сверхпроводящий материал обладает нулевым[n]электрическим сопротивлением.[n][w][e]
+##-[s]A superconductive material has zero[n]electrical resistance.[n][w][e]-##
+[s]В результате электрический ток может вечно[n]проходить по сверхпроводящей цепи.[n][w][e]
+##-[s]As a result, electric current can[n]travel eternally through a[n]superconductive circuit.[n][w][e]-##
+[s]......[n][w][e]
+##-[s]......[n][w][e]-##
+[s]Много лет назад я пытался использовать этот[n]факт, чтобы признаться кому-то в своей[n]любви...[n][w][e]
+##-[s]Many years ago, I tried to use this[n]fact to confess my love to someone...[n][w][e]-##
+[s]"Моя любовь к тебе сверхпроводящая!" Я[n]сказал им.[n][w][e]
+##-[s]"My love for you is superconductive!"[n]I told them.[n][w][e]-##
+[s]......[n][w][e]
+##-[s]......[n][w][e]-##
+[s]Конечно же, ей понравился мой энтузиазм, и[n]мы начали встречаться.[n][w][e]
+##-[s]Sure enough, she liked my enthusiasm,[n]and we started dating.[n][w][e]-##
+[s]Но энтузиазм - это не очень научно. Вскоре[n]я потерял к ней интерес.[n][w][e]
+##-[s]But enthusiasm isn't very scientific.[n]I lost interest in her before long.[n][w][e]-##
+[s]Хорошо, в следующем разделе...[n][w][e]
+##-[s]All right, in the next section...[n][w][e]-##
+
+[msg MSG_050 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Давайте посмотрим здесь... [clr 2]Финалы начнутся[n]в следующий вторник.[clr 0] Боже, у нас только что[n]был экзамен. Какая боль...[n][w][e]
+##-[s][bup 44 161 0 0]Let's see here... [clr 2]Finals will start[n]next Tuesday.[clr 0] Geez, we just had an[n]exam. What a pain...[n][w][e]-##
+[s]Ну, может быть, "боль" - это не то слово,[n]которое я ищу. Английские фразы довольно[n]сложны...[n][w][e]
+##-[s]Well, maybe "pain" wasn't the word[n]I'm looking for. English phrases are[n]pretty tricky...[n][w][e]-##
+[s]Теперь давайте поговорим о соединении[n]запятых.[n][w][e]
+##-[s]Now, let's talk about comma splices.[n][w][e]-##
+[s]Я уверен, что вы все слышали о них раньше,[n]но для обзора...[n][w][e]
+##-[s]I'm sure you've heard all about them[n]before, but to review...[n][w][e]-##
+[s]Соединение запятой - это когда два[n]независимых предложения соединяются запятой[n]без союза.[n][w][e]
+##-[s]A comma splice is when two independent[n]clauses are joined by a comma, with no[n]conjunction.[n][w][e]-##
+[s]Окей, [f 4 2]![n][w][e]
+##-[s]Okay, [f 4 2]![n][w][e]-##
+
+[msg MSG_051 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Вот тебе вопрос... Дун дун данннн![n][w][e]
+##-[s][bup 44 161 0 0]Here's a question for you...[n]Dun dun dunnn![n][w][e]-##
+[s]Какая из этих фраз неверна?[n][w][e]
+##-[s]Which of these phrases is incorrect?[n][w][e]-##
+
+[sel SEL052 top]
+[s]"Я потерпел неудачу, теперь все кончено".[e]
+##-[s]"I failed; it's over now."[e]-##
+[s][f 2 7 0 1 1552 1]"Я потерпел неудачу, теперь все кончено".[e]
+##-[s][f 2 7 0 1 1552 1]"I failed, it's over now."[e]-##
+[s]"Я потерпел неудачу. Теперь все кончено."[e]
+##-[s]"I failed. It's over now."[e]-##
+
+[msg MSG_053 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Ух ты! Я не думал, что ты это поймешь![n]Молодец![n][w][e]
+##-[s][bup 44 161 0 0]Whoa! I didn't think you'd get it![n]Good for you![n][w][e]-##
+[s]Это соединение запятых.[n][w][e]
+##-[s]That's a comma splice.[n][w][e]-##
+[s]...Понял?[n][w][e]
+##-[s]...Got it?[n][w][e]-##
+[s]Если ни у кого нет вопросов, давайте[n]двигаться дальше.[n][w][e]
+##-[s]If no one has any questions, let's[n]move on.[n][w][e]-##
+
+[msg MSG_054 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Бззззт! Я думал, что это была явная выдача.[n][w][e]
+##-[s][bup 44 161 0 0]Bzzzzt! I thought that one was a[n]dead giveaway.[n][w][e]-##
+[s]Запятая не может использоваться для связи[n]двух независимых предложений.[n][w][e]
+##-[s]A comma cannot be used to link two[n]independent clauses.[n][w][e]-##
+[s]Это соединение запятых.[n][w][e]
+##-[s]That's a comma splice.[n][w][e]-##
+[s]...Понял?[n][w][e]
+##-[s]...Got it?[n][w][e]-##
+[s]Если ни у кого нет вопросов, давайте[n]двигаться дальше.[n][w][e]
+##-[s]If no one has any questions, let's[n]move on.[n][w][e]-##
+
+[msg MSG_055 [Учитель Такенозука]]
+[s][bup 47 161 0 0]Сегодня мы будем говорить о делении ядер.[n][w][e]
+##-[s][bup 47 161 0 0]We'll be talking about nuclear[n]fission today.[n][w][e]-##
+[s]Представьте себе ядерную реакцию, в которой[n]массивное ядро распадается на более мелкие[n]ядра, высвобождая при этом энергию.[n][w][e]
+##-[s]Imagine a nuclear reaction in which[n]a massive nucleus splits into smaller[n]nuclei, releasing energy as it does.[n][w][e]-##
+[s]Я верю, что вы все это знаете.[n][w][e]
+##-[s]I believe you all know that much.[n][w][e]-##
+[s]В результате реакции выделяется огромное[n]количество энергии, поэтому ее используют[n]на атомных электростанциях.[n][w][e]
+##-[s]The reaction emits massive quantities[n]of energy, which is why it's used in[n]nuclear power plants.[n][w][e]-##
+[s]...Вы все знаете, что в Японии действуют[n]три ядерных запрета, верно?[n][w][e]
+##-[s]...You all know that Japan has three[n]nuclear prohibitions in place, right?[n][w][e]-##
+[s]Давайте посмотрим... [f 4 2].[n][w][e]
+##-[s]Let's see... [f 4 2].[n][w][e]-##
+
+[msg MSG_056 [Учитель Такенозука]]
+[s][bup 47 161 0 0]Что из этого НЕ является одним из запретов[n]Японии на ядерное оружие?[n][w][e]
+##-[s][bup 47 161 0 0]Which of these is NOT one of Japan's[n]prohibitions on nuclear weapons?[n][w][e]-##
+
+[sel SEL057 top]
+[s]Не может производить[e]
+##-[s]Can't produce[e]-##
+[s][f 2 7 0 1 1552 1]Не могу позволить другим производить[e]
+##-[s][f 2 7 0 1 1552 1]Can't let others produce[e]-##
+[s]Не могу допустить в Японию[e]
+##-[s]Can't allow into Japan[e]-##
+
+[msg MSG_058 [Учитель Такенозука]]
+[s][bup 47 161 0 0]Правильный. Мы запрещаем владение,[n]производство и допуск ядерного оружия на[n]территорию Японии.[n][w][e]
+##-[s][bup 47 161 0 0]Correct. We forbid possession,[n]production, and admission of nuclear[n]weapons within Japan.[n][w][e]-##
+[s]Третий запрет немного спорен, но это урок[n]физики, а не политологии.[n][w][e]
+##-[s]The third prohibition is a little[n]controversial, but this is physics[n]class, not political science.[n][w][e]-##
+[s]Теперь что касается ядерного деления...[n][w][e]
+##-[s]Now as for nuclear fission...[n][w][e]-##
+
+[msg MSG_059 [Учитель Такенозука]]
+[s][bup 47 161 0 0]Боюсь, что нет. Это должно быть[n]общеизвестно для японских граждан.[n][w][e]
+##-[s][bup 47 161 0 0]I'm afraid not. That should be[n]common knowledge for Japanese[n]citizens.[n][w][e]-##
+[s]Мы запрещаем владение, производство и[n]допуск ядерного оружия на территорию[n]Японии.[n][w][e]
+##-[s]We forbid possession, production,[n]and admission of nuclear weapons[n]within Japan.[n][w][e]-##
+[s]Третий запрет немного спорен, но это урок[n]физики, а не политологии.[n][w][e]
+##-[s]The third prohibition is a little[n]controversial, but this is physics[n]class, not political science.[n][w][e]-##
+[s]Теперь что касается ядерного деления...[n][w][e]
+##-[s]Now as for nuclear fission...[n][w][e]-##
+
+[msg MSG_060 [Учитель Оно]]
+[s][bup 45 161 0 0]Поехали! Наконец-то мы добрались до[n]Тайра-но Масакадо! Поворотный момент эпохи[n]самураев![n][w][e]
+##-[s][bup 45 161 0 0]Here we go! Finally, we're up to[n]Taira no Masakado! The turning point[n]of the era of the samurai![n][w][e]-##
+[s]Все началось с междоусобиц в клане Тайра.[n]Их конфликт обострялся до тех пор, пока не[n]вмешался Императорский двор.[n][w][e]
+##-[s]It all began from infighting among the[n]Taira clan. Their conflict escalated[n]until the Imperial Court intervened.[n][w][e]-##
+[s]Масакадо преследовал императорский двор, и[n]у него не было другого выбора, кроме как[n]открыто выступить против них...[n][w][e]
+##-[s]Masakado was pursued by the Imperial[n]Court, and had no choice but to[n]openly oppose them...[n][w][e]-##
+[s]Результат был известен как Война Масакадо.[n][w][e]
+##-[s]The result was known as the War of[n]Masakado.[n][w][e]-##
+[s][f 4 2]...Ты совсем не похож на самурая, но давай[n]посмотрим, знаешь ли ты этого.[n][w][e]
+##-[s][f 4 2]... You don't look[n]anything like a samurai, but[n]let's see if you know this one.[n][w][e]-##
+
+[msg MSG_061 [Учитель Оно]]
+[s][bup 45 161 0 0]На какой титул претендовал Тайра Но[n]Масакадо для себя?[n][w][e]
+##-[s][bup 45 161 0 0]What title did Taira No Masakado[n]claim for himself?[n][w][e]-##
+
+[sel SEL062 top]
+[s]"Король".[e]
+##-[s]"King."[e]-##
+[s][f 2 7 0 1 1552 1]"Имперский принц".[e]
+##-[s][f 2 7 0 1 1552 1]"Imperial Prince."[e]-##
+[s]"Сатана".[e]
+##-[s]"Satan."[e]-##
+
+[msg MSG_063 [Учитель Оно]]
+[s][bup 45 161 0 0]Правильно![n][w][e]
+##-[s][bup 45 161 0 0]Correct![n][w][e]-##
+[s]Это будет на [clr 2]экзамен на следующей неделе[clr 0],[n]так что будьте готовы![n][w][e]
+##-[s]This will be on the [clr 2]exam next[n]week[clr 0], so be prepared![n][w][e]-##
+[s]Давайте немного перенесемся в эпоху[n]Камакура![n][w][e]
+##-[s]Let's skip forward a little to the[n]Kamakura era![n][w][e]-##
+[s]Наконец-то! Присутствие самурая начинает[n]ощущаться в истории![n][w][e]
+##-[s]At last! The samurai's presence[n]begins to be felt in history![n][w][e]-##
+[s]В 1185 году был основан сегунат Камакура.[n]Да! Мы на месте![n][w][e]
+##-[s]In 1185, the Kamakura shogunate was[n]established. Yes! We're there![n][w][e]-##
+[s]И, конечно же, его основателем был[n]Минамото-но Еритомо. Я не могу поверить,[n]что мы наконец-то здесь![n][w][e]
+##-[s]And of course, its founder was[n]Minamoto no Yoritomo. I can't[n]believe we're finally here![n][w][e]-##
+
+[msg MSG_064 [Учитель Оно]]
+[s][bup 45 161 0 0]Неправильно! Разумеется, он называл себя[n]принцем-императором.[n][w][e]
+##-[s][bup 45 161 0 0]Wrong! He called himself the[n]Imperial Prince, of course.[n][w][e]-##
+[s]Это будет на [clr 2]экзамен на следующей неделе[clr 0],[n]так что будьте готовы![n][w][e]
+##-[s]This will be on the [clr 2]exam next[n]week[clr 0], so be prepared![n][w][e]-##
+[s]Давайте немного перенесемся в эпоху[n]Камакура![n][w][e]
+##-[s]Let's skip forward a little to the[n]Kamakura era![n][w][e]-##
+[s]Наконец-то! Присутствие самурая начинает[n]ощущаться в истории![n][w][e]
+##-[s]At last! The samurai's presence[n]begins to be felt in history![n][w][e]-##
+[s]В 1192 году был создан сегунат Камакура.[n]Да! Мы на месте![n][w][e]
+##-[s]In 1192, the Kamakura shogunate was[n]established. Yes! We're there![n][w][e]-##
+[s]И, конечно же, его основателем был[n]Минамото-но Еритомо. Я не могу поверить,[n]что мы наконец-то здесь![n][w][e]
+##-[s]And of course, its founder was[n]Minamoto no Yoritomo. I can't[n]believe we're finally here![n][w][e]-##
+
+[msg MSG_065 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Следующий... Давайте посмотрим здесь...[n][w][e]
+##-[s][bup 44 161 0 0]Next is... Let's see here...[n][w][e]-##
+[s][f 4 2], не думай, что я тебя там не вижу.[n][w][e]
+##-[s][f 4 2], don't think I don't[n]see you there.[n][w][e]-##
+
+[msg MSG_066 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Какой путь неверен:[n][w][e]
+##-[s][bup 44 161 0 0]Which way is incorrect:[n][w][e]-##
+[s]"Я должен был это сделать" или "Я должен[n]был это сделать". Вы знаете разницу?[n][w][e]
+##-[s]"I should have done it," or[n]"I should of done it." Do you[n]know the difference?[n][w][e]-##
+
+[sel SEL067 top]
+[s][f 2 7 0 1 1552 1]""Я должен был" - это неправильно".[e]
+##-[s][f 2 7 0 1 1552 1]"'I should of' is wrong."[e]-##
+[s]""Я должен был" - это неправильно".[e]
+##-[s]"'I should have' is wrong."[e]-##
+[s]Я не вижу разницы...[e]
+##-[s]I can't tell the difference...[e]-##
+
+[msg MSG_068 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Прямо на, [f 4 2]!Джунпэй, тебе следует почаще[n]заниматься с ним.[n][w][e]
+##-[s][bup 44 161 0 0]Right on, [f 4 2]! Джунпэй, you[n]should study with him more often.[n][w][e]-##
+[s]Видите ли, хотя "должен" звучит как "должен[n]был", грамматически говоря, "должен был"[n]правильно.[n][w][e]
+##-[s]You see, though "should of" sounds[n]like "should've," grammatically[n]speaking, "should have" is correct.[n][w][e]-##
+
+[msg MSG_069 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Ой... Ты такой же плохой, как Джунпэй.[n][w][e]
+##-[s][bup 44 161 0 0]Ouch... You're just as bad[n]as Джунпэй.[n][w][e]-##
+[s]Видите ли, хотя "должен" звучит как "должен[n]был", грамматически говоря, "должен был"[n]правильно.[n][w][e]
+##-[s]You see, though "should of" sounds[n]like "should've," grammatically[n]speaking, "should have" is correct.[n][w][e]-##
+
+[msg MSG_070 [Учитель Ториуми]]
+[s][bup 44 161 0 0]И вот, девушка исчезла в саду...[n][w][e]
+##-[s][bup 44 161 0 0]And so, the girl disappeared into[n]the garden...[n][w][e]-##
+[s]......[n][w][e]
+##-[s]......[n][w][e]-##
+[s]Разве это не чудесное стихотворение? Это[n]было лучше, чем в книге, поэтому я взял его[n]с собой, чтобы поделиться.[n][w][e]
+##-[s]Wasn't that a wonderful poem? It was[n]better than the ones in the book, so[n]I brought it along to share.[n][w][e]-##
+[s]А теперь давайте посмотрим... Сегодняшняя[n]дата - это [f 5 5]че, так раздели его и...[n][f 4 2]?[n][w][e]
+##-[s]Now let's see... Today's date is[n]the [f 5 5]th, so divide it and...[n][f 4 2]?[n][w][e]-##
+
+[msg MSG_071 [Учитель Ториуми]]
+[s][bup 44 161 0 0]В стихотворении упоминается цветок под[n]названием Сазанка, или Сасанква. Вы знаете,[n]как мы называем этот цветок?[n][w][e]
+##-[s][bup 44 161 0 0]The poem mentions a flower called[n]Sazanka, or Sasanqua. Do you know[n]what we call this flower?[n][w][e]-##
+
+[sel SEL072 top]
+[s]"Я не слушал..."[e]
+##-[s]"I wasn't listening..."[e]-##
+[s]"Лотос".[e]
+##-[s]"A lotus."[e]-##
+[s][f 2 7 0 1 1552 1]"Камелия".[e]
+##-[s][f 2 7 0 1 1552 1]"A camellia."[e]-##
+
+[msg MSG_073 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Я знал, что любой, кто понимает такое[n]замечательное стихотворение, сможет[n]ответить на этот вопрос![n][w][e]
+##-[s][bup 44 161 0 0]I knew that anyone who understands[n]such a wonderful poem would be able[n]to answer the question![n][w][e]-##
+[s]Я действительно уверен в этом[n]произведении... Может быть, я приму участие[n]в следующем конкурсе![n][w][e]
+##-[s]I'm really confident about this[n]piece... Maybe I'll enter it in[n]the next contest![n][w][e]-##
+
+[msg MSG_074 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Тьфу... Ты только что испортил[n]замечательное стихотворение! Вы могли бы[n]догадаться об этом, если бы немного[n]подумали![n][w][e]
+##-[s][bup 44 161 0 0]Ugh... You just ruined a wonderful[n]poem! You could have figured it out[n]if you'd give it some thought![n][w][e]-##
+[s]Что ж, я все еще очень уверен в этом[n]произведении. Может быть, я приму участие в[n]следующем конкурсе![n][w][e]
+##-[s]Well, I'm still really confident[n]about this piece. Maybe I'll enter[n]it in the next contest![n][w][e]-##
+
+[msg MSG_075 [Учитель Экода]]
+[s][bup 48 161 0 0]Уже ноябрь... Старшеклассники, должно быть,[n]сейчас лихорадочно учатся.[n][w][e]
+##-[s][bup 48 161 0 0]It's November already... The seniors[n]must be frantically studying now.[n][w][e]-##
+[s]Ты разделишь их судьбу в следующем году. Я[n]вижу, как вы все сейчас рвете на себе[n]волосы...[n][w][e]
+##-[s]You'll share their fate next year.[n]I can see you all now, tearing your[n]hair out...[n][w][e]-##
+[s]В любом случае, сегодня немного холодно, но[n]обогреватель не нужен. Можете ли вы сказать[n]нам, почему, [f 4 2]?[n][w][e]
+##-[s]Anyway, it's a bit cold today, but[n]there's no need for the heater. Can[n]you tell us why, [f 4 2]?[n][w][e]-##
+
+[msg MSG_076 [Учитель Экода]]
+[s][bup 48 161 0 0]Зима холодная; вы должны ценить[n]температуру, а не проклинать ее.[n][w][e]
+##-[s][bup 48 161 0 0]Winter is cold; you must appreciate[n]the temperature rather than curse it.[n][w][e]-##
+[s]Это по-японски. Ты понимаешь? Ты ведь не[n]знаешь, не так ли?[n][w][e]
+##-[s]That's the Japanese way. Do you[n]understand? You don't, do you?[n][w][e]-##
+[s]Как однажды сказал Сэй Шунагон, "Фую ва[n]цутометэ..."[n][w][e]
+##-[s]As Sei Shounagon once said, "Fuyu[n]wa tsutomete..."[n][w][e]-##
+[s]Я уверен, вы знаете, что это значит,[n][f 4 2].[n][w][e]
+##-[s]I'm sure you know what that means,[n][f 4 2].[n][w][e]-##
+
+[sel SEL077 top]
+[s][f 2 7 0 1 1552 1]"Зимние утра приятны".[e]
+##-[s][f 2 7 0 1 1552 1]"Winter mornings are pleasant."[e]-##
+[s]"Зима - спокойное время года".[e]
+##-[s]"Winter is a calm season."[e]-##
+[s]"Мы много работаем зимой".[e]
+##-[s]"We work hard in winter."[e]-##
+
+[msg MSG_078 [Учитель Экода]]
+[s][bup 48 161 0 0]Так что у тебя есть немного здравого[n]смысла... "Цутомете" означает "раннее[n]утро".[n][w][e]
+##-[s][bup 48 161 0 0]So you do have a bit of common[n]sense... "Tsutomete" means "early[n]morning."[n][w][e]-##
+[s]Она восхищается тем, что представляет собой[n]снег... Красота зимнего мороза.[n][w][e]
+##-[s]She admires what the snow represents...[n]The beauty of the winter frost.[n][w][e]-##
+[s]Вместо того чтобы проклинать зимний холод,[n]она ценит его положительные качества.[n][w][e]
+##-[s]Rather than cursing the winter chill,[n]she appreciates its positive qualities.[n][w][e]-##
+[s]О, как прекрасен японский язык! Во всяком[n]случае, в отличие от современной молодежи.[n][w][e]
+##-[s]Oh, how wonderful Japanese is![n]As opposed to modern youth, anyway.[n][w][e]-##
+[s]Если ты думаешь, что мои волосы тоже[n]покрыты инеем, помни, что в конце концов ты[n]станешь такой же, как я...[n][w][e]
+##-[s]If you think my hair is frosty, too,[n]remember that you'll eventually be[n]just like me...[n][w][e]-##
+
+[msg MSG_079 [Учитель Экода]]
+[s][bup 48 161 0 0]...Ваш японский ржавый? Вы только что[n]вернулись из поездки за границу?[n][w][e]
+##-[s][bup 48 161 0 0]...Is your Japanese rusty? Have you[n]just returned from a trip abroad?[n][w][e]-##
+[s]"Цутомете" означает "раннее утро".[n][w][e]
+##-[s]"Tsutomete" means "early morning."[n][w][e]-##
+[s]Она восхищается тем, что представляет собой[n]снег... Красота зимнего мороза.[n][w][e]
+##-[s]She admires what the snow represents...[n]The beauty of the winter frost.[n][w][e]-##
+[s]Вместо того чтобы проклинать зимний холод,[n]она ценит его положительные качества.[n][w][e]
+##-[s]Rather than cursing the winter chill,[n]she appreciates its positive qualities.[n][w][e]-##
+[s]О, как прекрасен японский язык! Во всяком[n]случае, в отличие от современной молодежи.[n][w][e]
+##-[s]Oh, how wonderful Japanese is![n]As opposed to modern youth, anyway.[n][w][e]-##
+[s]Если ты думаешь, что мои волосы тоже[n]покрыты инеем, помни, что в конце концов ты[n]станешь такой же, как я...[n][w][e]
+##-[s]If you think my hair is frosty, too,[n]remember that you'll eventually be[n]just like me...[n][w][e]-##
+
+[msg MSG_080 [Учитель Мияхара]]
+[s][bup 46 161 0 0]Ладно, все, приходите за своими анализами,[n]чтобы мы могли их просмотреть.[n][w][e]
+##-[s][bup 46 161 0 0]Okay everyone, come get your tests,[n]so we can go over them.[n][w][e]-##
+[s]По вопросу 1 вам пришлось использовать[n]формулу, на решение которой мы потратили[n]несколько дней. Помнишь?[n][w][e]
+##-[s]On question 1, you had to use the[n]formula we spent several days on[n]to solve it. Remember?[n][w][e]-##
+[s]Следующим вопросом была проблема со словом[n]о календарях.[n][w][e]
+##-[s]The next question was a word problem[n]about calendars.[n][w][e]-##
+[s]Кто-нибудь здесь покупает новый календарь[n]каждый год? Если вы это сделаете, вы зря[n]потратите свои деньги.[n][w][e]
+##-[s]Does anyone here buy a new calendar[n]every year? If you do, you're wasting[n]your money.[n][w][e]-##
+[s]Видите ли, в календарях есть только[n]определенное количество шаблонов.[n][w][e]
+##-[s]You see, calendars have only a set[n]number of patterns.[n][w][e]-##
+[s]В конце концов, на сколько дней может[n]выпасть 1 января?[n][w][e]
+##-[s]After all, how many days can January[n]1st possibly fall on?[n][w][e]-##
+[s]Я выберу студента математически. Давайте[n]посмотрим... [f 4 2].[n][w][e]
+##-[s]I'll pick a student mathematically.[n]Let's see... [f 4 2].[n][w][e]-##
+
+[msg MSG_081 [Учитель Мияхара]]
+[s][bup 46 161 0 0]Сколько существует календарных шаблонов?[n][w][e]
+##-[s][bup 46 161 0 0]How many calendar patterns are there?[n][w][e]-##
+
+[sel SEL082 top]
+[s]"Семь".[e]
+##-[s]"Seven."[e]-##
+[s][f 2 7 0 1 1552 1]"Четырнадцать".[e]
+##-[s][f 2 7 0 1 1552 1]"Fourteen."[e]-##
+[s]- Двадцать восемь.[e]
+##-[s]"Twenty-eight."[e]-##
+
+[msg MSG_083 [Учитель Мияхара]]
+[s][bup 46 161 0 0]Правильно! Отличная работа![n][w][e]
+##-[s][bup 46 161 0 0]Correct! Well done![n][w][e]-##
+[s]Очевидно, что 1 января может приходиться[n]только на семь дней: с понедельника по[n]воскресенье.[n][w][e]
+##-[s]Obviously, January 1st can only fall[n]on seven days: Monday through Sunday.[n][w][e]-##
+[s]Но вы должны учитывать возможность[n]високосного дня в конце февраля.[n][w][e]
+##-[s]But you must factor in the possibility[n]of a leap day at the end of February.[n][w][e]-##
+[s]Что дает вам еще семь шаблонов... Две[n]вариации, основанные на семи днях, дают вам[n]всего четырнадцать шаблонов.[n][w][e]
+##-[s]Which gives you seven more patterns...[n]Two variations based on seven days[n]gives you fourteen patterns in all.[n][w][e]-##
+[s]Любой год, который вы можете назвать,[n]попадает в один из этих четырнадцати.[n][w][e]
+##-[s]Any year you can name falls into one[n]of these fourteen.[n][w][e]-##
+
+[msg MSG_084 [Учитель Мияхара]]
+[s][bup 46 161 0 0]Нет... Вам нужно думать об этих вопросах[n]более элегантно.[n][w][e]
+##-[s][bup 46 161 0 0]No... You need to think about these[n]questions more elegantly.[n][w][e]-##
+[s]Очевидно, что 1 января может приходиться[n]только на семь дней: с понедельника по[n]воскресенье.[n][w][e]
+##-[s]Obviously, January 1st can only fall[n]on seven days: Monday through Sunday.[n][w][e]-##
+[s]Но вы должны учитывать возможность[n]високосного дня в конце февраля.[n][w][e]
+##-[s]But you must factor in the possibility[n]of a leap day at the end of February.[n][w][e]-##
+[s]Что дает вам еще семь шаблонов... Две[n]вариации, основанные на семи днях, дают вам[n]всего четырнадцать шаблонов.[n][w][e]
+##-[s]Which gives you seven more patterns...[n]Two variations based on seven days[n]gives you fourteen patterns in all.[n][w][e]-##
+[s]Любой год, который вы можете назвать,[n]попадает в один из этих четырнадцати.[n][w][e]
+##-[s]Any year you can name falls into one[n]of these fourteen.[n][w][e]-##
+
+[msg MSG_085 [Учитель Оуниши]]
+[s][bup 49 161 0 0][clr 2]Экзамены начинаются в следующий вторник[clr 0]...Я[n]бы предпочел потратить это время на[n]эксперименты.[n][w][e]
+##-[s][bup 49 161 0 0][clr 2]Exams start next Tuesday[clr 0]...[n]I'd rather spend the time doing[n]experiments.[n][w][e]-##
+[s]Точный момент, когда два агента вступают в[n]контакт... Это так волнующе![n][w][e]
+##-[s]The precise moment when two agents[n]come into contact... It's so exciting![n][w][e]-##
+[s]В порядке, [f 4 2] сегодня твоя очередь отвечать[n]на мой вопрос.[n][w][e]
+##-[s]All right, [f 4 2], it's your turn[n]to answer my question today.[n][w][e]-##
+
+[msg MSG_086 [Учитель Оуниши]]
+[s][bup 49 161 0 0]Это японская традиция - класть немного соли[n]рядом со входом в бар... Подождите, мы уже[n]обсуждали это.[n][w][e]
+##-[s][bup 49 161 0 0]It's Japanese tradition to place[n]some salt next to the entrance of[n]a bar... Wait, we covered this.[n][w][e]-##
+[s]Ладно, новый вопрос. Вы знаете, почему[n]капоте матадора красного цвета?[n][w][e]
+##-[s]Okay, new question. Do you know why[n]a matador's capote is red?[n][w][e]-##
+
+[sel SEL087 top]
+[s][f 2 7 0 1 1552 1]"Чтобы возбудить аудиторию".[e]
+##-[s][f 2 7 0 1 1552 1]"To excite the audience."[e]-##
+[s]"Чтобы возбудить быка".[e]
+##-[s]"To excite the bull."[e]-##
+[s]"Чтобы скрыть кровь".[e]
+##-[s]"To hide the blood."[e]-##
+
+[msg MSG_088 [Учитель Оуниши]]
+[s][bup 49 161 0 0]О... ты знал? Что ж, это верно.[n][w][e]
+##-[s][bup 49 161 0 0]Oh... you knew? Well, that's[n]correct.[n][w][e]-##
+[s]Быки не могут отличить красный цвет от[n]любого другого цвета. Их возбуждает[n]трепетание капоте.[n][w][e]
+##-[s]Bulls can't distinguish red from any[n]other color. It's the fluttering of[n]the capote that excites them.[n][w][e]-##
+[s]Зрители, однако, очень волнуются в "красном[n]плаще". Человеческая реакция на цвет очень[n]интересна...[n][w][e]
+##-[s]The audience, however, becomes very[n]anxious at the red cape. Human reaction[n]to color is very interesting...[n][w][e]-##
+
+[msg MSG_089 [Учитель Оуниши]]
+[s][bup 49 161 0 0]Ха-ха! Какое удовольствие было бы[n]преподавать, если бы студенты что-нибудь[n]знали?[n][w][e]
+##-[s][bup 49 161 0 0]Haha! What fun would teaching be[n]if students knew anything?[n][w][e]-##
+[s]Быки не могут отличить красный цвет от[n]любого другого цвета. Их возбуждает[n]трепетание капоте.[n][w][e]
+##-[s]Bulls can't distinguish red from any[n]other color. It's the fluttering of[n]the capote that excites them.[n][w][e]-##
+[s]Зрители, однако, очень волнуются в "красном[n]плаще". Человеческая реакция на цвет очень[n]интересна...[n][w][e]
+##-[s]The audience, however, becomes very[n]anxious at the red cape. Human reaction[n]to color is very interesting...[n][w][e]-##
+
+[msg MSG_090 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Наш язык может быть очень сложным...[n][w][e]
+##-[s][bup 44 161 0 0]Our language can be very complex...[n][w][e]-##
+[s]Итак... Джунпэй выглядит подозрительно, так[n]как насчет тебя, [f 4 2]?[n][w][e]
+##-[s]Now then... Джунпэй's looking shifty,[n]so how about you, [f 4 2]?[n][w][e]-##
+
+[msg MSG_091 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Заполните пробел соответствующей связкой:[n]"Всю прошлую неделю шел дождь, _____[n]сегодня снова пойдет дождь".[n][w][e]
+##-[s][bup 44 161 0 0]Fill in the blank with the appropriate[n]conjunction: "It rained all last week,[n]_____ it'll rain again today."[n][w][e]-##
+
+[sel SEL092 top]
+[s]"Но..."[e]
+##-[s]"But..."[e]-##
+[s][f 2 7 0 1 1552 1]"И..."[e]
+##-[s][f 2 7 0 1 1552 1]"And..."[e]-##
+[s]"Возможно..."[e]
+##-[s]"Probably..."[e]-##
+
+[msg MSG_093 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Это абсолютно правильно! Когда-нибудь из[n]тебя получится отличный учитель композиции,[n][f 4 2].[n][w][e]
+##-[s][bup 44 161 0 0]That's absolutely correct! You'd[n]make a great composition teacher[n]someday, [f 4 2].[n][w][e]-##
+[s]Вы бы не стали использовать "но" для[n]сравнения двух идентичных ситуаций, а[n]"вероятно" - это не союз.[n][w][e]
+##-[s]You wouldn't use "but" to compare two[n]situations that are identical, and[n]"probably" isn't a conjunction.[n][w][e]-##
+[s]Так что "и" - это правильный путь.[n][w][e]
+##-[s]So "and" is the way to go.[n][w][e]-##
+
+[msg MSG_094 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Тск! Если бы ты допустил подобную ошибку на[n]тесте, я бы завалил тебя на месте.[n][w][e]
+##-[s][bup 44 161 0 0]Tsk! If you made a mistake like that[n]on a test, I'd fail you on the spot.[n][w][e]-##
+[s]Это не сложно, если вы просто немного[n]подумаете об этом![n][w][e]
+##-[s]It's not hard, if you just put some[n]thought into it![n][w][e]-##
+[s]Вы бы не стали использовать "но" для[n]сравнения двух идентичных ситуаций, а[n]"вероятно" - это не союз.[n][w][e]
+##-[s]You wouldn't use "but" to compare two[n]situations that are identical, and[n]"probably" isn't a conjunction.[n][w][e]-##
+[s]Так что "и" - это правильный путь.[n][w][e]
+##-[s]So "and" is the way to go.[n][w][e]-##
+
+[msg MSG_095 [Учитель Оуниши]]
+[s][bup 49 161 0 0]Следующая глава посвящена ферментам... Ты[n]боишься, что это пройдет через твою голову?[n][w][e]
+##-[s][bup 49 161 0 0]The next chapter is about enzymes...[n]Are you worried it'll go over your[n]head?[n][w][e]-##
+[s]Не волнуйся. Вы уже знакомы с основными[n]местами, где можно найти ферменты... ваше[n]собственное тело.[n][w][e]
+##-[s]Don't worry. You're already familiar[n]with the main places enzymes can be[n]found... your own body.[n][w][e]-##
+[s]Давайте посмотрим, сможете ли вы рассказать[n]классу,[n][f 4 2].[n][w][e]
+##-[s]Let's see if you can tell the class,[n][f 4 2].[n][w][e]-##
+
+[msg MSG_096 [Учитель Оуниши]]
+[s][bup 49 161 0 0]Рассмотрим молоко, которое содержит[n]молочную кислоту.[n][w][e]
+##-[s][bup 49 161 0 0]Consider milk, which contains lactic[n]acid.[n][w][e]-##
+[s]Одним из видов функции фермента является[n]расщепление молочной кислоты на глюкозу и[n]галактозу...[n][w][e]
+##-[s]One type of enzyme's function is to[n]break lactic acid into glucose and[n]galactose...[n][w][e]-##
+[s]Как называется этот фермент?[n][w][e]
+##-[s]What is that enzyme called?[n][w][e]-##
+
+[sel SEL097 top]
+[s]"Инвертаза".[e]
+##-[s]"Invertase."[e]-##
+[s]"Сахараза".[e]
+##-[s]"Sucrase."[e]-##
+[s][f 2 7 0 1 1552 1]"Лактаза".[e]
+##-[s][f 2 7 0 1 1552 1]"Lactase."[e]-##
+
+[msg MSG_098 [Учитель Оуниши]]
+[s][bup 49 161 0 0]Да, ты понял.[n][w][e]
+##-[s][bup 49 161 0 0]Yep, you got it.[n][w][e]-##
+[s]У некоторых людей болит живот от[n]употребления молока, потому что их организм[n]не может вырабатывать достаточное[n]количество лактазы.[n][w][e]
+##-[s]Some people get stomachaches from[n]drinking milk, because their bodies[n]can't produce enough lactase.[n][w][e]-##
+[s]То же самое происходит с некоторыми людьми[n]и алкоголем, если им не хватает ферментов[n]для расщепления алкоголя.[n][w][e]
+##-[s]The same thing happens for some[n]people and alcohol, if they lack[n]enzymes to break the alcohol down.[n][w][e]-##
+[s]Но если вам интересно, есть ли у вас этот[n]конкретный фермент... не пытайтесь выяснить[n]это, пока вам не исполнится 21 год, хорошо?[n][w][e]
+##-[s]But if you're wondering if you have[n]that particular enzyme... don't try[n]to find out until you're 21, okay?[n][w][e]-##
+
+[msg MSG_099 [Учитель Оуниши]]
+[s][bup 49 161 0 0]Хм, не совсем. Ответ - лактаза.[n][w][e]
+##-[s][bup 49 161 0 0]Hmm, not quite. The answer is lactase.[n][w][e]-##
+[s]У некоторых людей болит живот от[n]употребления молока, потому что их организм[n]не может вырабатывать достаточное[n]количество лактазы.[n][w][e]
+##-[s]Some people get stomachaches from[n]drinking milk, because their bodies[n]can't produce enough lactase.[n][w][e]-##
+[s]То же самое происходит с некоторыми людьми[n]и алкоголем, если им не хватает ферментов[n]для расщепления алкоголя.[n][w][e]
+##-[s]The same thing happens for some[n]people and alcohol, if they lack[n]enzymes to break the alcohol down.[n][w][e]-##
+[s]Но если вам интересно, есть ли у вас этот[n]конкретный фермент... не пытайтесь выяснить[n]это, пока вам не исполнится 21 год, хорошо?[n][w][e]
+##-[s]But if you're wondering if you have[n]that particular enzyme... don't try[n]to find out until you're 21, okay?[n][w][e]-##
+
+[msg MSG_100 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Всех с Новым годом. Зимние каникулы уже[n]закончились.[n][w][e]
+##-[s][bup 44 161 0 0]Happy New Year, everyone.[n]Winter break is over now.[n][w][e]-##
+[s]Больше никакой выпивки... О, вы, ребята,[n]несовершеннолетние. Ух ты, мне тебя жаль.[n][w][e]
+##-[s]No more booze... Oh, you guys are[n]underage. Wow, I feel sorry for you.[n][w][e]-##
+[s]Ну и ну! Давайте сразу перейдем к делу. Это[n]новый год, так что мы начнем с основ.[n][w][e]
+##-[s]Well! Let's get right down to[n]business. It's a new year, so[n]we'll start with the basics.[n][w][e]-##
+[s]Это простая концепция, но студенты часто[n]понимают ее неправильно. Я говорю об[n]апострофе.[n][w][e]
+##-[s]It's a simple concept, but students[n]often get it wrong. I'm talking[n]about the apostrophe.[n][w][e]-##
+[s]Окей, [f 4 2].[n][w][e]
+##-[s]Okay, [f 4 2].[n][w][e]-##
+
+[msg MSG_101 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Скажи мне одну из трех фраз, которые я[n]написал на доске... Какой из них[n]правильный?[n][w][e]
+##-[s][bup 44 161 0 0]Of the three phrases I've written[n]on the blackboard, tell me...[n]Which one is correct?[n][w][e]-##
+
+[sel SEL102 top]
+[s]"Это неправильно".[e]
+##-[s]"Its wrong."[e]-##
+[s][f 2 7 0 1 1552 1]"Это неправильно".[e]
+##-[s][f 2 7 0 1 1552 1]"It's wrong."[e]-##
+[s]"Это неправильно".[e]
+##-[s]"Its' wrong."[e]-##
+
+[msg MSG_103 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Это абсолютно верно.[n][w][e]
+##-[s][bup 44 161 0 0]That's absolutely right.[n][w][e]-##
+[s]"Это" - сокращение от "Это есть".[n][w][e]
+##-[s]"It's" is a contraction of "It is."[n][w][e]-##
+[s]"Свой" - это притяжательное слово. Вы могли[n]бы сказать "его хвост" или "его[n]температура", но не "это неправильно".[n][w][e]
+##-[s]"Its" is a possessive word. You could[n]say "its tail" or "its temperature,"[n]but not "its wrong."[n][w][e]-##
+[s]Есть еще одна пара слов, которые обычно[n]путают...[n][w][e]
+##-[s]There's another pair of words that[n]are commonly confused...[n][w][e]-##
+[s]"Они" и "их" имеют одинаковое произношение,[n]но они не взаимозаменяемы, так что будьте[n]осторожны.[n][w][e]
+##-[s]"They're" and "their" have the same[n]pronunciation, but they're not[n]interchangeable, so watch out.[n][w][e]-##
+[s]А теперь откройте свои учебники.[n][w][e]
+##-[s]Now, open your textbooks.[n][w][e]-##
+
+[msg MSG_104 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Нет! Неправильно! Совершенно неправильно![n]Где ты этому научился?! Прекрати это[n]делать![n][w][e]
+##-[s][bup 44 161 0 0]No! Wrong! Totally wrong! Where'd[n]you learn this!? Stop doing it![n][w][e]-##
+[s]"Это" - сокращение от "Это есть".[n][w][e]
+##-[s]"It's" is a contraction of "It is."[n][w][e]-##
+[s]"Свой" - это притяжательное слово. Вы могли[n]бы сказать "его хвост" или "его[n]температура", но не "это неправильно".[n][w][e]
+##-[s]"Its" is a possessive word. You could[n]say "its tail" or "its temperature,"[n]but not "its wrong."[n][w][e]-##
+[s]Есть еще одна пара слов, которые обычно[n]путают...[n][w][e]
+##-[s]There's another pair of words that[n]are commonly confused...[n][w][e]-##
+[s]"Они" и "их" имеют одинаковое произношение,[n]но они не взаимозаменяемы, так что будьте[n]осторожны.[n][w][e]
+##-[s]"They're" and "their" have the same[n]pronunciation, but they're not[n]interchangeable, so watch out.[n][w][e]-##
+[s]А теперь откройте свои учебники.[n][w][e]
+##-[s]Now, open your textbooks.[n][w][e]-##
+
+[msg MSG_105 [Учитель Тераучи]]
+[s][bup 50 161 0 0]Ладно, все, слушайте внимательно.[n][w][e]
+##-[s][bup 50 161 0 0]Okay everyone, listen up.[n][w][e]-##
+[s]Все знают, что такое тофу, верно?[n][w][e]
+##-[s]Everyone knows what tofu is, right?[n][w][e]-##
+[s]Это здоровая пища с высоким содержанием[n]белка, приготовленная из соевых бобов.[n][w][e]
+##-[s]It's a high-protein health food made[n]of soybeans.[n][w][e]-##
+[s]Соевый соус - это еще одна еда, которая,[n]очевидно, сделана из соевых бобов.[n][w][e]
+##-[s]Soy sauce is another food that's[n]obviously made from soybeans.[n][w][e]-##
+[s]Сейчас... [f 4 2].[n][w][e]
+##-[s]Now... [f 4 2].[n][w][e]-##
+
+[msg MSG_106 [Учитель Тераучи]]
+[s][bup 50 161 0 0]Натто тоже производится из соевых бобов, но[n]как его делают?[n][w][e]
+##-[s][bup 50 161 0 0]Natto comes from soybeans, too,[n]but how is it made?[n][w][e]-##
+
+[sel SEL107 top]
+[s]"Путем их кипячения".[e]
+##-[s]"By boiling them."[e]-##
+[s][f 2 7 0 1 1552 1]"Путем их брожения".[e]
+##-[s][f 2 7 0 1 1552 1]"By fermenting them."[e]-##
+[s]"Обжаривая их во фритюре".[e]
+##-[s]"By stir-frying them."[e]-##
+
+[msg MSG_108 [Учитель Тераучи]]
+[s][bup 50 161 0 0]Верно.[n][w][e]
+##-[s][bup 50 161 0 0]Right.[n][w][e]-##
+[s]Натто ферментируется, вот почему он липкий.[n][w][e]
+##-[s]Natto is fermented, which is why[n]it's sticky.[n][w][e]-##
+[s]Это японская еда, но даже здесь горстка[n]людей не выносит ее вкуса...[n][w][e]
+##-[s]It's a Japanese food, but even here,[n]a handful of people can't stand the[n]taste of it...[n][w][e]-##
+
+[msg MSG_109 [Учитель Тераучи]]
+[s][bup 50 161 0 0]Неправильно![n][w][e]
+##-[s][bup 50 161 0 0]Wrong![n][w][e]-##
+[s]Натто ферментируется, вот почему он липкий.[n][w][e]
+##-[s]Natto is fermented, which is why[n]it's sticky.[n][w][e]-##
+[s]Это японская еда, но даже здесь горстка[n]людей не выносит ее вкуса...[n][w][e]
+##-[s]It's a Japanese food, but even here,[n]a handful of people can't stand the[n]taste of it...[n][w][e]-##
+
+[msg MSG_110 [Учитель Экода]]
+[s][bup 48 161 0 0]О, как возвышенно изображена героиня[n]Мурасакино-уэ в этом отрывке![n][w][e]
+##-[s][bup 48 161 0 0]Oh, how sublimely the heroine[n]Murasakino-ue is portrayed in[n]this passage![n][w][e]-##
+[s]Она была написана, чтобы быть идеальной[n]женщиной периода Хэйан... Квинтэссенция[n]красоты эпохи Хэйан.[n][w][e]
+##-[s]She was written to be the ideal[n]woman of the Heian period...[n]The quintessential Heian beauty.[n][w][e]-##
+[s]Кстати, о красоте Хэйан... Вот вопрос к[n]вам, [f 4 2].[n][w][e]
+##-[s]Speaking of Heian beauty... Here's[n]a question for you, [f 4 2].[n][w][e]-##
+
+[msg MSG_111 [Учитель Экода]]
+[s][bup 48 161 0 0]Главным критерием красоты Хэйан была длина[n]женских волос, хотя косметика тоже была[n]важна.[n][w][e]
+##-[s][bup 48 161 0 0]The chief criteria for Heian beauty[n]was the length of a woman's hair,[n]though cosmetics were important too.[n][w][e]-##
+[s]Они пользовались белым макияжем, выщипывали[n]брови в пользу нарисованных и красили зубы[n]лимонитом.[n][w][e]
+##-[s]They used white makeup, plucked their[n]eyebrows in favor of drawn-on ones,[n]and colored their teeth with limonite.[n][w][e]-##
+[s]Но вы думаете, что это сделали мужчины?[n][w][e]
+##-[s]But do you think the men did these[n]things?[n][w][e]-##
+
+[sel SEL112 top]
+[s]"Они выщипали себе брови".[e]
+##-[s]"They plucked their eyebrows."[e]-##
+[s]"Они покрасили свои зубы".[e]
+##-[s]"They colored their teeth."[e]-##
+[s][f 2 7 0 1 1552 1]"Они сделали и то, и другое".[e]
+##-[s][f 2 7 0 1 1552 1]"They did both."[e]-##
+
+[msg MSG_113 [Учитель Экода]]
+[s][bup 48 161 0 0]Хм... Я полагаю, это был простой вопрос.[n][w][e]
+##-[s][bup 48 161 0 0]Hmph... I suppose it was an[n]easy question.[n][w][e]-##
+[s]Это был единый стиль. Будь то мужчина или[n]женщина, каждый взрослый носил эту моду.[n][w][e]
+##-[s]It was a unified style. Whether man[n]or woman, every adult sported this[n]fashion.[n][w][e]-##
+[s]Несмотря на то, что белый порошок был на[n]основе свинца и вреден для здоровья, они[n]носили его, чтобы соответствовать своим[n]стандартам красоты.[n][w][e]
+##-[s]Even though the white powder was lead-[n]based and unhealthy, they wore it to[n]uphold their standards of beauty.[n][w][e]-##
+[s]По сравнению с ними, вы, ребята, такие...[n][w][e]
+##-[s]Compared to them, you guys are...[n][w][e]-##
+
+[msg MSG_114 [Учитель Экода]]
+[s][bup 48 161 0 0]Ха! Опять ошибся. Может быть, немного[n]макияжа скроет твой стыд.[n][w][e]
+##-[s][bup 48 161 0 0]Hah! Wrong again. Maybe a little[n]makeup would hide your shame.[n][w][e]-##
+[s]Это был единый стиль. Будь то мужчина или[n]женщина, каждый взрослый носил эту моду.[n][w][e]
+##-[s]It was a unified style. Whether man[n]or woman, every adult sported this[n]fashion.[n][w][e]-##
+[s]Несмотря на то, что белый порошок был на[n]основе свинца и вреден для здоровья, они[n]носили его, чтобы соответствовать своим[n]стандартам красоты.[n][w][e]
+##-[s]Even though the white powder was lead-[n]based and unhealthy, they wore it to[n]uphold their standards of beauty.[n][w][e]-##
+[s]По сравнению с ними, вы, ребята, такие...[n][w][e]
+##-[s]Compared to them, you guys are...[n][w][e]-##
+
+[msg MSG_115 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Итак, теперь вы понимаете разницу между[n]"оцукури" и "сашими"?[n][w][e]
+##-[s][bup 44 161 0 0]So now do you understand the[n]difference between "otsukuri"[n]and "sashimi"?[n][w][e]-##
+[s]Давайте посмотрим... Ммм... Ах,[n][f 4 2]! Ты только[n]что поднял глаза, так что ты должен знать![n][w][e]
+##-[s]Let's see... Umm... Ah,[n][f 4 2]! You looked up just[n]now, so you must know![n][w][e]-##
+
+[msg MSG_116 [Учитель Ториуми]]
+[s][bup 44 161 0 0]"Сашими" буквально означает "проколотая[n]плоть", но на самом деле рыба разрезана.[n]Откуда взялось это название?[n][w][e]
+##-[s][bup 44 161 0 0]"Sashimi" literally means "pierced[n]flesh," but the fish is actually[n]cut. Where does the name come from?[n][w][e]-##
+
+[sel SEL117 top]
+[s]"Когда-то она была проколота".[e]
+##-[s]"It was once pierced."[e]-##
+[s]"Это просто звучит хорошо".[e]
+##-[s]"It just sounds good."[e]-##
+[s][f 2 7 0 1 1552 1]"Они не хотели говорить "вырезать"".[e]
+##-[s][f 2 7 0 1 1552 1]"They didn't want to say 'cut.'"[e]-##
+
+[msg MSG_118 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Вау... Ты бы отлично справился с одной из[n]этих викторин.[n][w][e]
+##-[s][bup 44 161 0 0]Wow... You'd do great on one of[n]those quiz shows.[n][w][e]-##
+[s]Слово "вырезать" не любили в самурайском[n]обществе. Причины для этого были...[n][w][e]
+##-[s]The word "cut" was disliked in[n]the samurai society. The reasons[n]for this were...[n][w][e]-##
+
+[msg MSG_119 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Ну, не совсем так. В самурайском обществе[n]использование слова "вырезать" не[n]одобрялось.[n][w][e]
+##-[s][bup 44 161 0 0]Well, not quite. In the samurai[n]society, use of the word "cut"[n]was frowned upon.[n][w][e]-##
+[s]Было ли это потому, что это напомнило им о[n]том, что их порезали катаной? Ну, в любом[n]случае...[n][w][e]
+##-[s]Was it because it reminded them[n]of being cut by a katana? Well,[n]anyway...[n][w][e]-##
+
+[msg MSG_120 [Учитель Ториуми]]
+[s][bup 44 163 0 0]...Кендзи! Эй, Кендзи![n][w][e]
+##-[s][bup 44 163 0 0]...Kenji! Hey, Kenji![n][w][e]-##
+[s][bup 44 161 0 0]Боже, он совершенно не в себе. Ему следует[n]начать пить кофе до того, как он придет в[n]класс...[n][w][e]
+##-[s][bup 44 161 0 0]Geez, he's completely out of it.[n]He should start drinking coffee[n]before he comes to class...[n][w][e]-##
+[s]Как насчет тебя, [f 4 2]?[n][w][e]
+##-[s]How about you, [f 4 2]?[n][w][e]-##
+
+[msg MSG_121 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Всем известно, что слово "кофе" происходит[n]от арабского. Или ты должен, потому что я[n]сказал тебе это в прошлый раз.[n][w][e]
+##-[s][bup 44 161 0 0]Everyone knows that "coffee" is[n]derived from Arabic. Or you should,[n]because I told you that last time.[n][w][e]-##
+[s]Но какая из этих вещей НЕ является[n]арабской?[n][w][e]
+##-[s]But which one of these things is[n]NOT Arabic?[n][w][e]-##
+
+[sel SEL122 top]
+[s]"Сахар".[e]
+##-[s]"Sugar."[e]-##
+[s]"Журналы".[e]
+##-[s]"Magazines."[e]-##
+[s][f 2 7 0 1 1552 1]"Наручные часы".[e]
+##-[s][f 2 7 0 1 1552 1]"Wristwatches."[e]-##
+
+[msg MSG_123 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Бинго! Ты сорвал джекпот.[n][w][e]
+##-[s][bup 44 161 0 0]Bingo! You hit the jackpot.[n][w][e]-##
+[s]И "сахар", и "журнал" произошли от[n]арабского языка.[n][w][e]
+##-[s]Both "sugar" and "magazine" had their[n]origins in Arabic.[n][w][e]-##
+[s]Однако они заимствованы из европейских[n]языков, а не непосредственно из арабского.[n][w][e]
+##-[s]However, they're derived from European[n]languages, not directly from Arabic.[n][w][e]-##
+
+[msg MSG_124 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Слишком плохой... Ответ - "наручные часы".[n][w][e]
+##-[s][bup 44 161 0 0]Too bad... The answer is "wristwatch."[n][w][e]-##
+[s]И "сахар", и "журнал" произошли от[n]арабского языка.[n][w][e]
+##-[s]Both "sugar" and "magazine" had their[n]origins in Arabic.[n][w][e]-##
+[s]Однако они заимствованы из европейских[n]языков, а не непосредственно из арабского.[n][w][e]
+##-[s]However, they're derived from European[n]languages, not directly from Arabic.[n][w][e]-##
+
+[msg MSG_125 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Хорошо, давайте начнем. Палас арон[n]азиномас...[n][w][e]
+##-[s][bup 43 161 0 0]All right, let's get started.[n]Palas aron azinomas...[n][w][e]-##
+[s]Нам всем нужно с чего-то начинать. Рим не[n]был построен за один день![n][w][e]
+##-[s]We all need to start somewhere.[n]Rome wasn't built in a day![n][w][e]-##
+[s]То же самое относится и к магии. Важно[n]изучить основы.[n][w][e]
+##-[s]The same goes for magic. It's important[n]to learn the basics.[n][w][e]-##
+[s]Поэтому сегодня я расскажу вам о[n]происхождении магии.[n][w][e]
+##-[s]So today, I'll tell you about the origins[n]of magic.[n][w][e]-##
+[s]Давным-давно, на заре цивилизации, человек[n]создал примитивные религии.[n][w][e]
+##-[s]Long, long ago, at the dawn of civilization,[n]man created primitive religions.[n][w][e]-##
+[s]Анимизм, тотемизм и шаманизм - все они[n]попадают в эту категорию. Вы изучали их в[n]мировой истории, верно?[n][w][e]
+##-[s]Animism, totemism, and shamanism all fall[n]into this category. You learned them in[n]world history, right?[n][w][e]-##
+[s]Этот последний, шаманизм, важен для истоков[n]магии.[n][w][e]
+##-[s]That last one, shamanism, is important[n]to the origins of magic.[n][w][e]-##
+[s]Шаманы впадали бы в состояние транса и[n]действовали бы как посредник между мирами,[n]но...[n][w][e]
+##-[s]Shamans would fall into a trance state[n]and act as the intermediary between[n]the worlds, but...[n][w][e]-##
+[s]Это считается "магией", когда люди могут[n]иметь силу богов и духов в своих[n]собственных руках.[n][w][e]
+##-[s]It counts as "magic," where humans can[n]have the power of gods and spirits in[n]their own hands.[n][w][e]-##
+[s]Эта магическая традиция в шаманском стиле[n]позже будет воспринята ведьмами.[n][w][e]
+##-[s]This shaman-style magical tradition[n]would later be embraced by witches.[n][w][e]-##
+[s]Возьмем, к примеру, обычную европейскую[n]ведьму.[n][w][e]
+##-[s]Take the common European witch, as[n]an example.[n][w][e]-##
+[s]Люди сегодня думают, что ведьмы получили[n]свою силу от контрактов с дьяволом...[n][w][e]
+##-[s]People today think witches derived[n]their power from contracts with the[n]devil...[n][w][e]-##
+[s]Но это всего лишь образ, который навязало[n]им христианство.[n][w][e]
+##-[s]But that's just the image that[n]Christianity imposed on them.[n][w][e]-##
+[s]Предшественницы ведьм были больше похожи на[n]дев, служивших богам.[n][w][e]
+##-[s]The witches' predecessors were more[n]like maidens serving the gods.[n][w][e]-##
+[s]Именно благодаря молитве этим богам они[n]заработали свои силы.[n][w][e]
+##-[s]It was through prayer to those gods[n]that they earned their powers.[n][w][e]-##
+[s]Они научились контролировать свою магию, не[n]теряя сознания во время трансовых[n]состояний.[n][w][e]
+##-[s]They learned to control their magic[n]without losing consciousness during[n]their trance states.[n][w][e]-##
+[s]Вот как они изначально пробудились к магии.[n][w][e]
+##-[s]That's how they originally awoke to[n]magic.[n][w][e]-##
+[s]Первоначально Европа была полна религий,[n]которые поклонялись множеству различных[n]богов.[n][w][e]
+##-[s]Originally, Europe was full of religions[n]that worshipped a slew of various gods.[n][w][e]-##
+[s]Их в общем называли "язычеством".[n][w][e]
+##-[s]They were generically called[n]"paganism."[n][w][e]-##
+[s]И к вашему сведению, празднование Рождества[n]и Хэллоуина имеет языческую подоплеку.[n][w][e]
+##-[s]And for your information, the celebrations[n]of Christmas and Halloween have pagan[n]backgrounds.[n][w][e]-##
+[s]...Вы все еще слушаете? Теперь никаких[n]трансовых состояний... Иииииии.[n][w][e]
+##-[s]...Are you all still listening?[n]No trance states, now... Eeeheehee.[n][w][e]-##
+[s]Я дам вам небольшой тест, чтобы проверить,[n]обращаете ли вы внимание.[n][w][e]
+##-[s]I'll give you a little test to see[n]if you're paying attention.[n][w][e]-##
+[s]Поймите это неправильно, и ваша загробная[n]жизнь не будет приятной. Паллас арон[n]азиномас...[n][w][e]
+##-[s]Get it wrong, and your afterlife won't[n]be pleasant. Pallas aron azinomas...[n][w][e]-##
+[s]Кого я должен выбрать...? В порядке,[n][f 4 2], Я[n]спрашиваю тебя.[n][w][e]
+##-[s]Who should I pick...? All right,[n][f 4 2], I ask thee.[n][w][e]-##
+
+[msg MSG_126 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Что послужило источником магии?[n][w][e]
+##-[s][bup 43 161 0 0]What formed the origins of magic?[n][w][e]-##
+
+[sel SEL127 top]
+[s]"Тотемизм".[e]
+##-[s]"Totemism."[e]-##
+[s]"Анимизм".[e]
+##-[s]"Animism."[e]-##
+[s][f 2 7 0 1 1552 1]"Шаманизм".[e]
+##-[s][f 2 7 0 1 1552 1]"Shamanism."[e]-##
+
+[msg MSG_128 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Отлично... Ты снова родишься в своей[n]следующей жизни человеком.[n][w][e]
+##-[s][bup 43 161 0 0]Very good... You'll be born into[n]your next life as a human again.[n][w][e]-##
+[s]Итак, язычество и христианство имеют более[n]тесную связь друг с другом, чем вы думаете.[n][w][e]
+##-[s]Now then, paganism and Christianity[n]have a tighter connection to one another[n]than you'd think.[n][w][e]-##
+[s]По мере того как Римская империя[n]становилась сильнее, росло и население[n]христиан в империи.[n][w][e]
+##-[s]As the Roman Empire grew stronger,[n]so did the population of Christians[n]in the empire.[n][w][e]-##
+[s]Сначала каждая религия проводила свое[n]собственное богослужение отдельно, но...[n][w][e]
+##-[s]At first, each religion carried on its own[n]worship separately, but...[n][w][e]-##
+
+[msg MSG_129 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Неправильный. Наслаждайся своей следующей[n]жизнью в качестве чупакабры.[n][w][e]
+##-[s][bup 43 161 0 0]Wrong. Enjoy your next life as[n]a chupacabra.[n][w][e]-##
+[s]Итак, язычество и христианство имеют более[n]тесную связь друг с другом, чем вы думаете.[n][w][e]
+##-[s]Now then, paganism and Christianity[n]have a tighter connection to one another[n]than you'd think.[n][w][e]-##
+[s]По мере того как Римская империя[n]становилась сильнее, росло и население[n]христиан в империи.[n][w][e]
+##-[s]As the Roman Empire grew stronger,[n]so did the population of Christians[n]in the empire.[n][w][e]-##
+[s]Сначала каждая религия проводила свое[n]собственное богослужение отдельно, но...[n][w][e]
+##-[s]At first, each religion carried on its own[n]worship separately, but...[n][w][e]-##
+
+[msg MSG_130 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Тишина! Урок начинается. Себна уру куах...[n][w][e]
+##-[s][bup 43 161 0 0]Silence! Class is beginning.[n]Sebna uru quah...[n][w][e]-##
+[s]Я планирую использовать слово "магия" в[n]очень общем смысле.[n][w][e]
+##-[s]I plan on using the word "magic"[n]in a very general sense.[n][w][e]-##
+[s]Но сегодня мы поговорим об одном самом[n]волшебном месте и времени.[n][w][e]
+##-[s]But today, we'll talk about the single[n]most magical place and time.[n][w][e]-##
+[s]Сегодняшняя тема - магия средневековой[n]Европы.[n][w][e]
+##-[s]Today's topic is the magic of[n]medieval Europe.[n][w][e]-##
+[s]Существует множество материалов,[n]относящихся к западной магии, от книг до[n]фольклора.[n][w][e]
+##-[s]There are a lot of materials pertaining to[n]western magic, from books to folklore.[n][w][e]-##
+[s]Мы расскажем обо всем, включая изменения,[n]через которые он прошел.[n][w][e]
+##-[s]We'll cover all of it, including the changes[n]it's gone through.[n][w][e]-##
+[s]Как я упоминал в прошлый раз, европейская[n]магия берет свое начало в язычестве.[n][w][e]
+##-[s]As I mentioned last time, European magic[n]has its origins in paganism.[n][w][e]-##
+[s]Однако, начиная с христианства, на него[n]повлиял приток различных культур.[n][w][e]
+##-[s]Starting with Christianity, though,[n]it's been influenced by the influx of[n]various cultures.[n][w][e]-##
+[s]Вот некоторые хорошо известные примеры...[n][w][e]
+##-[s]Some well-known examples are...[n][w][e]-##
+[s]Каббала, изучение мистических аспектов[n]еврейских текстов.[n][w][e]
+##-[s]Kabbalah, the study of the mystical[n]aspects of Jewish texts.[n][w][e]-##
+[s]Гностицизм, христианская секта, основанная[n]Симоном Волхвом, Колдуном.[n][w][e]
+##-[s]Gnosticism, a Christian sect founded by[n]Simon Magus, the Sorcerer.[n][w][e]-##
+[s]Греческая философия и естественные науки[n]были плодами исследований магии...[n][w][e]
+##-[s]Greece's philosophy and natural sciences[n]were the fruits of magical researchers...[n][w][e]-##
+[s]То же самое можно было сказать и о научных[n]достижениях ислама, которые в то время[n]превосходили европейские.[n][w][e]
+##-[s]The same was true of Islam's scientific[n]advances, which surpassed Europe's[n]at the time.[n][w][e]-##
+[s]Теперь, что касается обстоятельств магии в[n]этом веке...[n][w][e]
+##-[s]Now, as for the circumstances of magic[n]in this age...[n][w][e]-##
+[s]Это была эпоха, когда господство[n]христианства и понимание естественных наук[n]столкнулись.[n][w][e]
+##-[s]It was an era where the rule of[n]Christianity and the insight of the[n]natural sciences collided.[n][w][e]-##
+[s]Маги храбро тянулись к связи с богами...[n][w][e]
+##-[s]Magicians bravely reached up for[n]a connection with the gods...[n][w][e]-##
+[s]...Вы все проснулись? Ты ведь не грезишь[n]наяву, верно? Иииииии.[n][w][e]
+##-[s]...Are you all awake? You're not[n]daydreaming, right? Eeeheehee.[n][w][e]-##
+[s]Небольшой тест, чтобы проверить, слушали ли[n]вы...[n][w][e]
+##-[s]A little test, to see if you were[n]listening...[n][w][e]-##
+[s]Поймите это неправильно, и вы получите[n]страшного ангела-хранителя. Себна уру[n]куах...[n][w][e]
+##-[s]Get it wrong, and you'll get a scary[n]guardian angel. Sebna uru quah...[n][w][e]-##
+[s]Кого я должен выбрать...? В порядке,[n][f 4 2], Я[n]спрашиваю тебя.[n][w][e]
+##-[s]Who should I choose...? All right,[n][f 4 2], I ask thee.[n][w][e]-##
+
+[msg MSG_131 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Что такое мистическое изучение еврейских[n]текстов?[n][w][e]
+##-[s][bup 43 161 0 0]What is the mystical study of[n]Jewish texts?[n][w][e]-##
+
+[sel SEL132 top]
+[s]"Лемегетон".[e]
+##-[s]"Lemegeton."[e]-##
+[s]"Гностицизм".[e]
+##-[s]"Gnosticism."[e]-##
+[s][f 2 7 0 1 1552 1]"Каббала".[e]
+##-[s][f 2 7 0 1 1552 1]"Kabbalah."[e]-##
+
+[msg MSG_133 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Отлично.[n][w][e]
+##-[s][bup 43 161 0 0]Very good.[n][w][e]-##
+[s]Волшебники той эпохи достигли великих[n]свершений...[n][w][e]
+##-[s]The magicians of the age achieved[n]great things...[n][w][e]-##
+[s]Особенно знаменитые "гримуары".[n][w][e]
+##-[s]Particularly the famous "grimoires."[n][w][e]-##
+[s]Гримуары - это собрания широкого спектра[n]магических текстов, и...[n][w][e]
+##-[s]Grimoires are collections of a wide range[n]of magical texts, and...[n][w][e]-##
+
+[msg MSG_134 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Неправильно! Ты получаешь падшего самурая[n]от Окехазамы в качестве своего[n]ангела-хранителя.[n][w][e]
+##-[s][bup 43 161 0 0]Wrong! You get a fallen samurai from[n]Okehazama for your guardian angel.[n][w][e]-##
+[s]Итак, маги того времени достигли великих[n]свершений...[n][w][e]
+##-[s]Now then, the magicians of the age[n]achieved great things...[n][w][e]-##
+[s]Особенно знаменитые "гримуары".[n][w][e]
+##-[s]Particularly the famous "grimoires."[n][w][e]-##
+[s]Гримуары - это собрания широкого спектра[n]магических текстов, и...[n][w][e]
+##-[s]Grimoires are collections of a wide range[n]of magical texts, and...[n][w][e]-##
+
+[msg MSG_135 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Привет, класс. Багахи Лача Бачабе...[n][w][e]
+##-[s][bup 43 161 0 0]Hello, class. Bagahi Laca Bachabe...[n][w][e]-##
+[s]Вы готовы? Тогда давайте начнем. Сегодня мы[n]обсудим магию Возрождения.[n][w][e]
+##-[s]Are you ready? Then, let's begin.[n]Today, we'll discuss the magic of[n]the Renaissance.[n][w][e]-##
+[s]Эпоха Возрождения была временем, когда в[n]Европе возрождались искусства и науки.[n][w][e]
+##-[s]The Renaissance was a time when[n]the arts and the sciences enjoyed[n]a resurgence in Europe.[n][w][e]-##
+[s]Естественно, это оказало глубокое влияние[n]на магию.[n][w][e]
+##-[s]Naturally, this had a profound influence[n]on magic.[n][w][e]-##
+[s]Возможно, правильнее было бы сказать, что[n]эти два исследования помогли улучшить друг[n]друга...[n][w][e]
+##-[s]It might be more accurate to say[n]the two studies helped improve[n]one another...[n][w][e]-##
+[s]Относительно того, почему Возрождение[n]способствовало дальнейшему развитию[n]магии...[n][w][e]
+##-[s]As to why the Renaissance helped[n]to further magic...[n][w][e]-##
+[s]Они нашли способ избежать правления церкви.[n][w][e]
+##-[s]They had found a way to escape[n]the rule of the church.[n][w][e]-##
+[s]Благодаря изучению учений ранее запрещенных[n]сект знания о магии значительно[n]распространились.[n][w][e]
+##-[s]By studying the teachings of previously[n]forbidden sects, the knowledge of magic[n]spread greatly.[n][w][e]-##
+[s]Эпоха Возрождения также привела к[n]возрождению древнегреческой и римской[n]литературы.[n][w][e]
+##-[s]The Renaissance also brought about[n]the revival of ancient Greek and[n]Roman literature.[n][w][e]-##
+[s]Магические тексты, такие как Герметика,[n]получили новые переводы и изучение.[n][w][e]
+##-[s]Magical texts, such as the Hermetica,[n]received new translations and study.[n][w][e]-##
+[s]Философия, естественная история, алхимия,[n]астрология...[n][w][e]
+##-[s]Philosophy, natural history, alchemy,[n]astrology...[n][w][e]-##
+[s]Книга была наполнена широким кругом тем, и[n]ее можно было бы назвать библией магии.[n][w][e]
+##-[s]The book was filled with a wide[n]range of subjects, and could be[n]called the bible of magic.[n][w][e]-##
+[s]Точно так же, как наука и астрономия[n]добились больших успехов в наши дни...[n][w][e]
+##-[s]Just as science and astronomy have made[n]strides in the modern day...[n][w][e]-##
+[s]То же самое относится и к искусству магии.[n][w][e]
+##-[s]So, too, has the art of magic.[n][w][e]-##
+[s]Вы можете увидеть это в появлении великого[n]мага, который применил знания эпохи[n]Возрождения.[n][w][e]
+##-[s]You can see this in the emergence[n]of a great magician, who applied[n]the knowledge of the Renaissance.[n][w][e]-##
+[s]Джон Ди был профессором, который[n]консультировал королеву Англии, но...[n][w][e]
+##-[s]John Dee was a professor who advised[n]the Queen of England, but...[n][w][e]-##
+[s]...с помощью полученных им магических[n]знаний он смог разговаривать с ангелами.[n][w][e]
+##-[s]...with the magical knowledge he[n]obtained, he was able to talk to angels.[n][w][e]-##
+[s]Затем был Хоэнхайм, врач, который[n]путешествовал по Европе...[n][w][e]
+##-[s]Then there was Hohenheim, a doctor[n]who traveled across Europe...[n][w][e]-##
+[s]Он стал известен как Парацельс, известный[n]врач и алхимик.[n][w][e]
+##-[s]He became known as Paracelsus,[n]a renowned physician and alchemist.[n][w][e]-##
+[s]Конечно, жизнь волшебника была нелегкой.[n][w][e]
+##-[s]Of course, a magician's life wasn't[n]an easy one.[n][w][e]-##
+[s]Оба мужчины прожили жизнь, пронизанную[n]преследованиями.[n][w][e]
+##-[s]Both men lived lives riddled with[n]persecution.[n][w][e]-##
+[s]...Вы все слушаете? Держите свои мысли на[n]Земле! Иииииии.[n][w][e]
+##-[s]...Are you all listening? Keep your minds[n]down to Earth! Eeeheehee.[n][w][e]-##
+[s]Вот тест, чтобы проверить, обращали ли вы[n]внимание.[n][w][e]
+##-[s]Here's a test to see if you were[n]paying attention.[n][w][e]-##
+[s]Поймите это неправильно, и ваш дом станет[n]безвозвратно населенным призраками. Багахи[n]Лача Бачабе...[n][w][e]
+##-[s]Get it wrong, and your house will[n]become irrevocably haunted.[n]Bagahi Laca Bachabe...[n][w][e]-##
+[s]Сейчас... Кто должен быть моей жертвой?[n][f 4 2], Я[n]спрашиваю тебя.[n][w][e]
+##-[s]Now... Who should be my victim?[n][f 4 2], I ask thee.[n][w][e]-##
+
+[msg MSG_136 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Какая книга способствовала развитию[n]искусства магии в эпоху Возрождения?[n][w][e]
+##-[s][bup 43 161 0 0]Which book helped further the art[n]of magic during the Renaissance?[n][w][e]-##
+
+[sel SEL137 top]
+[s]"Книга Еноха".[e]
+##-[s]"The Book of Enoch."[e]-##
+[s]"Книга Тота".[e]
+##-[s]"The Book of Thoth."[e]-##
+[s][f 2 7 0 1 1552 1]"Герметика".[e]
+##-[s][f 2 7 0 1 1552 1]"The Hermetica."[e]-##
+
+[msg MSG_138 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Правильный. Возвращайся к своей мирной[n]жизни.[n][w][e]
+##-[s][bup 43 161 0 0]Correct. Back to your peaceful life.[n][w][e]-##
+[s]Магия в то время имела большое влияние на[n]общество, управляемое церковью.[n][w][e]
+##-[s]Magic at the time had a great influence[n]on the church-ruled society.[n][w][e]-##
+[s]Несколько магов были вовлечены в[n]центральную часть эпохи Возрождения,[n]религиозную революцию...[n][w][e]
+##-[s]Several magicians were involved with[n]the central part of the Renaissance,[n]the religious revolution...[n][w][e]-##
+
+[msg MSG_139 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Неправильно! Теперь вы увидите женское лицо[n]на потолке...[n][w][e]
+##-[s][bup 43 161 0 0]Wrong! Now you'll be seeing a[n]woman's face in the ceiling...[n][w][e]-##
+[s]Магия в то время имела большое влияние на[n]общество, управляемое церковью.[n][w][e]
+##-[s]Magic at the time had a great influence[n]on the church-ruled society.[n][w][e]-##
+[s]Несколько магов были вовлечены в[n]центральную часть эпохи Возрождения,[n]религиозную революцию...[n][w][e]
+##-[s]Several magicians were involved with[n]the central part of the Renaissance,[n]the religious revolution...[n][w][e]-##
+
+[msg MSG_140 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Давайте начнем, класс. Ахих Адни[n]Тетраграмматон...[n][w][e]
+##-[s][bup 43 161 0 0]Let's begin, class. Ahih Adni[n]Tetragrammaton...[n][w][e]-##
+[s]Мы рассмотрели времена магического роста, и[n]теперь мы почти достигли современной эпохи.[n][w][e]
+##-[s]We've covered the times of magical[n]growth, and now we've just about[n]reached the modern age.[n][w][e]-##
+[s]Каждое искусство или наука по мере своего[n]развития разветвляется на[n]под-исследования...[n][w][e]
+##-[s]Every art or science branches off[n]into sub-studies as it progresses...[n][w][e]-##
+[s]Магия тоже была разделена примерно в 18[n]веке.[n][w][e]
+##-[s]Magic, too, was subdivided around[n]the 18th century.[n][w][e]-##
+[s]Некоторые люди проповедовали о морали,[n]некоторые сосредоточились на общении с[n]духами и так далее.[n][w][e]
+##-[s]Some people preached about morals,[n]some focused on communicating with[n]spirits, and so on.[n][w][e]-##
+[s]Был даже человек, который основал[n]современную психологию благодаря своим[n]исследованиям гипноза.[n][w][e]
+##-[s]There was even a man who founded[n]modern psychology through his[n]research on hypnosis.[n][w][e]-##
+[s]Это тоже магия: способность заглядывать в[n]человеческий разум.[n][w][e]
+##-[s]This, too, is magic: the ability to see[n]into the human mind.[n][w][e]-##
+[s]В результате расцвета магических[n]исследований охота на ведьм стала более[n]распространенной...[n][w][e]
+##-[s]As a result of the flourishing[n]magical research, witch hunts[n]became more common...[n][w][e]-##
+[s]Чтобы избежать этого, магия начала[n]развиваться в "тайных обществах".[n][w][e]
+##-[s]To avoid this, magic began to progress[n]in "secret societies."[n][w][e]-##
+[s]Я уверен, что многие из вас слышали[n]названия этих организаций...[n][w][e]
+##-[s]I'm sure many of you have heard[n]the names of these organizations...[n][w][e]-##
+[s]Орден розенкрейцеров, масоны, иллюминаты,[n]Золотой Рассвет...[n][w][e]
+##-[s]The Rosicrucian Order, the Freemasons,[n]the Illuminati, the Golden Dawn...[n][w][e]-##
+[s]Многие из этих обществ все еще с нами[n]сегодня.[n][w][e]
+##-[s]Many of these societies are still[n]with us today.[n][w][e]-##
+[s]Предков современной магии слишком много,[n]чтобы их можно было сосчитать.[n][w][e]
+##-[s]The forefathers of modern magic are[n]too numerous to count.[n][w][e]-##
+[s]Например, есть Элифас Леви, человек,[n]который пытался объединить современные и[n]древние системы магии.[n][w][e]
+##-[s]For instance, there's Eliphas Levi,[n]the man who attempted to combine[n]modern and ancient systems of magic.[n][w][e]-##
+[s]Его литература, в которой применялся[n]научный подход, все еще публикуется[n]сегодня.[n][w][e]
+##-[s]His literature, which took a scientific[n]approach, is still published today.[n][w][e]-##
+[s]Мадам Блаватская была величайшим магом 19[n]века и известным теософом.[n][w][e]
+##-[s]Madam Blavatsky was the biggest[n]magician of the 19th century, and[n]a renowned Theosophist.[n][w][e]-##
+[s]Многие магические общества произошли от[n]Теософского общества, которое она основала.[n][w][e]
+##-[s]Many magical societies have stemmed[n]from the Theosophical Society that[n]she founded.[n][w][e]-##
+[s]Месмер открыл путь к психологии в своих[n]исследованиях жизненной энергии.[n][w][e]
+##-[s]Mesmer opened the path to psychology[n]in his studies on life energy.[n][w][e]-##
+[s]Рудольф Штайнер помог распространить знания[n]об антропософии.[n][w][e]
+##-[s]Rudolf Steiner helped spread the[n]knowledge of anthroposophy.[n][w][e]-##
+[s]Конечно, был Алистер Кроули, великий маг[n]20-го века...[n][w][e]
+##-[s]There was Aleister Crowley, of course,[n]the 20th century's grand magician...[n][w][e]-##
+[s]И Гурджиев, мистик, который учил своих[n]многочисленных учеников Четвертому Пути.[n][w][e]
+##-[s]And Gurdjieff, a mystic who taught[n]his many students the Fourth Way.[n][w][e]-##
+[s]Все они обладали невероятными запасами[n]знаний.[n][w][e]
+##-[s]All of them had incredible stores[n]of knowledge.[n][w][e]-##
+[s]...Вы все слушаете? Надеюсь, ты не оцепенел[n]от страха? Иииииии.[n][w][e]
+##-[s]...Are you all listening? You're not frozen[n]with fear, I trust? Eeeheehee.[n][w][e]-##
+[s]Я проверю тебя, чтобы увидеть, насколько[n]хорошо ты обращаешь внимание.[n][w][e]
+##-[s]I'll test you, to see how well[n]you've been paying attention.[n][w][e]-##
+[s]Поймите это неправильно, и ваш знак зодиака[n]изменится. Ахах Адонай Тетраграмматон...[n][w][e]
+##-[s]Get it wrong, and your zodiac[n]sign will change. Ahah Adonai[n]Tetragrammaton...[n][w][e]-##
+[s]Кого выбрать...? Ах, [f 4 2].Я спрашиваю тебя...[n][w][e]
+##-[s]Who to choose...? Ah, [f 4 2].[n]I ask thee...[n][w][e]-##
+
+[msg MSG_141 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Кто был основателем теософии, которая дала[n]начало многим магическим обществам?[n][w][e]
+##-[s][bup 43 161 0 0]Who was the founder of Theosophy,[n]which gave rise to many magical[n]societies?[n][w][e]-##
+
+[sel SEL142 top]
+[s]"Элифас Леви".[e]
+##-[s]"Eliphas Levi."[e]-##
+[s][f 2 7 0 1 1552 1]"Мадам Блаватская".[e]
+##-[s][f 2 7 0 1 1552 1]"Madam Blavatsky."[e]-##
+[s]"Алистер Кроули".[e]
+##-[s]"Aleister Crowley."[e]-##
+
+[msg MSG_143 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Отлично. Не забывайте очищаться в свои[n]несчастливые годы...[n][w][e]
+##-[s][bup 43 161 0 0]Very good. Remember to be purified[n]on your unlucky years...[n][w][e]-##
+[s]Итак, магические искусства продвинулись еще[n]дальше с практическим применением.[n][w][e]
+##-[s]Now then, the magical arts progressed[n]even further with practical use.[n][w][e]-##
+[s]Благодаря знаниям, распространяемым людьми,[n]которых мы сегодня обсуждали...[n][w][e]
+##-[s]With the knowledge spread by the[n]people we've discussed today...[n][w][e]-##
+
+[msg MSG_144 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Неправильно! Ваш знак теперь Кошка - ваш[n]год никогда не наступит![n][w][e]
+##-[s][bup 43 161 0 0]Wrong! Your sign is now the Cat--[n]your year will never come![n][w][e]-##
+[s]Итак, магические искусства продвинулись еще[n]дальше с практическим применением.[n][w][e]
+##-[s]Now then, the magical arts progressed[n]even further with practical use.[n][w][e]-##
+[s]Благодаря знаниям, распространяемым людьми,[n]которых мы сегодня обсуждали...[n][w][e]
+##-[s]With the knowledge spread by the[n]people we've discussed today...[n][w][e]-##
+
+[msg MSG_145 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Мы начинаем! Ом ваджра-ратна Ом...[n][w][e]
+##-[s][bup 43 161 0 0]We begin! Om vajra-ratna Om...[n][w][e]-##
+[s]Сегодня мы рассмотрим региональные формы[n]магии.[n][w][e]
+##-[s]Today, we'll be examining regional[n]forms of magic.[n][w][e]-##
+[s]Во-первых, это Индия, одно из мест рождения[n]магии.[n][w][e]
+##-[s]First up is India, one of the birthplaces[n]of magic.[n][w][e]-##
+[s]Вы можете не думать об Индии как об[n]особенно волшебном месте, но...[n][w][e]
+##-[s]You may not think of India as an especially[n]magical place, but...[n][w][e]-##
+[s]Все как раз наоборот.[n][w][e]
+##-[s]It's precisely the opposite.[n][w][e]-##
+[s]Если вдуматься, эзотерическая буддийская[n]магия пришла из Индии...[n][w][e]
+##-[s]If you think about it, esoteric[n]Buddhist magic came from India...[n][w][e]-##
+[s]Это оказало определенное влияние на[n]гностицизм и стало основой современной[n]теософии.[n][w][e]
+##-[s]It was a definite influence on[n]Gnosticism, and a foundation of[n]modern-day theosophy.[n][w][e]-##
+[s]Говорят, что Упанишады, часть Вед, являются[n]оригинальными книгами по магии.[n][w][e]
+##-[s]It's said that the Upanishads, part of the[n]Vedas, are the original books of magic.[n][w][e]-##
+[s]Многие древние индейцы были страстны в[n]своих поисках магии.[n][w][e]
+##-[s]Many ancient Indians were passionate[n]in their search for magic.[n][w][e]-##
+[s]Эти индийские маги появились в тех же[n]обстоятельствах, что и в других местах по[n]всему миру.[n][w][e]
+##-[s]These Indian magicians emerged in[n]similar circumstances as other places[n]around the world.[n][w][e]-##
+[s]В Индии традиционно вести благочестивый[n]образ жизни...[n][w][e]
+##-[s]In India, it's traditional to lead[n]a pious life...[n][w][e]-##
+[s]Но в конце концов некоторые люди[n]утверждали, что обрели огромную силу[n]благодаря Тапасье.[n][w][e]
+##-[s]But eventually, some people claimed[n]to have gained immense power through[n]Tapasya.[n][w][e]-##
+[s]Сначала их претензии были отвергнуты, но[n]они постепенно набирали силу и[n]численность...[n][w][e]
+##-[s]At first, their claims were rejected,[n]but they slowly gained power and[n]numbers...[n][w][e]-##
+[s]В конце концов, они были приняты в обычную[n]практику.[n][w][e]
+##-[s]Eventually, they were accepted into[n]common practice.[n][w][e]-##
+[s]Это аскеты, упомянутые в Упанишадах.[n][w][e]
+##-[s]They are the asceticists mentioned[n]in the Upanishads.[n][w][e]-##
+[s]Однако нормальный человек не смог бы[n]подражать их навыкам.[n][w][e]
+##-[s]However, a normal human wouldn't be[n]able to mimic their skills.[n][w][e]-##
+[s]Тапасвины превзошли ограничения[n]человечества.[n][w][e]
+##-[s]The tapasvins have surpassed the[n]limitations of humanity.[n][w][e]-##
+[s]Как вы думаете, вы могли бы поститься и[n]молиться месяцами подряд, без еды и сна?[n][w][e]
+##-[s]Do you think you could fast and[n]pray for months at a time, without[n]eating or sleeping?[n][w][e]-##
+[s]Ты умрешь, прежде чем обретешь какие-либо[n]силы![n][w][e]
+##-[s]You'd die before attaining any powers![n][w][e]-##
+[s]Итак, понятно, что Будда отверг такой[n]крайний аскетизм.[n][w][e]
+##-[s]So, it's understandable that the Buddha[n]rejected such extreme asceticism.[n][w][e]-##
+[s]Конечно, Упанишады не все посвящены таким[n]диким практикам.[n][w][e]
+##-[s]Of course, the Upanishads aren't[n]all about such wild practices.[n][w][e]-##
+[s]Они также содержат очень практические[n]методы. Йога, например, также была[n]представлена в этих священных писаниях.[n][w][e]
+##-[s]They contain very practical methods,[n]too. Yoga, for instance, was also[n]introduced in these scriptures.[n][w][e]-##
+[s]...Вы все слушаете? Никаких внетелесных[n]проекций, сейчас же! Иииииии.[n][w][e]
+##-[s]...Are you all listening? No out-of-body[n]projections, now! Eeeheehee.[n][w][e]-##
+[s]Возможно, стоит провести тест, чтобы[n]проверить, слушали ли вы...[n][w][e]
+##-[s]Perhaps a test is in order, to see[n]if you were listening...[n][w][e]-##
+[s]Поймешь неправильно, и я наживу себе лишнюю[n]плохую карму. Ом ваджра-ратна Ом...[n][w][e]
+##-[s]Get it wrong, and I'll pile on some[n]extra bad karma. Om vajra-ratna Om...[n][w][e]-##
+[s]К кому мне следует обратиться? Как насчет[n]тебя,[n][f 4 2]?Я спрашиваю тебя...[n][w][e]
+##-[s]Who should I call on? How about you,[n][f 4 2]? I ask thee...[n][w][e]-##
+
+[msg MSG_146 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Что такое древнеиндийский магический текст,[n]о котором я упоминал сегодня?[n][w][e]
+##-[s][bup 43 161 0 0]What is the ancient Indian magical text[n]I mentioned today?[n][w][e]-##
+
+[sel SEL147 top]
+[s][f 2 7 0 1 1552 1]"Упанишады".[e]
+##-[s][f 2 7 0 1 1552 1]"The Upanishads."[e]-##
+[s]"Махабхарата".[e]
+##-[s]"The Mahabharata."[e]-##
+[s]"Рамаяна".[e]
+##-[s]"The Ramayana."[e]-##
+
+[msg MSG_148 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Правильно! Не забывайте жить честной[n]жизнью.[n][w][e]
+##-[s][bup 43 161 0 0]Correct! Remember to live an honest life.[n][w][e]-##
+[s]Двигаемся вперед... Йога полна вариаций.[n][w][e]
+##-[s]Moving forward... Yoga is full of[n]variations.[n][w][e]-##
+[s]Некоторые асаны предназначены для здоровья,[n]в то время как другие предназначены для[n]молитвы и поклонения.[n][w][e]
+##-[s]Some asanas are for health, while[n]others are for prayer and worship.[n][w][e]-##
+[s]Одной из важных систем является хатха-йога,[n]вид йоги, с которым люди наиболее знакомы[n]сегодня.[n][w][e]
+##-[s]One important system is Hatha yoga,[n]the type of yoga people are most[n]familiar with today.[n][w][e]-##
+[s]В этой йоге человек развивает здоровое[n]тело, чтобы достичь чистоты ума...[n][w][e]
+##-[s]In this yoga, one cultivates a healthy body[n]to attain purity of mind...[n][w][e]-##
+
+[msg MSG_149 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Неправильно! Ты получаешь карму Директора[n]на целый год![n][w][e]
+##-[s][bup 43 161 0 0]Wrong! You get a year's worth of[n]the Principal's karma![n][w][e]-##
+[s]Двигаемся вперед... Йога полна вариаций.[n][w][e]
+##-[s]Moving forward... Yoga is full of[n]variations.[n][w][e]-##
+[s]Некоторые асаны предназначены для здоровья,[n]в то время как другие предназначены для[n]молитвы и поклонения.[n][w][e]
+##-[s]Some asanas are for health, while[n]others are for prayer and worship.[n][w][e]-##
+[s]Одной из важных систем является хатха-йога,[n]вид йоги, с которым люди наиболее знакомы[n]сегодня.[n][w][e]
+##-[s]One important system is Hatha yoga,[n]the type of yoga people are most[n]familiar with today.[n][w][e]-##
+[s]В этой йоге человек развивает здоровое[n]тело, чтобы достичь чистоты ума...[n][w][e]
+##-[s]In this yoga, one cultivates a healthy body[n]to attain purity of mind...[n][w][e]-##
+
+[msg MSG_150 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Хорошо, давайте начнем. Тохоками эмитама...[n][w][e]
+##-[s][bup 43 161 0 0]Right, let's begin. Tohokami emitama...[n][w][e]-##
+[s]Сегодня мы, наконец, поговорим о магии[n]прямо здесь, в Японии.[n][w][e]
+##-[s]Today, we'll finally talk about magic[n]right here in Japan.[n][w][e]-##
+[s]Хотя я уверен, что вы думаете, что уже[n]знакомы с этим, скорее всего, это не так.[n][w][e]
+##-[s]Though I'm sure you think you're[n]familiar with it already, you[n]probably aren't.[n][w][e]-##
+[s]Мнение о том, что магия - сомнительная[n]субкультура, становится все более[n]распространенным...[n][w][e]
+##-[s]The view that magic is a dubious[n]subculture is becoming more common...[n][w][e]-##
+[s]Но то, что сегодня затерялось в уголках[n]общества, когда-то было центральным для[n]Японии.[n][w][e]
+##-[s]But what is swept into the corners[n]of society today was once central[n]to Japan.[n][w][e]-##
+[s]Можно даже сказать, что магия была[n]изобретена в Японии.[n][w][e]
+##-[s]It could even be said that magic[n]was invented in Japan.[n][w][e]-##
+[s]В конце концов, Химико из Яма-тайкоку была[n]шаманкой.[n][w][e]
+##-[s]After all, Himiko of Yama-taikoku[n]was a shaman.[n][w][e]-##
+[s]По сообщениям, она использовала магию под[n]названием "Кидо", чтобы контролировать[n]страну.[n][w][e]
+##-[s]She reportedly used magic called[n]"Kido" to control the country.[n][w][e]-##
+[s]К сожалению, у нас нет возможности узнать,[n]что это было за колдовство...[n][w][e]
+##-[s]Sadly, we have no way of knowing[n]what kind of sorcery that was...[n][w][e]-##
+[s]То же самое относится и к принцу Шотоку,[n]который создал централизованное[n]правительство.[n][w][e]
+##-[s]The same is true for Prince Shotoku, who[n]established a centralized government.[n][w][e]-##
+[s]Он практиковал на Миодо, так что в[n]некотором смысле он тоже был шаманом.[n][w][e]
+##-[s]He practiced Onmyodo, so in a sense,[n]he was also a shaman.[n][w][e]-##
+[s]С таким происхождением магия была[n]естественным образом вплетена в саму ткань[n]Японии.[n][w][e]
+##-[s]With origins like this, magic was[n]naturally woven into the very fabric[n]of Japan.[n][w][e]-##
+[s]В период Хэйан, например...[n][w][e]
+##-[s]In the Heian period, for example...[n][w][e]-##
+[s]Было создано Бюро Онме, чтобы Онмедзи[n]изгонял злых духов и давал духовные советы.[n][w][e]
+##-[s]The Bureau of Onmyo was established,[n]for Onmyouji to expel evil spirits[n]and give spiritual advice.[n][w][e]-##
+[s]Возможно, вы знакомы с этим из легенды об[n]Абэ-но Сэймэе.[n][w][e]
+##-[s]You may be familiar with that from[n]the legend of Abe no Seimei.[n][w][e]-##
+[s]Даже в эпоху самураев волшебники играли[n]свою роль.[n][w][e]
+##-[s]Even in the age of the samurai,[n]magicians played their part.[n][w][e]-##
+[s]Многие генералы, изучавшие гадание и[n]военную тактику, могли считаться магами.[n][w][e]
+##-[s]Many generals who studied divination[n]and military tactics could be considered[n]magicians.[n][w][e]-##
+[s]Вы все меня слушаете? Не поддавайтесь[n]гипнозу сейчас... Иииииии.[n][w][e]
+##-[s]Are you all listening? Don't become[n]mesmerized, now... Eeeheehee.[n][w][e]-##
+[s]Я проверю вас, чтобы увидеть, насколько[n]внимательно вы обращали внимание.[n][w][e]
+##-[s]I'll test you to see how closely[n]you've been paying attention.[n][w][e]-##
+[s]Поймите это неправильно, и вы услышите еще[n]больше запретных фраз. Тохоками эмитама...[n][w][e]
+##-[s]Get it wrong, and you'll hear more[n]taboo phrases. Tohokami emitama...[n][w][e]-##
+[s]К кому обратиться... Ах, [f 4 2].Я спрашиваю[n]тебя...[n][w][e]
+##-[s]Who to call on... Ah, [f 4 2].[n]I ask thee...[n][w][e]-##
+
+[msg MSG_151 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Какое колдовство, по словам Химико,[n]использовала?[n][w][e]
+##-[s][bup 43 161 0 0]What sorcery was Himiko said to[n]have used?[n][w][e]-##
+
+[sel SEL152 top]
+[s]"Онмиодо".[e]
+##-[s]"Onmyodo."[e]-##
+[s][f 2 7 0 1 1552 1]"Кидо".[e]
+##-[s][f 2 7 0 1 1552 1]"Kido."[e]-##
+[s]"Джукиндо".[e]
+##-[s]"Jukindo."[e]-##
+
+[msg MSG_153 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Отлично. Поблагодари свою котодаму за это.[n][w][e]
+##-[s][bup 43 161 0 0]Very good. Thank your kotodama[n]for that one.[n][w][e]-##
+[s]Тенденция привязывать магию к людям[n]продолжалась до периода Эдо, но...[n][w][e]
+##-[s]The trend of tying magic to the people[n]continued to the Edo period, but...[n][w][e]-##
+[s]Новое правительство, сформированное во[n]время реформации Мэйдзи, уничтожило его.[n][w][e]
+##-[s]The new government formed during[n]the Meiji Reformation stamped it out.[n][w][e]-##
+[s]Синтоизм Цучимикадо, который был возрожден[n]в период Эдо, исчез...[n][w][e]
+##-[s]Tsuchimikado Shinto, which had been[n]revived during the Edo period, faded[n]away...[n][w][e]-##
+
+[msg MSG_154 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Неправильно! С сегодняшнего дня слово[n]"миниатюрная" будет табу.[n][w][e]
+##-[s][bup 43 161 0 0]Wrong! From today on, the word[n]"petite" will be taboo.[n][w][e]-##
+[s]Тенденция привязывать магию к людям[n]продолжалась до периода Эдо, но...[n][w][e]
+##-[s]The trend of tying magic to the people[n]continued to the Edo period, but...[n][w][e]-##
+[s]Новое правительство, сформированное во[n]время реформации Мэйдзи, уничтожило его.[n][w][e]
+##-[s]The new government formed during[n]the Meiji Reformation stamped it out.[n][w][e]-##
+[s]Синтоизм Цучимикадо, который был возрожден[n]в период Эдо, исчез...[n][w][e]
+##-[s]Tsuchimikado Shinto, which had been[n]revived during the Edo period, faded[n]away...[n][w][e]-##
+
+[msg MSG_155 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Давайте начнем. Хилка, Хилка, Беса, Беса...[n][w][e]
+##-[s][bup 43 161 0 0]Let's get started. Xilka, Xilka,[n]Besa, Besa...[n][w][e]-##
+[s]В последнее время в мире многое[n]происходит...[n][w][e]
+##-[s]Lately, there's been a lot going on[n]in the world...[n][w][e]-##
+[s]Но ты не должен позволять этому докучать[n]тебе.[n][w][e]
+##-[s]But, you shouldn't let it get to you.[n][w][e]-##
+[s]Простые люди слишком восприимчивы к[n]оккультным знаниям.[n][w][e]
+##-[s]Common people are too susceptible to[n]occult knowledge.[n][w][e]-##
+[s]Худшее, что может сделать волшебник, - это[n]потерять контроль.[n][w][e]
+##-[s]The worst thing a magician can do[n]is lose control.[n][w][e]-##
+[s]Всегда делай то, что должно быть сделано, и[n]все будет хорошо.[n][w][e]
+##-[s]Always do what must be done,[n]and you'll be fine.[n][w][e]-##
+[s]В любом случае... Сегодняшняя лекция[n]посвящена магии Греции.[n][w][e]
+##-[s]Anyway... Today's lecture is on[n]the magic of Greece.[n][w][e]-##
+[s]Греция известна как родина западной[n]философии и рациональности, но...[n][w][e]
+##-[s]Greece is known as the birthplace of[n]Western philosophy and rationality,[n]but...[n][w][e]-##
+[s]Искусство проклятий развивалось прямо рядом[n]с ними.[n][w][e]
+##-[s]The art of curses advanced right[n]alongside them.[n][w][e]-##
+[s]Такие философы, как Сократ, Фалес и Платон,[n]были греками, но...[n][w][e]
+##-[s]Philosophers such as Socrates, Thales,[n]and Plato were Greek, but...[n][w][e]-##
+[s]Он также был домом для легендарных[n]чародеек.[n][w][e]
+##-[s]It was also the home to legendary[n]enchantresses.[n][w][e]-##
+[s]Например, была Медея, страстная колдунья[n]Колхиды.[n][w][e]
+##-[s]For example, there was Medea, the[n]passionate sorceress of Colchis.[n][w][e]-##
+[s]Она была ведьмой, которая без колебаний[n]убила своего брата или даже собственных[n]детей.[n][w][e]
+##-[s]She was a witch who didn't hesitate[n]to kill her brother, or even her own[n]children.[n][w][e]-##
+[s]Затем была Цирцея, дочь Гелиоса, которая[n]была экспертом как в ядах, так и в[n]медицине.[n][w][e]
+##-[s]Then there was Circe, daughter of[n]Helios, who was an expert in both[n]poison and medicine.[n][w][e]-##
+[s]Без помощи Гермеса легендарный Одиссей[n]превратился бы в свинью.[n][w][e]
+##-[s]Without Hermes' help, the legendary[n]Odysseus would have been changed[n]into a pig.[n][w][e]-##
+[s]...Возможно, это были всего лишь мифы, но,[n]читая между строк, вы можете увидеть[n]взгляды Греции на магию.[n][w][e]
+##-[s]...These may have only been myths,[n]but reading between the lines, you can[n]see Greece's views on magic.[n][w][e]-##
+[s]Греческая магия начала формироваться[n]примерно в 8 веке до нашей эры.[n][w][e]
+##-[s]Greek magic began to take shape[n]around the 8th century B.C.[n][w][e]-##
+[s]Это было примерно в то же время, когда[n]развивались полисы, или города-государства.[n][w][e]
+##-[s]It was around the same time that[n]the poleis, or city-states, were[n]developing.[n][w][e]-##
+[s]Как и многие древние цивилизации, они[n]поклонялись богам-защитникам.[n][w][e]
+##-[s]Like many ancient civilizations,[n]they worshipped protector gods.[n][w][e]-##
+[s]Были храмы, за которыми ухаживали жрицы;[n]эти женщины выполняли роль оракулов.[n][w][e]
+##-[s]There were temples that priestesses[n]tended; these women would double[n]as oracles.[n][w][e]-##
+[s]Однако постепенно эти церемонии стали[n]проводиться скорее тайно, чем публично.[n][w][e]
+##-[s]Gradually, however, these ceremonies[n]were performed in secret rather than[n]in public.[n][w][e]-##
+[s]Причиной этого было стремление людей[n]монополизировать власть богов.[n][w][e]
+##-[s]The reason for this was the people's[n]desire to monopolize the power of[n]the gods.[n][w][e]-##
+[s]Они копировали варварские обычаи легенд:[n]жертвоприношения, пьянство, оргиастические[n]празднества...[n][w][e]
+##-[s]They copied the barbaric practices[n]of legend: sacrifices, drinking,[n]orgiastic festivals...[n][w][e]-##
+[s]Опасные действия, подобные этим, получили[n]широкое распространение.[n][w][e]
+##-[s]Dangerous acts such as these became[n]widespread.[n][w][e]-##
+[s]Аполлон, Дионис, Орфей...[n][w][e]
+##-[s]Apollo, Dionysus, Orpheus...[n][w][e]-##
+[s]Это были боги, которых они призывали при[n]выполнении ритуалов.[n][w][e]
+##-[s]These were the gods they invoked[n]when performing the rituals.[n][w][e]-##
+[s]...Вы все слушаете? Не пересекай реку Стикс[n]сейчас... Иииииии.[n][w][e]
+##-[s]...Are you all listening? Don't cross[n]the river Styx, now... Eeeheehee.[n][w][e]-##
+[s]Я проверю, слушал ли ты меня или нет.[n][w][e]
+##-[s]I'll test to see if you were listening or not.[n][w][e]-##
+[s]Поймите это неправильно, и ваша аура[n]изменится... Хилка, Хилка, Беса, Беса...[n][w][e]
+##-[s]Get it wrong, and your aura will shift...[n]Xilka, Xilka, Besa, Besa...[n][w][e]-##
+[s]Итак, кого мне выбрать? Я выбираю тебя...[n][f 4 2]![n][w][e]
+##-[s]Now, who should I pick? I choose thee...[n][f 4 2]![n][w][e]-##
+
+[msg MSG_156 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Я упомянул двух греческих колдуний. Одной[n]из них была Медея; кто была другая?[n][w][e]
+##-[s][bup 43 161 0 0]I mentioned two Greek sorceresses.[n]One was Medea; who was the other?[n][w][e]-##
+
+[sel SEL157 top]
+[s]"Полис".[e]
+##-[s]"Polis."[e]-##
+[s][f 2 7 0 1 1552 1]"Цирцея".[e]
+##-[s][f 2 7 0 1 1552 1]"Circe."[e]-##
+[s]"Геката".[e]
+##-[s]"Hecate."[e]-##
+
+[msg MSG_158 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Очень хорошо! Твоя аура чиста, как горный[n]источник.[n][w][e]
+##-[s][bup 43 161 0 0]Very good! Your aura is as clear[n]as a mountain spring.[n][w][e]-##
+[s]Именно такая секретность превращала жриц в[n]колдуний.[n][w][e]
+##-[s]It was secrecy like that which turned[n]priestesses into sorceresses.[n][w][e]-##
+[s]Учения, изначально призванные принести[n]спасение телу и душе, превратились в[n]простые пьяные оргии...[n][w][e]
+##-[s]Teachings originally meant to bring[n]salvation to the body and soul fell into[n]mere drunken orgies...[n][w][e]-##
+[s]...заманивание людей на отвратительный путь[n]безнравственности.[n][w][e]
+##-[s]...luring people to the hideous path[n]of immorality.[n][w][e]-##
+[s]Некрофилия, использование младенцев в[n]качестве ингредиентов для зелий...[n][w][e]
+##-[s]Necrophilia, using babies for[n]potion ingredients...[n][w][e]-##
+[s]Вот где началось отвратительное "черное[n]искусство"...[n][w][e]
+##-[s]This is where the abominable[n]"black arts" began...[n][w][e]-##
+
+[msg MSG_159 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Неправильно! Ваша аура теперь такая же[n]мутная, как шоколадные конфеты.[n][w][e]
+##-[s][bup 43 161 0 0]Wrong! Your aura is now as cloudy[n]as chocolate mints.[n][w][e]-##
+[s]Именно такая секретность превращала жриц в[n]колдуний.[n][w][e]
+##-[s]It was secrecy like that which turned[n]priestesses into sorceresses.[n][w][e]-##
+[s]Учения, изначально призванные принести[n]спасение телу и душе, превратились в[n]простые пьяные оргии...[n][w][e]
+##-[s]Teachings originally meant to bring[n]salvation to the body and soul fell into[n]mere drunken orgies...[n][w][e]-##
+[s]...заманивание людей на отвратительный путь[n]безнравственности.[n][w][e]
+##-[s]...luring people to the hideous path[n]of immorality.[n][w][e]-##
+[s]Некрофилия, использование младенцев в[n]качестве ингредиентов для зелий...[n][w][e]
+##-[s]Necrophilia, using babies for[n]potion ingredients...[n][w][e]-##
+[s]Вот где началось отвратительное "черное[n]искусство"...[n][w][e]
+##-[s]This is where the abominable[n]"black arts" began...[n][w][e]-##
+
+[msg MSG_160 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Пожалуйста, присаживайтесь, чтобы мы могли[n]начать сегодняшнюю лекцию. Ада Ада Ио Ада[n]Диа...[n][w][e]
+##-[s][bup 43 161 0 0]Please sit down so we can begin[n]today's lecture. Ada Ada Io Ada Dia...[n][w][e]-##
+[s]Миссис Тераучи должна была преподавать[n]сегодня, но у нее была срочная ситуация.[n]Вместо этого я буду твоим инструктором.[n][w][e]
+##-[s]Учитель Тераучи was supposed to teach[n]today, but she's had an emergency.[n]I'll be your instructor instead.[n][w][e]-##
+[s]Сегодня мы узнаем о естественной магии.[n][w][e]
+##-[s]Today, we'll learn about natural[n]magic.[n][w][e]-##
+[s]Это похоже на язычество, о котором мы[n]говорили ранее.[n][w][e]
+##-[s]It's similar to paganism, which we[n]discussed before.[n][w][e]-##
+[s]Естественная магия - это, очевидно, магия,[n]которая черпает свою силу из природы.[n][w][e]
+##-[s]Natural magic is, obviously enough,[n]magic that draws its power from[n]nature.[n][w][e]-##
+[s]Наиболее популярной формой, вероятно,[n]является травничество.[n][w][e]
+##-[s]The most popular form is probably[n]herbalism.[n][w][e]-##
+[s]Заклинания, основанные на календаре, также[n]являются формой естественной магии,[n]поскольку они связаны с временами года.[n][w][e]
+##-[s]Calendar-based spells are also a form[n]of natural magic, since they involve[n]the seasons.[n][w][e]-##
+[s]Некоторые из вас, возможно, знакомы с[n]лозоходством, которое использует маятник[n]или трость для поиска предметов под землей.[n][w][e]
+##-[s]Some of you may be familiar with[n]dowsing, which uses a pendulum or[n]cane to find things underground.[n][w][e]-##
+[s]Это тоже форма естественной магии. Впервые[n]он был использован для обнаружения[n]источников воды.[n][w][e]
+##-[s]This, too, is a form of natural magic.[n]It was first used to detect sources[n]of water.[n][w][e]-##
+[s]Я думаю, что этого должно быть достаточно[n]примеров. Давайте перейдем к основному[n]мышлению естественной магии.[n][w][e]
+##-[s]That should be enough examples,[n]I think. Let's move on to the basic[n]mindset of natural magic.[n][w][e]-##
+[s]Сначала вы должны осознать себя частью[n]природы и принять ее силу.[n][w][e]
+##-[s]You must first recognize yourself[n]as a part of nature, and accept its[n]power.[n][w][e]-##
+[s]Другими словами, думайте о человеческом[n]существовании как о микрокосме обширной[n]космологии.[n][w][e]
+##-[s]In other words, think of human[n]existence as a microcosm of a vast[n]cosmology.[n][w][e]-##
+[s]Это мышление основано на идее четырех[n]классических элементов.[n][w][e]
+##-[s]This mindset is based on the idea of[n]the four classical elements.[n][w][e]-##
+[s]Древние маги думали, что разные предметы,[n]имеющие общий элемент, будут реагировать[n]друг на друга.[n][w][e]
+##-[s]Ancient magicians thought that different[n]objects which shared a common element[n]would react to one another.[n][w][e]-##
+[s]Они проводили эксперимент за экспериментом,[n]пытаясь доказать свои гипотезы о природе.[n][w][e]
+##-[s]They did experiment after experiment,[n]trying to prove their hypotheses[n]about nature.[n][w][e]-##
+[s]...Вы все слушаете? Я, конечно, надеюсь на[n]это... Иииииии.[n][w][e]
+##-[s]...Are you all listening? I certainly[n]hope so... Eeeheehee.[n][w][e]-##
+[s]Я дам тебе небольшой тест, чтобы убедиться.[n][w][e]
+##-[s]I'll give you a little test to make[n]sure.[n][w][e]-##
+[s]Вы получите дурное предзнаменование, если[n]ошибетесь. Ада Ада Ио Ада Диа...[n][w][e]
+##-[s]You'll receive an ill omen if you get[n]it wrong. Ada Ada Io Ada Dia...[n][w][e]-##
+[s]Кого я должен выбрать...? В порядке,[n][f 4 2], Я[n]спрашиваю тебя.[n][w][e]
+##-[s]Who should I pick...? All right,[n][f 4 2], I ask thee.[n][w][e]-##
+
+[msg MSG_161 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Какая форма природной магии использовалась[n]для поиска источников воды?[n][w][e]
+##-[s][bup 43 161 0 0]Which form of natural magic was used[n]to look for water sources?[n][w][e]-##
+
+[sel SEL162 top]
+[s][f 2 7 0 1 1552 1]"Лозоискательство".[e]
+##-[s][f 2 7 0 1 1552 1]"Dowsing."[e]-##
+[s]"Исцеление".[e]
+##-[s]"Healing."[e]-##
+[s]"Ченнелинг".[e]
+##-[s]"Channeling."[e]-##
+
+[msg MSG_163 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Отличная работа... ваш ответ звучит[n]правдиво. Отсутствие новостей - это хорошая[n]новость.[n][w][e]
+##-[s][bup 43 161 0 0]Excellent work... your answer rings[n]true. No news is good news.[n][w][e]-##
+[s]Но вернемся к главной теме... Молитва - это[n]часть естественной магии.[n][w][e]
+##-[s]But back to the main subject...[n]Prayer is a part of natural magic.[n][w][e]-##
+[s]Особенностью молитв в естественной магии[n]является то, что многие из них восхваляют[n]богиню земли.[n][w][e]
+##-[s]A characteristic of the prayers in[n]natural magic is that many of them[n]praise the earth goddess.[n][w][e]-##
+[s]Это связано с концепцией естественной магии[n]как способа призвать благословение природы.[n][w][e]
+##-[s]This ties into the concept of natural[n]magic as a way of invoking nature's[n]blessing.[n][w][e]-##
+[s]Со временем природная магия превратилась в[n]естественную науку...[n][w][e]
+##-[s]As time passed, natural magic[n]developed into natural science...[n][w][e]-##
+[s]Но при переходе к естественным наукам был[n]утрачен ключевой элемент.[n][w][e]
+##-[s]But in the transition to natural[n]science, a key element was lost.[n][w][e]-##
+[s]В этом и заключается проблема "времени".[n][w][e]
+##-[s]That's the problem of "time."[n][w][e]-##
+[s]Естественная магия запрещала использование[n]заклинаний, которые шли вразрез с[n]нормальным течением времени.[n][w][e]
+##-[s]Natural magic forbade the use of[n]performing spells that went against[n]the normal flow of time.[n][w][e]-##
+[s]Его практикующие верили, что магия не[n]должна бросать вызов природе, и по сей день[n]стараются следовать естественным законам.[n][w][e]
+##-[s]Its practitioners believed that magic[n]should not defy nature, and to this[n]day take care to follow natural laws.[n][w][e]-##
+
+[msg MSG_164 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Боюсь, что нет. Следите за письмом, которое[n]прибудет в полночь...[n][w][e]
+##-[s][bup 43 161 0 0]I'm afraid not. Watch for the letter[n]that arrives at midnight...[n][w][e]-##
+[s]Но вернемся к главной теме... Молитва - это[n]часть естественной магии.[n][w][e]
+##-[s]But back to the main subject...[n]Prayer is a part of natural magic.[n][w][e]-##
+[s]Особенностью молитв в естественной магии[n]является то, что многие из них восхваляют[n]богиню земли.[n][w][e]
+##-[s]A characteristic of the prayers in[n]natural magic is that many of them[n]praise the earth goddess.[n][w][e]-##
+[s]Это связано с концепцией естественной магии[n]как способа призвать благословение природы.[n][w][e]
+##-[s]This ties into the concept of natural[n]magic as a way of invoking nature's[n]blessing.[n][w][e]-##
+[s]Со временем природная магия превратилась в[n]естественную науку...[n][w][e]
+##-[s]As time passed, natural magic[n]developed into natural science...[n][w][e]-##
+[s]Но при переходе к естественным наукам был[n]утрачен ключевой элемент.[n][w][e]
+##-[s]But in the transition to natural[n]science, a key element was lost.[n][w][e]-##
+[s]В этом и заключается проблема "времени".[n][w][e]
+##-[s]That's the problem of "time."[n][w][e]-##
+[s]Естественная магия запрещала использование[n]заклинаний, которые шли вразрез с[n]нормальным течением времени.[n][w][e]
+##-[s]Natural magic forbade the use of[n]performing spells that went against[n]the normal flow of time.[n][w][e]-##
+[s]Его практикующие верили, что магия не[n]должна бросать вызов природе, и по сей день[n]стараются следовать естественным законам.[n][w][e]
+##-[s]Its practitioners believed that magic[n]should not defy nature, and to this[n]day take care to follow natural laws.[n][w][e]-##
+
+[msg MSG_165 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Занимайте свои места, класс, и мы начнем.[n]Привет, фу ми йо и му на я ко мо чи ра ро[n]не...[n][w][e]
+##-[s][bup 43 161 0 0]Take your seats, class, and we'll[n]begin. Hi fu mi yo i mu na ya ko to[n]mo chi ra ro ne...[n][w][e]-##
+[s]Это... обычный урок математики, да?[n][w][e]
+##-[s]This is... math class normally, yes?[n][w][e]-##
+[s]Мисс Мияхара плохо себя чувствует, так что[n]я заменю ее.[n][w][e]
+##-[s]Учитель Мияхара isn't feeling well,[n]so I'll be filling in for her.[n][w][e]-##
+[s]Поскольку вы пришли сюда в ожидании урока[n]математики, я расскажу о нумерологии.[n][w][e]
+##-[s]Since you came here expecting a math[n]lesson, I'll talk about numerology.[n][w][e]-##
+[s]Нумерология - это разновидность магии,[n]которая видит мир через систему чисел.[n][w][e]
+##-[s]Numerology is a type of magic which[n]sees the world through a system of[n]numbers.[n][w][e]-##
+[s]По сути, его практикующие преобразуют[n]материю в числа.[n][w][e]
+##-[s]Essentially, its practitioners[n]convert matter into numbers.[n][w][e]-##
+[s]Числа обладают силой, и нумерологи этим[n]пользуются.[n][w][e]
+##-[s]Numbers have power, and numerologists[n]take advantage of that.[n][w][e]-##
+[s]Говорят, что первым нумерологом был[n]Пифагор.[n][w][e]
+##-[s]It's said that the first numerologist[n]was Pythagoras.[n][w][e]-##
+[s]Возможно, вы знаете его по Теореме[n]Пифагора, но он также известен тем, что[n]практикует магию.[n][w][e]
+##-[s]You may know him from the Pythagorean[n]Theorem, but he's also famous for[n]practicing magic.[n][w][e]-##
+[s]Он и его ученики исследовали то, что они[n]называли пифагорейством.[n][w][e]
+##-[s]He and his pupils researched what[n]they called Pythagoreanism.[n][w][e]-##
+[s]Они поняли, что все, что существует в этом[n]мире, соответствует числу.[n][w][e]
+##-[s]They realized that everything that[n]exists in this world corresponds to[n]a number.[n][w][e]-##
+[s]Они считали нечетные числа мужскими, а[n]четные - женскими.[n][w][e]
+##-[s]They considered odd numbers masculine,[n]and even numbers feminine.[n][w][e]-##
+[s]Они также подтвердили существование святых[n]и нечестивых чисел.[n][w][e]
+##-[s]They also verified the existence of[n]holy and unholy numbers.[n][w][e]-##
+[s]Пифагорейцы сосредоточились на числах 1, 2,[n]3 и 4, потому что они складываются в 10,[n]что представляет собой полноту.[n][w][e]
+##-[s]The Pythagoreans focused on the numbers[n]1, 2, 3, and 4, because they add up to[n]10, which represents completeness.[n][w][e]-##
+[s]Они считали эти четыре числа священными[n]числами, самыми важными из всех.[n][w][e]
+##-[s]They considered these four numbers[n]to be the holy numbers, the most[n]important of all.[n][w][e]-##
+[s]Они называются Тетрактисами.[n][w][e]
+##-[s]They're called the Tetractys.[n][w][e]-##
+[s]Другие позже развивались на фундаменте,[n]заложенном пифагорейцами.[n][w][e]
+##-[s]Others later developed on the[n]foundation laid by the Pythagoreans.[n][w][e]-##
+[s]Совсем недавно была проделана работа над[n]взаимосвязью между числами и именами.[n][w][e]
+##-[s]More recently, there's been work done[n]on the relationship between numbers[n]and names.[n][w][e]-##
+[s]Давайте рассмотрим это немного ближе.[n][w][e]
+##-[s]Let's look at this a little closer.[n][w][e]-##
+[s]Я покажу вам метод, с помощью которого вы[n]можете интерпретировать значение вашего[n]собственного имени.[n][w][e]
+##-[s]I'll show you a method by which you[n]can interpret your own name's meaning.[n][w][e]-##
+[s]Не забудьте также указать свое второе имя.[n][w][e]
+##-[s]Be sure to include your middle name,[n]too.[n][w][e]-##
+[s]Теперь преобразуйте каждую букву в число. 1[n]для A, 2 для B и так далее. Добавьте цифры[n]для каждой буквы в вашем имени.[n][w][e]
+##-[s]Now, convert each letter into a number.[n]1 for A, 2 for B, and so on. Add the[n]numbers for each letter in your name.[n][w][e]-##
+[s]Если буква имеет двузначное число, например[n]14 для N, сложите две цифры вместе, чтобы[n]получилась одна цифра.[n][w][e]
+##-[s]If a letter has a two-digit number,[n]like 14 for N, add the two digits[n]together to make a single digit.[n][w][e]-##
+[s]К концу у вас должно быть число от 1 до 9.[n][w][e]
+##-[s]By the end, you should have a number[n]between 1 and 9.[n][w][e]-##
+[s]Это число отражает общую индивидуальность[n]человека.[n][w][e]
+##-[s]This number represents an individual's[n]overall personality.[n][w][e]-##
+[s]Основываясь на свойствах этого числа, вы[n]можете получить общие характеристики[n]человека.[n][w][e]
+##-[s]Based on that number's properties,[n]you can derive the person's general[n]characteristics.[n][w][e]-##
+[s]...Вы все слушаете? Надеюсь, этот разговор[n]о цифрах не усыпил тебя... Иииииии.[n][w][e]
+##-[s]...Are you all listening? I hope[n]this talk of numbers hasn't put you[n]to sleep... Eeeheehee.[n][w][e]-##
+[s]Как насчет небольшого теста, чтобы[n]проверить, обращали ли вы внимание?[n][w][e]
+##-[s]How about a little test to see if[n]you were paying attention?[n][w][e]-##
+[s]Поймите это неправильно, и цифры будут[n]преследовать вас даже во сне... Привет, фу[n]ми йо и му на я ко мо чи ра ро не...[n][w][e]
+##-[s]Get it wrong, and numbers will haunt[n]you even in your sleep... Hi fu mi yo[n]i mu na ya ko to mo chi ra ro ne...[n][w][e]-##
+[s]Кого я должен выбрать...? В порядке,[n][f 4 2], Я[n]спрашиваю тебя.[n][w][e]
+##-[s]Who should I pick...? All right,[n][f 4 2], I ask thee.[n][w][e]-##
+
+[msg MSG_166 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Каково собирательное название четырех[n]священных чисел в нумерологии?[n][w][e]
+##-[s][bup 43 161 0 0]What is the collective name for the[n]four holy numbers in numerology?[n][w][e]-##
+
+[sel SEL167 top]
+[s]"Тетродотоксин".[e]
+##-[s]"The Tetrodotoxin."[e]-##
+[s]"Тетракарн".[e]
+##-[s]"The Tetrakarn."[e]-##
+[s][f 2 7 0 1 1552 1]"Тетрактис".[e]
+##-[s][f 2 7 0 1 1552 1]"The Tetractys."[e]-##
+
+[msg MSG_168 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Это верно. Актуарные таблицы предсказывают[n]вам счастливое будущее...[n][w][e]
+##-[s][bup 43 161 0 0]That's correct. The actuarial tables[n]predict a happy future for you...[n][w][e]-##
+[s]Еще несколько слов о нумерологии и именах,[n]прежде чем мы закончим...[n][w][e]
+##-[s]A few more words on numerology and[n]names before we dismiss...[n][w][e]-##
+[s]Нумерологию также можно использовать для[n]определения вашего внутреннего "я",[n]публичной персоны, вашего будущего и так[n]далее.[n][w][e]
+##-[s]Numerology can also be used to discern[n]your inner self, public persona, your[n]future, and so on.[n][w][e]-##
+[s]Преобразуйте гласные вашего имени в числа и[n]сложите их. Это раскрывает ваше внутреннее[n]"я".[n][w][e]
+##-[s]Convert the vowels in your name into[n]numbers and add them up. That reveals[n]your inner self.[n][w][e]-##
+[s]Затем возьмите согласные и сделайте то же[n]самое, чтобы получить образ, который вы[n]демонстрируете на публике.[n][w][e]
+##-[s]Then take the consonants and do the[n]same to get the persona you display[n]in public.[n][w][e]-##
+[s]Используя тот же метод с датой вашего[n]рождения, вы рассчитаете свое будущее.[n][w][e]
+##-[s]Using the same method with your birth[n]date will calculate your future.[n][w][e]-##
+[s]Обязательно используйте даты христианской[n]эры в этом расчете.[n][w][e]
+##-[s]Be sure to use Christian Era dates in[n]this calculation.[n][w][e]-##
+[s]Также можно оценить вашу совместимость с[n]другим человеком, используя нумерологию.[n][w][e]
+##-[s]It's also possible to assess your[n]compatibility with another person[n]using numerology.[n][w][e]-##
+[s]Добавив цифры своей даты рождения к цифрам[n]другой, вы можете...[n][w][e]
+##-[s]By adding the digits of your birth[n]date to the other's, you can...[n][w][e]-##
+
+[msg MSG_169 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Увы, нет. Теперь ваш налог с продаж в[n]студенческом книжном магазине увеличится на[n]25 %.[n][w][e]
+##-[s][bup 43 161 0 0]Alas, no. Now your sales tax at the[n]student bookstore will increase by 25%.[n][w][e]-##
+[s]Еще несколько слов о нумерологии и именах,[n]прежде чем мы закончим...[n][w][e]
+##-[s]A few more words on numerology and[n]names before we dismiss...[n][w][e]-##
+[s]Нумерологию также можно использовать для[n]определения вашего внутреннего "я",[n]публичной персоны, вашего будущего и так[n]далее.[n][w][e]
+##-[s]Numerology can also be used to discern[n]your inner self, public persona, your[n]future, and so on.[n][w][e]-##
+[s]Преобразуйте гласные вашего имени в числа и[n]сложите их. Это раскрывает ваше внутреннее[n]"я".[n][w][e]
+##-[s]Convert the vowels in your name into[n]numbers and add them up. That reveals[n]your inner self.[n][w][e]-##
+[s]Затем возьмите согласные и сделайте то же[n]самое, чтобы получить образ, который вы[n]демонстрируете на публике.[n][w][e]
+##-[s]Then take the consonants and do the[n]same to get the persona you display[n]in public.[n][w][e]-##
+[s]Используя тот же метод с датой вашего[n]рождения, вы рассчитаете свое будущее.[n][w][e]
+##-[s]Using the same method with your birth[n]date will calculate your future.[n][w][e]-##
+[s]Обязательно используйте даты христианской[n]эры в этом расчете.[n][w][e]
+##-[s]Be sure to use Christian Era dates in[n]this calculation.[n][w][e]-##
+[s]Также можно оценить вашу совместимость с[n]другим человеком, используя нумерологию.[n][w][e]
+##-[s]It's also possible to assess your[n]compatibility with another person[n]using numerology.[n][w][e]-##
+[s]Добавив цифры своей даты рождения к цифрам[n]другой, вы можете...[n][w][e]
+##-[s]By adding the digits of your birth[n]date to the other's, you can...[n][w][e]-##
+
+[msg MSG_170 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Сегодня прохладно... Айет Гадол Леолам[n]Адонай...[n][w][e]
+##-[s][bup 43 161 0 0]It's chilly today... Aieth Gadol[n]Leolam Adonai...[n][w][e]-##
+[s]Госпожа Оуниши ушла рано, так что сегодня я[n]буду преподавать вместо нее.[n][w][e]
+##-[s]Учитель Оуниши left early, so I'll be[n]teaching today in her place.[n][w][e]-##
+[s]Я думаю, что сегодня мы узнаем о[n]предсмертных переживаниях.[n][w][e]
+##-[s]I think today we'll learn about[n]near-death experiences.[n][w][e]-##
+[s]...Для этого нет никакой реальной причины.[n]Они просто не выходили у меня из головы.[n][w][e]
+##-[s]...There's no real reason for it.[n]They've just been on my mind.[n][w][e]-##
+[s]Итак, околосмертный опыт определяется как[n]то, что человек переживает непосредственно[n]перед смертью.[n][w][e]
+##-[s]Now, a near-death experience is[n]defined as something an individual[n]experiences just before death.[n][w][e]-##
+[s]Является ли это истинным пониманием[n]загробной жизни? Или просто уловка мозга?[n][w][e]
+##-[s]Is it true insight into the afterlife?[n]Or simply a trick of the brain?[n][w][e]-##
+[s]Мнения разнятся, но это правда, что[n]околосмертные переживания в течение[n]некоторого времени были горячо обсуждаемой[n]темой.[n][w][e]
+##-[s]Opinions vary, but it is true that[n]near-death experiences have been a[n]hotly debated topic for some time.[n][w][e]-##
+[s]Есть несколько сохранившихся записей о[n]древних околосмертных переживаниях.[n][w][e]
+##-[s]There are a few surviving records of[n]ancient near-death experiences.[n][w][e]-##
+[s]Согласно писаниям Платона, воскрешенный[n]солдат переживал загробную жизнь как дух.[n][w][e]
+##-[s]According to the writings of Plato,[n]a resuscitated soldier experienced[n]the afterlife as a spirit.[n][w][e]-##
+[s]О подобном инциденте сообщил в Японии[n]этнолог Кунио Янагита в Тоно Моногатари.[n][w][e]
+##-[s]A similar incident was reported in[n]Japan by ethnologist Kunio Yanagita[n]in the Tono Monogatari.[n][w][e]-##
+[s]Психолог Карл Юнг писал, что в своем[n]собственном предсмертном опыте он увидел[n]видение земли издалека.[n][w][e]
+##-[s]Psychologist Carl Jung wrote that in[n]his own near-death experience, he saw[n]a vision of the earth from afar.[n][w][e]-##
+[s]Я уверен, что вы слышали свои собственные[n]истории от известных или печально известных[n]личностей.[n][w][e]
+##-[s]I'm sure you've heard your own stories,[n]from famous or infamous individuals.[n][w][e]-##
+[s]Сегодня у меня с собой несколько отчетов из[n]первых рук... Позвольте мне зачитать вам[n]некоторые из них.[n][w][e]
+##-[s]I have a few first-hand reports with[n]me today... Let me read you some of[n]them.[n][w][e]-##
+[s]"Я чувствовал, как будто моя душа[n]отделилась от моего тела". "Я встретил[n]друга, который уже скончался".[n][w][e]
+##-[s]"I felt as if my soul was detached[n]from my body." "I met a friend who[n]had already passed away."[n][w][e]-##
+[s]"Я видел, как вся моя жизнь пронеслась[n]перед моими глазами..."[n][w][e]
+##-[s]"I saw my whole life flashing before[n]my eyes..."[n][w][e]-##
+[s]"Я видел самый яркий свет". "Я купался в[n]свете".[n][w][e]
+##-[s]"I saw the most brilliant light."[n]"I was bathed in light."[n][w][e]-##
+[s]"Я испытал полное и абсолютное счастье".[n]Это называется эйфорией.[n][w][e]
+##-[s]"I experienced complete and total[n]happiness." This is called euphoria.[n][w][e]-##
+[s]Такого рода отчеты являются типичными.[n][w][e]
+##-[s]These kinds of reports are typical.[n][w][e]-##
+[s]Некоторые пытались сделать прямые записи[n]околосмертных переживаний.[n][w][e]
+##-[s]Some have attempted to make direct[n]recordings of near-death experiences.[n][w][e]-##
+[s]Исследователь Кеннет Ринг попытался[n]количественно оценить околосмертный опыт с[n]помощью взвешенного индекса основного[n]опыта.[n][w][e]
+##-[s]Researcher Kenneth Ring has tried to[n]quantify near-death experiences with[n]a Weighted Core Experience Index.[n][w][e]-##
+[s]Современные усилия привели к созданию новой[n]теории околосмертных переживаний, которая[n]выглядит примерно так...[n][w][e]
+##-[s]Modern efforts have led to a new[n]theory of near-death experiences,[n]which goes like so...[n][w][e]-##
+[s]Если умирающий человек отрицает этот[n]факт...[n][w][e]
+##-[s]If an individual who is dying denies[n]that fact...[n][w][e]-##
+[s]В конце концов он понимает, что смерть -[n]это реальность, которую он должен принять,[n]и злится.[n][w][e]
+##-[s]He eventually realizes that death is[n]a reality that he must accept, and[n]becomes angry.[n][w][e]-##
+[s]В результате он попытается сделать все[n]возможное, чтобы продлить свою жизнь.[n][w][e]
+##-[s]As a result, he'll try to do anything[n]he can to extend his life.[n][w][e]-##
+[s]Но тщетность этого приводит к депрессии.[n][w][e]
+##-[s]But the futility of this leads to[n]depression.[n][w][e]-##
+[s]В конце концов, он принимает свою судьбу.[n][w][e]
+##-[s]In the end, he accepts his fate.[n][w][e]-##
+[s]Хотя поначалу мы можем отрицать смерть, в[n]конце концов мы примем ее. Таковы уж мы,[n]люди.[n][w][e]
+##-[s]Although we may initially deny death,[n]we'll accept it in the end. That's[n]just how we humans are.[n][w][e]-##
+[s]...Все ли слушают? Не каждый день вы[n]услышите подобный урок... Иииииии.[n][w][e]
+##-[s]...Is everyone listening? It's not[n]every day you'll hear a lesson like[n]this... Eeeheehee.[n][w][e]-##
+[s]Как насчет небольшого теста, чтобы[n]доказать, что вы слушали...[n][w][e]
+##-[s]How about a little test, to prove[n]you were listening...[n][w][e]-##
+[s]Поймите это неправильно, и воспоминания о[n]вашей школьной жизни исчезнут... Атах габор[n]леолам аднай...[n][w][e]
+##-[s]Get it wrong, and memories of your[n]life at school will disappear...[n]Athah gabor leolam adnai...[n][w][e]-##
+[s]Кого я должен выбрать...? В порядке,[n][f 4 2], Я[n]спрашиваю тебя.[n][w][e]
+##-[s]Who should I pick...? All right,[n][f 4 2], I ask thee.[n][w][e]-##
+
+[msg MSG_171 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Как называется чувство счастья в[n]предсмертном переживании?[n][w][e]
+##-[s][bup 43 161 0 0]What is the feeling of happiness in[n]a near-death experience called?[n][w][e]-##
+
+[sel SEL172 top]
+[s][f 2 7 0 1 1552 1]"Эйфория".[e]
+##-[s][f 2 7 0 1 1552 1]"Euphoria."[e]-##
+[s]"Утопия".[e]
+##-[s]"Utopia."[e]-##
+[s]"Югославия".[e]
+##-[s]"Yugoslavia."[e]-##
+
+[msg MSG_173 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Хорошая работа... Это правильно. У тебя[n]будет счастливая школьная жизнь.[n][w][e]
+##-[s][bup 43 161 0 0]Good work... That is correct.[n]You'll have a happy school life.[n][w][e]-##
+[s]Некоторые люди говорят, что околосмертный[n]опыт пробуждает высшее сознание человека.[n][w][e]
+##-[s]Some people say a near-death[n]experience awakens one's higher[n]consciousness.[n][w][e]-##
+[s]Так это или нет, но у тех, кто прошел через[n]это, страх смерти заметно ниже.[n][w][e]
+##-[s]Whether or not that's true, there is[n]an observably lower fear of death in[n]those who have been through one.[n][w][e]-##
+[s]Возможно, это происходит потому, что[n]околосмертные переживания на удивление[n]свободны от боли и страданий.[n][w][e]
+##-[s]Perhaps this is because near-death[n]experiences are surprisingly free of[n]pain and suffering.[n][w][e]-##
+[s]Но это не значит, что я хотел бы, чтобы[n]кто-то из вас искал его... Используй время,[n]которое у тебя здесь есть, с умом, хорошо?[n][w][e]
+##-[s]But this is not to say I'd want any[n]of you to seek one out... Use the time[n]you have here wisely, okay?[n][w][e]-##
+[s]...На сегодня это все. Урок окончен.[n][w][e]
+##-[s]...That's all for today. Class is[n]dismissed.[n][w][e]-##
+
+[msg MSG_174 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Неправильный. Ты не увидишь себя в[n]ежегоднике...[n][w][e]
+##-[s][bup 43 161 0 0]Wrong. You won't be seeing yourself[n]in the yearbook...[n][w][e]-##
+[s]Некоторые люди говорят, что околосмертный[n]опыт пробуждает высшее сознание человека.[n][w][e]
+##-[s]Some people say a near-death[n]experience awakens one's higher[n]consciousness.[n][w][e]-##
+[s]Так это или нет, но у тех, кто прошел через[n]это, страх смерти заметно ниже.[n][w][e]
+##-[s]Whether or not that's true, there is[n]an observably lower fear of death in[n]those who have been through one.[n][w][e]-##
+[s]Возможно, это происходит потому, что[n]околосмертные переживания на удивление[n]свободны от боли и страданий.[n][w][e]
+##-[s]Perhaps this is because near-death[n]experiences are surprisingly free of[n]pain and suffering.[n][w][e]-##
+[s]Но это не значит, что я хотел бы, чтобы[n]кто-то из вас искал его... Используй время,[n]которое у тебя здесь есть, с умом, хорошо?[n][w][e]
+##-[s]But this is not to say I'd want any[n]of you to seek one out... Use the time[n]you have here wisely, okay?[n][w][e]-##
+[s]...На сегодня это все. Урок окончен.[n][w][e]
+##-[s]...That's all for today. Class is[n]dismissed.[n][w][e]-##
+
+[msg MSG_175 [Учитель Мияхара]]
+[s][bup 46 161 0 0]...Тогда собирайтесь, так что... Ответ:[n]X=1.[n][w][e]
+##-[s][bup 46 161 0 0]...Then round up, so... The answer[n]is X=1.[n][w][e]-##
+[s]Хм? Это не так? О, я вижу, это становится[n]11, так что...[n][w][e]
+##-[s]Hmm? It isn't? Oh, I see, this becomes 11,[n]so...[n][w][e]-##
+[s]Мне очень жаль, но вы правы. X=2.[n][w][e]
+##-[s]I'm sorry, you're right. X=2.[n][w][e]-##
+[s]Ждать... Это правильно?[n][w][e]
+##-[s]Wait... Is that right?[n][w][e]-##
+[s]Ладно, твое задание - разобраться в этом[n]деле.[n][w][e]
+##-[s]Okay, uh, your assignment is to[n]figure this one out.[n][w][e]-##
+[s]В любом случае... Разве это не было[n]невероятно?[n][w][e]
+##-[s]Anyway... Wasn't that incredible?[n][w][e]-##
+[s]Даже с такой сложной проблемой, как эта,[n]как только вы ее решите, X все равно будет[n]равно 1. Или, может быть, 2.[n][w][e]
+##-[s]Even with a difficult problem like[n]this one, once you solve it, X still[n]equals 1. Or maybe 2.[n][w][e]-##
+[s]Я хочу сказать, что математика - это[n]весело! Ты так не думаешь?[n][w][e]
+##-[s]What I'm getting at is, math is fun![n]Don't you think so?[n][w][e]-##
+[s]Цивилизация обязана своим существованием[n]математике![n][w][e]
+##-[s]Civilization owes its very existence[n]to math![n][w][e]-##
+[s]Все в порядке. Сегодня самый [f 5 5]эт, так что[n]получается... твоя очередь,[n][f 4 2].[n][w][e]
+##-[s]All right. Today is the [f 5 5]th,[n]so that works out to... your turn,[n][f 4 2].[n][w][e]-##
+
+[msg MSG_176 [Учитель Мияхара]]
+[s][bup 46 161 0 0]Вы знаете, когда были изобретены числа?[n][w][e]
+##-[s][bup 46 161 0 0]Do you know when numbers were[n]invented?[n][w][e]-##
+
+[sel SEL0177 top]
+[s]"10 000 лет назад".[e]
+##-[s]"10,000 years ago."[e]-##
+[s][f 2 7 0 1 1552 1]"6000 лет назад".[e]
+##-[s][f 2 7 0 1 1552 1]"6,000 years ago."[e]-##
+[s]"4000 лет назад".[e]
+##-[s]"4,000 years ago."[e]-##
+
+[msg MSG_178 [Учитель Мияхара]]
+[s][bup 46 161 0 0]У тебя получилось! Шумеры изобрели числа[n]6000 лет назад.[n][w][e]
+##-[s][bup 46 161 0 0]You got it! The Sumerians invented[n]numbers 6,000 years ago.[n][w][e]-##
+[s]Позже в Индии были изобретены арабские[n]цифры, которые принесли нам число 0 и[n]бесчисленные уравнения![n][w][e]
+##-[s]Later, Arabic numerals were invented[n]in India, which brought us the number[n]0 and countless equations![n][w][e]-##
+[s]Ах... красота и чудо всего этого![n]Математика ВЕЛИКОЛЕПНА![n][w][e]
+##-[s]Ahh... the beauty and wonder of it[n]all! Math is MAGNIFICENT![n][w][e]-##
+
+[msg MSG_179 [Учитель Мияхара]]
+[s][bup 46 161 0 0]Мне очень жаль, но это неправильно. Вам[n]следовало бы прислушаться к Богу[n]математики.[n][w][e]
+##-[s][bup 46 161 0 0]I'm sorry, but that's wrong. You[n]should have listened to the God of[n]Mathematics.[n][w][e]-##
+[s]Шумеры изобрели числа 6000 лет назад.[n][w][e]
+##-[s]The Sumerians invented numbers 6,000[n]years ago.[n][w][e]-##
+[s]Позже в Индии были изобретены арабские[n]цифры, которые принесли нам число 0 и[n]бесчисленные уравнения![n][w][e]
+##-[s]Later, Arabic numerals were invented[n]in India, which brought us the number[n]0 and countless equations![n][w][e]-##
+[s]Ах... красота и чудо всего этого![n]Математика ВЕЛИКОЛЕПНА![n][w][e]
+##-[s]Ahh... the beauty and wonder of it[n]all! Math is MAGNIFICENT![n][w][e]-##
+
+[msg MSG_180 [Учитель Оно]]
+[s][bup 45 161 0 0]Давайте сегодня поговорим об эпохе Хэйан. Я[n]не буду тратить на это много времени, так[n]что будьте внимательны.[n][w][e]
+##-[s][bup 45 161 0 0]Let's talk about the Heian era today.[n]I won't spend a lot of time on this,[n]so pay attention.[n][w][e]-##
+[s]В 794 году был основан Хэйан-Ке. В 894 году[n]они отменили императорские посольства в[n]Китай...[n][w][e]
+##-[s]In 794, the Heian-Kyo was established.[n]In 894, they abolished imperial[n]embassies to China...[n][w][e]-##
+[s]Я мог бы поместить этот раздел на [clr 2]экзамен[n]на следующей неделе[clr 0]...Я чувствую себя[n]ленивым.[n][w][e]
+##-[s]I might put this section on the [clr 2]exam[n]next week[clr 0]... I'm feeling lazy.[n][w][e]-##
+[s]В любом случае, перейдем к феодализму.[n]Слушайте внимательно, потому что это имеет[n]отношение к происхождению самураев.[n][w][e]
+##-[s]Anyways, on to feudalism. Listen[n]carefully, because this has to do[n]with the origins of the samurai.[n][w][e]-##
+[s]Я выбираю... тебя, [f 4 2] Давай посмотрим, знаешь[n]ли ты.[n][w][e]
+##-[s]I choose... you, [f 4 2]![n]Let's see if you know.[n][w][e]-##
+
+[msg MSG_181 [Учитель Оно]]
+[s][bup 45 161 0 0]Какой закон послужил основой для развития[n]феодализма?[n][w][e]
+##-[s][bup 45 161 0 0]What law served as a foundation for[n]the development of feudalism?[n][w][e]-##
+
+[sel SEL182 top]
+[s]"Санзе - это не Хоу".[e]
+##-[s]"The Sanze Isshin no Hou."[e]-##
+[s][f 2 7 0 1 1552 1]"Конден Эйнен Шизайхо".[e]
+##-[s][f 2 7 0 1 1552 1]"The Konden Einen Shizaihou."[e]-##
+[s]"Сикимоку Госэйбай".[e]
+##-[s]"The Goseibai Shikimoku."[e]-##
+
+[msg MSG_183 [Учитель Оно]]
+[s][bup 45 161 0 0]Хорошо, что ты вспомнил. У него очень[n]длинное название, не так ли?[n][w][e]
+##-[s][bup 45 161 0 0]Good, you remembered. It's got a[n]very long name, doesn't it?[n][w][e]-##
+[s]Этот закон был принят, потому что[n]предыдущий закон, Санзе Ишин но Хоу, не[n]помог.[n][w][e]
+##-[s]This law was enacted because the[n]previous law, the Sanze Isshin no[n]Hou, didn't help.[n][w][e]-##
+[s]Фермеры обленились. Не то чтобы это было[n]необычно для любой эпохи... Но это все для[n]периода Хэйан.[n][w][e]
+##-[s]The farmers got lazy. Not that that's[n]unusual for any era... But that's[n]all for the Heian period.[n][w][e]-##
+
+[msg MSG_184 [Учитель Оно]]
+[s][bup 45 161 0 0]Ты можешь сделать лучше, чем это! Ты[n]потомок самурая![n][w][e]
+##-[s][bup 45 161 0 0]You can do better than that! You're[n]descended from the samurai![n][w][e]-##
+[s]Правильный ответ - Конден Эйнен Шизайхо.[n][w][e]
+##-[s]The correct answer is the Konden[n]Einen Shizaihou.[n][w][e]-##
+[s]Этот закон был принят, потому что[n]предыдущий закон, Санзе Ишин но Хоу, не[n]помог.[n][w][e]
+##-[s]This law was enacted because the[n]previous law, the Sanze Isshin no[n]Hou, didn't help.[n][w][e]-##
+[s]Фермеры обленились. Не то чтобы это было[n]необычно для любой эпохи... Но это все для[n]периода Хэйан.[n][w][e]
+##-[s]The farmers got lazy. Not that that's[n]unusual for any era... But that's[n]all for the Heian period.[n][w][e]-##
+
+[msg MSG_185 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Давайте посмотрим здесь... [clr 2]Финалы начнутся[n]в следующий вторник.[clr 0] Боже, у нас только что[n]был экзамен. Какая боль...[n][w][e]
+##-[s][bup 44 161 0 0]Let's see here... [clr 2]Finals will start[n]next Tuesday.[clr 0] Geez, we just had an[n]exam. What a pain...[n][w][e]-##
+[s]Ну, может быть, "боль" - это не то слово,[n]которое я ищу. Английские фразы довольно[n]сложны...[n][w][e]
+##-[s]Well, maybe "pain" wasn't the word[n]I'm looking for. English phrases are[n]pretty tricky...[n][w][e]-##
+[s]Теперь давайте поговорим о соединении[n]запятых.[n][w][e]
+##-[s]Now, let's talk about comma splices.[n][w][e]-##
+[s]Я уверен, что вы все слышали о них раньше,[n]но для обзора...[n][w][e]
+##-[s]I'm sure you've heard all about them[n]before, but to review...[n][w][e]-##
+[s]Соединение запятой - это когда два[n]независимых предложения соединяются запятой[n]без союза.[n][w][e]
+##-[s]A comma splice is when two independent[n]clauses are joined by a comma, with no[n]conjunction.[n][w][e]-##
+[s]Окей, [f 4 2]![n][w][e]
+##-[s]Okay, [f 4 2]![n][w][e]-##
+
+[msg MSG_186 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Вот тебе вопрос... Дун дун данннн![n][w][e]
+##-[s][bup 44 161 0 0]Here's a question for you...[n]Dun dun dunnn![n][w][e]-##
+[s]Какая из этих фраз неверна?[n][w][e]
+##-[s]Which of these phrases is incorrect?[n][w][e]-##
+
+[sel SEL187 top]
+[s]"Я потерпел неудачу, теперь все кончено".[e]
+##-[s]"I failed; it's over now."[e]-##
+[s][f 2 7 0 1 1552 1]"Я потерпел неудачу, теперь все кончено".[e]
+##-[s][f 2 7 0 1 1552 1]"I failed, it's over now."[e]-##
+[s]"Я потерпел неудачу. Теперь все кончено."[e]
+##-[s]"I failed. It's over now."[e]-##
+
+[msg MSG_188 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Ух ты! Я не думал, что ты это поймешь![n]Молодец![n][w][e]
+##-[s][bup 44 161 0 0]Whoa! I didn't think you'd get it![n]Good for you![n][w][e]-##
+[s]Это соединение запятых.[n][w][e]
+##-[s]That's a comma splice.[n][w][e]-##
+[s]...Понял?[n][w][e]
+##-[s]...Got it?[n][w][e]-##
+[s]Если ни у кого нет вопросов, давайте[n]двигаться дальше.[n][w][e]
+##-[s]If no one has any questions, let's[n]move on.[n][w][e]-##
+
+[msg MSG_189 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Бззззт! Я думал, что это была явная выдача.[n][w][e]
+##-[s][bup 44 161 0 0]Bzzzzt! I thought that one was a[n]dead giveaway.[n][w][e]-##
+[s]Запятая не может использоваться для связи[n]двух независимых предложений.[n][w][e]
+##-[s]A comma cannot be used to link two[n]independent clauses.[n][w][e]-##
+[s]Это соединение запятых.[n][w][e]
+##-[s]That's a comma splice.[n][w][e]-##
+[s]...Понял?[n][w][e]
+##-[s]...Got it?[n][w][e]-##
+[s]Если ни у кого нет вопросов, давайте[n]двигаться дальше.[n][w][e]
+##-[s]If no one has any questions, let's[n]move on.[n][w][e]-##
+
+[msg MSG_190 [Учитель Мияхара]]
+[s][bup 46 161 0 0]Ладно, все, приходите за своими анализами,[n]чтобы мы могли их просмотреть.[n][w][e]
+##-[s][bup 46 161 0 0]Okay everyone, come get your tests,[n]so we can go over them.[n][w][e]-##
+[s]По вопросу 1 вам пришлось использовать[n]формулу, на решение которой мы потратили[n]несколько дней. Помнишь?[n][w][e]
+##-[s]On question 1, you had to use the[n]formula we spent several days on[n]to solve it. Remember?[n][w][e]-##
+[s]Следующим вопросом была проблема со словом[n]о календарях.[n][w][e]
+##-[s]The next question was a word problem[n]about calendars.[n][w][e]-##
+[s]Кто-нибудь здесь покупает новый календарь[n]каждый год? Если вы это сделаете, вы зря[n]потратите свои деньги.[n][w][e]
+##-[s]Does anyone here buy a new calendar[n]every year? If you do, you're wasting[n]your money.[n][w][e]-##
+[s]Видите ли, в календарях есть только[n]определенное количество шаблонов.[n][w][e]
+##-[s]You see, calendars have only a set[n]number of patterns.[n][w][e]-##
+[s]В конце концов, на сколько дней может[n]выпасть 1 января?[n][w][e]
+##-[s]After all, how many days can January[n]1st possibly fall on?[n][w][e]-##
+[s]Я выберу студента математически. Давайте[n]посмотрим... [f 4 2].[n][w][e]
+##-[s]I'll pick a student mathematically.[n]Let's see... [f 4 2].[n][w][e]-##
+
+[msg MSG_191 [Учитель Мияхара]]
+[s][bup 46 161 0 0]Сколько существует календарных шаблонов?[n][w][e]
+##-[s][bup 46 161 0 0]How many calendar patterns are there?[n][w][e]-##
+
+[sel SEL192 top]
+[s]"Семь".[e]
+##-[s]"Seven."[e]-##
+[s][f 2 7 0 1 1552 1]"Четырнадцать".[e]
+##-[s][f 2 7 0 1 1552 1]"Fourteen."[e]-##
+[s]- Двадцать восемь.[e]
+##-[s]"Twenty-eight."[e]-##
+
+[msg MSG_193 [Учитель Мияхара]]
+[s][bup 46 161 0 0]Правильно! Отличная работа![n][w][e]
+##-[s][bup 46 161 0 0]Correct! Well done![n][w][e]-##
+[s]Очевидно, что 1 января может приходиться[n]только на семь дней: с понедельника по[n]воскресенье.[n][w][e]
+##-[s]Obviously, January 1st can only fall[n]on seven days: Monday through Sunday.[n][w][e]-##
+[s]Но вы должны учитывать возможность[n]високосного дня в конце февраля.[n][w][e]
+##-[s]But you must factor in the possibility[n]of a leap day at the end of February.[n][w][e]-##
+[s]Что дает вам еще семь шаблонов... Две[n]вариации, основанные на семи днях, дают вам[n]всего четырнадцать шаблонов.[n][w][e]
+##-[s]Which gives you seven more patterns...[n]Two variations based on seven days[n]gives you fourteen patterns in all.[n][w][e]-##
+[s]Любой год, который вы можете назвать,[n]попадает в один из этих четырнадцати.[n][w][e]
+##-[s]Any year you can name falls into one[n]of these fourteen.[n][w][e]-##
+
+[msg MSG_194 [Учитель Мияхара]]
+[s][bup 46 161 0 0]Нет... Вам нужно думать об этих вопросах[n]более элегантно.[n][w][e]
+##-[s][bup 46 161 0 0]No... You need to think about these[n]questions more elegantly.[n][w][e]-##
+[s]Очевидно, что 1 января может приходиться[n]только на семь дней: с понедельника по[n]воскресенье.[n][w][e]
+##-[s]Obviously, January 1st can only fall[n]on seven days: Monday through Sunday.[n][w][e]-##
+[s]Но вы должны учитывать возможность[n]високосного дня в конце февраля.[n][w][e]
+##-[s]But you must factor in the possibility[n]of a leap day at the end of February.[n][w][e]-##
+[s]Что дает вам еще семь шаблонов... Две[n]вариации, основанные на семи днях, дают вам[n]всего четырнадцать шаблонов.[n][w][e]
+##-[s]Which gives you seven more patterns...[n]Two variations based on seven days[n]gives you fourteen patterns in all.[n][w][e]-##
+[s]Любой год, который вы можете назвать,[n]попадает в один из этих четырнадцати.[n][w][e]
+##-[s]Any year you can name falls into one[n]of these fourteen.[n][w][e]-##
+
+[msg MSG_195 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Наш язык может быть очень сложным...[n][w][e]
+##-[s][bup 44 161 0 0]Our language can be very complex...[n][w][e]-##
+[s]Итак... Джунпэй выглядит подозрительно, так[n]как насчет тебя, [f 4 2]?[n][w][e]
+##-[s]Now then... Джунпэй's looking shifty,[n]so how about you, [f 4 2]?[n][w][e]-##
+
+[msg MSG_196 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Заполните пробел соответствующей связкой:[n]"Всю прошлую неделю шел дождь, _____[n]сегодня снова пойдет дождь".[n][w][e]
+##-[s][bup 44 161 0 0]Fill in the blank with the appropriate[n]conjunction: "It rained all last week,[n]_____ it'll rain again today."[n][w][e]-##
+
+[sel SEL197 top]
+[s]"Но..."[e]
+##-[s]"But..."[e]-##
+[s][f 2 7 0 1 1552 1]"И..."[e]
+##-[s][f 2 7 0 1 1552 1]"And..."[e]-##
+[s]"Возможно..."[e]
+##-[s]"Probably..."[e]-##
+
+[msg MSG_198 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Это абсолютно правильно! Когда-нибудь из[n]тебя получится отличный учитель композиции,[n][f 4 2].[n][w][e]
+##-[s][bup 44 161 0 0]That's absolutely correct! You'd[n]make a great composition teacher[n]someday, [f 4 2].[n][w][e]-##
+[s]Вы бы не стали использовать "но" для[n]сравнения двух идентичных ситуаций, а[n]"вероятно" - это не союз.[n][w][e]
+##-[s]You wouldn't use "but" to compare two[n]situations that are identical, and[n]"probably" isn't a conjunction.[n][w][e]-##
+[s]Так что "и" - это правильный путь.[n][w][e]
+##-[s]So "and" is the way to go.[n][w][e]-##
+
+[msg MSG_199 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Тск! Если бы ты допустил подобную ошибку на[n]тесте, я бы завалил тебя на месте.[n][w][e]
+##-[s][bup 44 161 0 0]Tsk! If you made a mistake like that[n]on a test, I'd fail you on the spot.[n][w][e]-##
+[s]Это не сложно, если вы просто немного[n]подумаете об этом![n][w][e]
+##-[s]It's not hard, if you just put some[n]thought into it![n][w][e]-##
+[s]Вы бы не стали использовать "но" для[n]сравнения двух идентичных ситуаций, а[n]"вероятно" - это не союз.[n][w][e]
+##-[s]You wouldn't use "but" to compare two[n]situations that are identical, and[n]"probably" isn't a conjunction.[n][w][e]-##
+[s]Так что "и" - это правильный путь.[n][w][e]
+##-[s]So "and" is the way to go.[n][w][e]-##
+
+[msg MSG_200 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Всех с Новым годом. Зимние каникулы уже[n]закончились.[n][w][e]
+##-[s][bup 44 161 0 0]Happy New Year, everyone.[n]Winter break is over now.[n][w][e]-##
+[s]Больше никакой выпивки... О, вы, ребята,[n]несовершеннолетние. Ух ты, мне тебя жаль.[n][w][e]
+##-[s]No more booze... Oh, you guys are[n]underage. Wow, I feel sorry for you.[n][w][e]-##
+[s]Ну и ну! Давайте сразу перейдем к делу. Это[n]новый год, так что мы начнем с основ.[n][w][e]
+##-[s]Well! Let's get right down to[n]business. It's a new year, so[n]we'll start with the basics.[n][w][e]-##
+[s]Это простая концепция, но студенты часто[n]понимают ее неправильно. Я говорю об[n]апострофе.[n][w][e]
+##-[s]It's a simple concept, but students[n]often get it wrong. I'm talking[n]about the apostrophe.[n][w][e]-##
+[s]Окей, [f 4 2].[n][w][e]
+##-[s]Okay, [f 4 2].[n][w][e]-##
+
+[msg MSG_201 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Скажи мне одну из трех фраз, которые я[n]написал на доске... Какой из них[n]правильный?[n][w][e]
+##-[s][bup 44 161 0 0]Of the three phrases I've written[n]on the blackboard, tell me...[n]Which one is correct?[n][w][e]-##
+
+[sel SEL202 top]
+[s]"Это неправильно".[e]
+##-[s]"Its wrong."[e]-##
+[s][f 2 7 0 1 1552 1]"Это неправильно".[e]
+##-[s][f 2 7 0 1 1552 1]"It's wrong."[e]-##
+[s]"Это неправильно".[e]
+##-[s]"Its' wrong."[e]-##
+
+[msg MSG_203 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Это абсолютно верно.[n][w][e]
+##-[s][bup 44 161 0 0]That's absolutely right.[n][w][e]-##
+[s]"Это" - сокращение от "Это есть".[n][w][e]
+##-[s]"It's" is a contraction of "It is."[n][w][e]-##
+[s]"Свой" - это притяжательное слово. Вы могли[n]бы сказать "его хвост" или "его[n]температура", но не "это неправильно".[n][w][e]
+##-[s]"Its" is a possessive word. You could[n]say "its tail" or "its temperature,"[n]but not "its wrong."[n][w][e]-##
+[s]Есть еще одна пара слов, которые обычно[n]путают...[n][w][e]
+##-[s]There's another pair of words that[n]are commonly confused...[n][w][e]-##
+[s]"Они" и "их" имеют одинаковое произношение,[n]но они не взаимозаменяемы, так что будьте[n]осторожны.[n][w][e]
+##-[s]"They're" and "their" have the same[n]pronunciation, but they're not[n]interchangeable, so watch out.[n][w][e]-##
+[s]А теперь откройте свои учебники.[n][w][e]
+##-[s]Now, open your textbooks.[n][w][e]-##
+
+[msg MSG_204 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Нет! Неправильно! Совершенно неправильно![n]Где ты этому научился?! Прекрати это[n]делать![n][w][e]
+##-[s][bup 44 161 0 0]No! Wrong! Totally wrong! Where'd[n]you learn this!? Stop doing it![n][w][e]-##
+[s]"Это" - сокращение от "Это есть".[n][w][e]
+##-[s]"It's" is a contraction of "It is."[n][w][e]-##
+[s]"Свой" - это притяжательное слово. Вы могли[n]бы сказать "его хвост" или "его[n]температура", но не "это неправильно".[n][w][e]
+##-[s]"Its" is a possessive word. You could[n]say "its tail" or "its temperature,"[n]but not "its wrong."[n][w][e]-##
+[s]Есть еще одна пара слов, которые обычно[n]путают...[n][w][e]
+##-[s]There's another pair of words that[n]are commonly confused...[n][w][e]-##
+[s]"Они" и "их" имеют одинаковое произношение,[n]но они не взаимозаменяемы, так что будьте[n]осторожны.[n][w][e]
+##-[s]"They're" and "their" have the same[n]pronunciation, but they're not[n]interchangeable, so watch out.[n][w][e]-##
+[s]А теперь откройте свои учебники.[n][w][e]
+##-[s]Now, open your textbooks.[n][w][e]-##
+
+[msg MSG_205 [Учитель Ториуми]]
+[s][bup 44 163 0 0]...Кендзи! Эй, Кендзи![n][w][e]
+##-[s][bup 44 163 0 0]...Kenji! Hey, Kenji![n][w][e]-##
+[s][bup 44 161 0 0]Боже, он совершенно не в себе. Ему следует[n]начать пить кофе до того, как он придет в[n]класс...[n][w][e]
+##-[s][bup 44 161 0 0]Geez, he's completely out of it.[n]He should start drinking coffee[n]before he comes to class...[n][w][e]-##
+[s]Как насчет тебя, [f 4 2]?[n][w][e]
+##-[s]How about you, [f 4 2]?[n][w][e]-##
+
+[msg MSG_206 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Всем известно, что слово "кофе" происходит[n]от арабского. Или ты должен, потому что я[n]сказал тебе это в прошлый раз.[n][w][e]
+##-[s][bup 44 161 0 0]Everyone knows that "coffee" is[n]derived from Arabic. Or you should,[n]because I told you that last time.[n][w][e]-##
+[s]Но какая из этих вещей НЕ является[n]арабской?[n][w][e]
+##-[s]But which one of these things is[n]NOT Arabic?[n][w][e]-##
+
+[sel SEL207 top]
+[s]"Сахар".[e]
+##-[s]"Sugar."[e]-##
+[s]"Журналы".[e]
+##-[s]"Magazines."[e]-##
+[s][f 2 7 0 1 1552 1]"Наручные часы".[e]
+##-[s][f 2 7 0 1 1552 1]"Wristwatches."[e]-##
+
+[msg MSG_208 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Бинго! Ты сорвал джекпот.[n][w][e]
+##-[s][bup 44 161 0 0]Bingo! You hit the jackpot.[n][w][e]-##
+[s]И "сахар", и "журнал" произошли от[n]арабского языка.[n][w][e]
+##-[s]Both "sugar" and "magazine" had their[n]origins in Arabic.[n][w][e]-##
+[s]Однако они заимствованы из европейских[n]языков, а не непосредственно из арабского.[n][w][e]
+##-[s]However, they're derived from European[n]languages, not directly from Arabic.[n][w][e]-##
+
+[msg MSG_209 [Учитель Ториуми]]
+[s][bup 44 161 0 0]Слишком плохой... Ответ - "наручные часы".[n][w][e]
+##-[s][bup 44 161 0 0]Too bad... The answer is "wristwatch."[n][w][e]-##
+[s]И "сахар", и "журнал" произошли от[n]арабского языка.[n][w][e]
+##-[s]Both "sugar" and "magazine" had their[n]origins in Arabic.[n][w][e]-##
+[s]Однако они заимствованы из европейских[n]языков, а не непосредственно из арабского.[n][w][e]
+##-[s]However, they're derived from European[n]languages, not directly from Arabic.[n][w][e]-##
+
+[msg MSG_210 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Давайте начнем, класс. Ахих Адни[n]Тетраграмматон...[n][w][e]
+##-[s][bup 43 161 0 0]Let's begin, class. Ahih Adni[n]Tetragrammaton...[n][w][e]-##
+[s]Мы рассмотрели времена магического роста, и[n]теперь мы почти достигли современной эпохи.[n][w][e]
+##-[s]We've covered the times of magical[n]growth, and now we've just about[n]reached the modern age.[n][w][e]-##
+[s]Каждое искусство или наука по мере своего[n]развития разветвляется на[n]под-исследования...[n][w][e]
+##-[s]Every art or science branches off[n]into sub-studies as it progresses...[n][w][e]-##
+[s]Магия тоже была разделена примерно в 18[n]веке.[n][w][e]
+##-[s]Magic, too, was subdivided around[n]the 18th century.[n][w][e]-##
+[s]Некоторые люди проповедовали о морали,[n]некоторые сосредоточились на общении с[n]духами и так далее.[n][w][e]
+##-[s]Some people preached about morals,[n]some focused on communicating with[n]spirits, and so on.[n][w][e]-##
+[s]Был даже человек, который основал[n]современную психологию благодаря своим[n]исследованиям гипноза.[n][w][e]
+##-[s]There was even a man who founded[n]modern psychology through his[n]research on hypnosis.[n][w][e]-##
+[s]Это тоже магия: способность заглядывать в[n]человеческий разум.[n][w][e]
+##-[s]This, too, is magic: the ability to see[n]into the human mind.[n][w][e]-##
+[s]В результате расцвета магических[n]исследований охота на ведьм стала более[n]распространенной...[n][w][e]
+##-[s]As a result of the flourishing[n]magical research, witch hunts[n]became more common...[n][w][e]-##
+[s]Чтобы избежать этого, магия начала[n]развиваться в "тайных обществах".[n][w][e]
+##-[s]To avoid this, magic began to progress[n]in "secret societies."[n][w][e]-##
+[s]Я уверен, что многие из вас слышали[n]названия этих организаций...[n][w][e]
+##-[s]I'm sure many of you have heard[n]the names of these organizations...[n][w][e]-##
+[s]Орден розенкрейцеров, масоны, иллюминаты,[n]Золотой Рассвет...[n][w][e]
+##-[s]The Rosicrucian Order, the Freemasons,[n]the Illuminati, the Golden Dawn...[n][w][e]-##
+[s]Многие из этих обществ все еще с нами[n]сегодня.[n][w][e]
+##-[s]Many of these societies are still[n]with us today.[n][w][e]-##
+[s]Предков современной магии слишком много,[n]чтобы их можно было сосчитать.[n][w][e]
+##-[s]The forefathers of modern magic are[n]too numerous to count.[n][w][e]-##
+[s]Например, есть Элифас Леви, человек,[n]который пытался объединить современные и[n]древние системы магии.[n][w][e]
+##-[s]For instance, there's Eliphas Levi,[n]the man who attempted to combine[n]modern and ancient systems of magic.[n][w][e]-##
+[s]Его литература, в которой применялся[n]научный подход, все еще публикуется[n]сегодня.[n][w][e]
+##-[s]His literature, which took a scientific[n]approach, is still published today.[n][w][e]-##
+[s]Мадам Блаватская была величайшим магом 19[n]века и известным теософом.[n][w][e]
+##-[s]Madam Blavatsky was the biggest[n]magician of the 19th century, and[n]a renowned Theosophist.[n][w][e]-##
+[s]Многие магические общества произошли от[n]Теософского общества, которое она основала.[n][w][e]
+##-[s]Many magical societies have stemmed[n]from the Theosophical Society that[n]she founded.[n][w][e]-##
+[s]Месмер открыл путь к психологии в своих[n]исследованиях жизненной энергии.[n][w][e]
+##-[s]Mesmer opened the path to psychology[n]in his studies on life energy.[n][w][e]-##
+[s]Рудольф Штайнер помог распространить знания[n]об антропософии.[n][w][e]
+##-[s]Rudolf Steiner helped spread the[n]knowledge of anthroposophy.[n][w][e]-##
+[s]Конечно, был Алистер Кроули, великий маг[n]20-го века...[n][w][e]
+##-[s]There was Aleister Crowley, of course,[n]the 20th century's grand magician...[n][w][e]-##
+[s]И Гурджиев, мистик, который учил своих[n]многочисленных учеников Четвертому Пути.[n][w][e]
+##-[s]And Gurdjieff, a mystic who taught[n]his many students the Fourth Way.[n][w][e]-##
+[s]Все они обладали невероятными запасами[n]знаний.[n][w][e]
+##-[s]All of them had incredible stores[n]of knowledge.[n][w][e]-##
+[s]...Вы все слушаете? Надеюсь, ты не оцепенел[n]от страха? Иииииии.[n][w][e]
+##-[s]...Are you all listening? You're not frozen[n]with fear, I trust? Eeeheehee.[n][w][e]-##
+[s]Я проверю тебя, чтобы увидеть, насколько[n]хорошо ты обращаешь внимание.[n][w][e]
+##-[s]I'll test you, to see how well[n]you've been paying attention.[n][w][e]-##
+[s]Поймите это неправильно, и ваш знак зодиака[n]изменится. Ахах Адонай Тетраграмматон...[n][w][e]
+##-[s]Get it wrong, and your zodiac[n]sign will change. Ahah Adonai[n]Tetragrammaton...[n][w][e]-##
+[s]Кого выбрать...? Ах, [f 4 2].Я спрашиваю тебя...[n][w][e]
+##-[s]Who to choose...? Ah, [f 4 2].[n]I ask thee...[n][w][e]-##
+
+[msg MSG_211 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Кто был основателем теософии, которая дала[n]начало многим магическим обществам?[n][w][e]
+##-[s][bup 43 161 0 0]Who was the founder of Theosophy,[n]which gave rise to many magical[n]societies?[n][w][e]-##
+
+[sel SEL212 top]
+[s]"Элифас Леви".[e]
+##-[s]"Eliphas Levi."[e]-##
+[s][f 2 7 0 1 1552 1]"Мадам Блаватская".[e]
+##-[s][f 2 7 0 1 1552 1]"Madam Blavatsky."[e]-##
+[s]"Алистер Кроули".[e]
+##-[s]"Aleister Crowley."[e]-##
+
+[msg MSG_213 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Отлично. Не забывайте очищаться в свои[n]несчастливые годы...[n][w][e]
+##-[s][bup 43 161 0 0]Very good. Remember to be purified[n]on your unlucky years...[n][w][e]-##
+[s]Итак, магические искусства продвинулись еще[n]дальше с практическим применением.[n][w][e]
+##-[s]Now then, the magical arts progressed[n]even further with practical use.[n][w][e]-##
+[s]Благодаря знаниям, распространяемым людьми,[n]которых мы сегодня обсуждали...[n][w][e]
+##-[s]With the knowledge spread by the[n]people we've discussed today...[n][w][e]-##
+
+[msg MSG_214 [Учитель Эдогава]]
+[s][bup 43 161 0 0]Неправильно! Ваш знак теперь Кошка - ваш[n]год никогда не наступит![n][w][e]
+##-[s][bup 43 161 0 0]Wrong! Your sign is now the Cat--[n]your year will never come![n][w][e]-##
+[s]Итак, магические искусства продвинулись еще[n]дальше с практическим применением.[n][w][e]
+##-[s]Now then, the magical arts progressed[n]even further with practical use.[n][w][e]-##
+[s]Благодаря знаниям, распространяемым людьми,[n]которых мы сегодня обсуждали...[n][w][e]
+##-[s]With the knowledge spread by the[n]people we've discussed today...[n][w][e]-##
+
