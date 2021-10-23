@@ -11,11 +11,11 @@
 ##-[s][bup 49 161 0 0]*sigh*[n]December already?[n][w][e]-##
 [s]Это почти конец года... Давай не будем[n]портить наш последний месяц года вместе с[n]ленью, хорошо?[n][w][e]
 ##-[s]It's almost the end of the year...[n]Let's not ruin our last month of the[n]year together with laziness, okay?[n][w][e]-##
-[s]Помните, что есть [clr 2]экзамен на следующей[n]неделе[clr 0].Хотя разве у вас, ребята, только что[n]не было экзаменов...? Время летит.[n][w][e]
+[s]Помните, [clr 2]экзамен на следующей[n]неделе[clr 0].Хотя разве у вас, ребята, только что[n]не было экзаменов...? Время летит.[n][w][e]
 ##-[s]Remember, there's [clr 2]an exam next week[clr 0].[n]Though didn't you guys just have[n]exams...? Time flies.[n][w][e]-##
 [s]Материал по экзамену начинается со страницы[n]160 и будет включать в себя то, что мы[n]рассмотрим на сегодняшнем уроке.[n][w][e]
 ##-[s]The material on the exam begins on[n]page 160, and will include what we[n]go over in today's lesson.[n][w][e]-##
-[s]Который... определение аллотропии.[n][w][e]
+[s]Тема которого... определение аллотропии.[n][w][e]
 ##-[s]Which is... the definition of[n]allotropy.[n][w][e]-##
 [s]"Свойство некоторых элементов существовать[n]в двух или более формах, которые химически[n]идентичны, но физически дискретны".[n][w][e]
 ##-[s]"The property of some elements to exist[n]in two or more forms that are chemically[n]identical, yet physically discrete."[n][w][e]-##
