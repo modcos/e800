@@ -17,7 +17,7 @@
 [msg MSG_002 [Дружелюбный студент]]
 [s][bup 22 1 65535 0]Блин, я так и знал.[n][w][e]
 ##-[s][bup 22 1 65535 0]Man, I knew it.[n][w][e]-##
-[s]Я слышал от Дзюнпэя, что вы довольно близки[n]с Юкари-сан.[n][w][e]
+[s]Я слышал от Джунпэя, что вы довольно близки[n]с Юкари-сан.[n][w][e]
 ##-[s]I heard from Джунпэй that you're[n]pretty close with Юкари-san.[n][w][e]-##
 [s]...Что с этим такое?[n][w][e]
 ##-[s]...What's up with that?[n][w][e]-##
@@ -25,13 +25,13 @@
 ##-[s]Well, I guess it doesn't matter.[n]I'm looking for someone with[n]a little more experience anyway.[n][w][e]-##
 [s]Кстати... Я Кенджи Томочика.[n][w][e]
 ##-[s]By the way... I'm Кэндзи Томотика.[n][w][e]-##
-[s][f 1 5]Кэндзи Томочика[n]У нас утреннее собрание, так[n]что нам лучше поторопиться.[n][w][e]
+[s][f 1 5]Кэндзи Томотика[n]У нас утреннее собрание, так[n]что нам лучше поторопиться.[n][w][e]
 ##-[s][f 1 5]Кэндзи Томотика[n]There's a morning assembly,[n]so we better hurry.[n][w][e]-##
 
 [msg MSG_003 [Дружелюбный студент]]
 [s][bup 22 1 65535 0]Блин, я так и знал.[n][w][e]
 ##-[s][bup 22 1 65535 0]Man, I knew it.[n][w][e]-##
-[s]Я слышал от Дзюнпэя, что вы довольно близки[n]с Юкари-сан.[n][w][e]
+[s]Я слышал от Джупэя, что вы довольно близки[n]с Юкари-сан.[n][w][e]
 ##-[s]I heard from Джунпэй that you're[n]pretty close with Юкари-san.[n][w][e]-##
 [s]...Что с этим такое?[n][w][e]
 ##-[s]...What's up with that?[n][w][e]-##
@@ -39,7 +39,7 @@
 ##-[s]Well, I guess it doesn't matter.[n]I'm looking for someone with[n]a little more experience anyway.[n][w][e]-##
 [s]Кстати... Я Кенджи Томочика.[n][w][e]
 ##-[s]By the way... I'm Кэндзи Томотика.[n][w][e]-##
-[s][f 1 5]Кэндзи Томочика[n]У нас утреннее собрание, так[n]что нам лучше поторопиться.[n][w][e]
+[s][f 1 5]Кэндзи Томотика[n]У нас утреннее собрание, так[n]что нам лучше поторопиться.[n][w][e]
 ##-[s][f 1 5]Кэндзи Томотика[n]There's a morning assembly,[n]so we better hurry.[n][w][e]-##
 
 [msg MSG_004 [Джунпэй]]
@@ -65,7 +65,7 @@
 ##-[s][bup 5 2 65535 0]Actually...[n][w][e]-##
 [s]О, подождите! Я не должен ничего говорить![n][w][e]
 ##-[s]Oh, wait! I'm not supposed to say[n]anything![n][w][e]-##
-[s]Извини, чувак. * смешок*[n][w][e]
+[s]Извини, чувак. * ухмылка*[n][w][e]
 ##-[s]Sorry, man. *chuckle*[n][w][e]-##
 [s][f 1 5]Юкари[n][bup 2 8 65535 3]Блин, кто-то сегодня полон энергии...[n]Я мог слышать тебя с той стороны.[n][w][e]
 ##-[s][f 1 5]Юкари[n][bup 2 8 65535 3]Sheesh, someone's full of energy[n]today... I could hear you from all the[n]way over there.[n][w][e]-##
@@ -85,7 +85,7 @@
 [msg MSG_007 [Джунпэй]]
 [s][bup 5 3 65535 0]Чувак, я в полном порядке![n][w][e]
 ##-[s][bup 5 3 65535 0]Dude, I am juuuust fine![n][w][e]-##
-[s][bup 5 1 65535 0]Забудь о старом Дзюнпее...![n][w][e]
+[s][bup 5 1 65535 0]Забудь о старом Джупэе...![n][w][e]
 ##-[s][bup 5 1 65535 0]Forget the ol' Джунпэй...![n][w][e]-##
 [s]Это и есть НАСТОЯЩИЙ я![n][w][e]
 ##-[s]This is the REAL me![n][w][e]-##
@@ -221,7 +221,7 @@
 ##-[s][bup 2 8 65535 0]I bet Мицуру-senpai's standards are so[n]high that she won't give us anything[n]unless we're top ten in our grade...[n][w][e]-##
 
 [msg MSG_019 [Юкари]]
-[s][bup 2 1 65535 0]...Да, я задавался этим вопросом.[n][w][e]
+[s][bup 2 1 65535 0]...Да, я задавалась этим вопросом.[n][w][e]
 ##-[s][bup 2 1 65535 0]...Yeah, I wondered about that.[n][w][e]-##
 [s][bup 2 2 65535 0]Но я надеюсь, что это не так.[n][w][e]
 ##-[s][bup 2 2 65535 0]But, I hope it's not.[n][w][e]-##
@@ -237,7 +237,7 @@
 ##-[s][bup 2 8 65535 0]I bet Мицуру-senpai's standards are so[n]high that she won't give us anything[n]unless we're top ten in our grade...[n][w][e]-##
 
 [msg MSG_020 [Джунпэй]]
-[s][bup 5 1 65535 0]Ваззап? Сегодня просто обычный день, да?[n][w][e]
+[s][bup 5 1 65535 0]Чё как? Сегодня просто обычный день, да?[n][w][e]
 ##-[s][bup 5 1 65535 0]Wazzup? Today is just an ordinary day,[n]huh?[n][w][e]-##
 [s]Хотя позавчера это было безумием.[n][w][e]
 ##-[s]That was crazy though, the day[n]before yesterday.[n][w][e]-##
@@ -267,7 +267,7 @@
 ##-[s]How sweet is that!?[n][w][e]-##
 
 [msg MSG_023 [Джунпэй]]
-[s][bup 5 2 65535 0]Чувак, ты что, с ума сошел?! У нас есть[n]сила Личности![n][w][e]
+[s][bup 5 2 65535 0]Чувак, ты что, с ума сошел?! У нас есть[n]сила Персоны![n][w][e]
 ##-[s][bup 5 2 65535 0]Dude, are you crazy!? We've got[n]the power of Persona![n][w][e]-##
 [s]Плюс, мы выиграли битву и спасли город...[n][w][e]
 ##-[s]Plus, we won the battle and saved[n]the city...[n][w][e]-##
@@ -373,11 +373,11 @@
 ##-[s]"No, not at all..."[e]-##
 
 [msg MSG_034 [Мицуру]]
-[s][bup 4 2 65535 0]Ах, как я и подозревал. Я буду с[n]нетерпением ждать ваших оценок...[n][w][e]
+[s][bup 4 2 65535 0]Ах, как я и подозревала. Я буду с[n]нетерпением ждать ваших оценок...[n][w][e]
 ##-[s][bup 4 2 65535 0]Ah, just as I suspected. I'll be looking[n]forward to seeing your grades...[n][w][e]-##
 [s][clr 2]Если они будут хорошими, я дам тебе[n]кое-что.[clr 0]  ...Считай это наградой.[n][w][e]
 ##-[s][clr 2]If they're good, I'll give you something.[clr 0] [n]...Consider it a reward.[n][w][e]-##
-[s][bup 4 1 65535 0]Честно говоря, я не так хорошо подготовлен,[n]как следовало бы. Я все еще занят[n]наблюдением за Тенями.[n][w][e]
+[s][bup 4 1 65535 0]Честно говоря, я не так хорошо подготовлена[n]как следовало бы. Я все еще занята[n]наблюдением за Тенями.[n][w][e]
 ##-[s][bup 4 1 65535 0]To be honest, I'm not as well prepared[n]as I should be. I'm still preoccupied[n]with monitoring Shadows.[n][w][e]-##
 [s]Во всяком случае, со времени нашей[n]последней миссии количество инцидентов[n]уменьшилось.[n][w][e]
 ##-[s]At any rate, the number of incidents[n]has decreased since our last mission.[n][w][e]-##
@@ -393,7 +393,7 @@
 ##-[s][bup 4 1 65535 0]I see... A talented hawk hides its[n]talons, hm? Well, I'll be looking[n]forward to seeing your grades...[n][w][e]-##
 [s][clr 2]Если они будут хорошими, я дам тебе[n]кое-что.[clr 0]  ...Считай это наградой.[n][w][e]
 ##-[s][clr 2]If they're good, I'll give you something.[clr 0] [n]...Consider it a reward.[n][w][e]-##
-[s]Честно говоря, я не так хорошо подготовлен,[n]как следовало бы. Я все еще занят[n]наблюдением за Тенями.[n][w][e]
+[s]Честно говоря, я не так хорошо подготовлена,[n]как следовало бы. Я все еще занята[n]наблюдением за Тенями.[n][w][e]
 ##-[s]To be honest, I'm not as well prepared[n]as I should be. I'm still preoccupied[n]with monitoring Shadows.[n][w][e]-##
 [s]Во всяком случае, со времени нашей[n]последней миссии количество инцидентов[n]уменьшилось.[n][w][e]
 ##-[s]At any rate, the number of incidents[n]has decreased since our last mission.[n][w][e]-##
@@ -405,7 +405,7 @@
 ##-[s]And even after Акихико returns to battle,[n]we still won't be at full strength...[n][w][e]-##
 
 [msg MSG_036 [Акихико]]
-[s][bup 7 4 65535 0]*фыркать* *фыркать* Х-Привет.[n][w][e]
+[s][bup 7 4 65535 0]*фыркать* *фыркает* П-Привет.[n][w][e]
 ##-[s][bup 7 4 65535 0]*huff* *huff* H-Hey.[n][w][e]-##
 
 [sel SEL037 top]
@@ -591,7 +591,7 @@
 ##-[s]Oh, by the way... You remember[n]how Акихико-senpai was talking[n]about that girl Фука...?[n][w][e]-##
 [s]Я слышал, что она немного слаба... но это[n]всего лишь слухи. Интересно, какая она на[n]самом деле?[n][w][e]
 ##-[s]I hear she's kinda weak... but that's[n]just a rumor. I wonder what she's[n]really like.[n][w][e]-##
-[s]В любом случае, иметь другого[n]пользователя-персонажа не может быть плохо![n][w][e]
+[s]В любом случае, иметь другого[n]пользователя-персоны не может быть плохо![n][w][e]
 ##-[s]Either way, having another Persona-user[n]can't be a bad thing![n][w][e]-##
 
 [msg MSG_055 [Юкари]]
@@ -605,7 +605,7 @@
 ##-[s]Oh, by the way... You remember[n]how Акихико-senpai was talking[n]about that girl Фука...?[n][w][e]-##
 [s]Я слышал, что она немного слаба... но это[n]всего лишь слухи. Интересно, какая она на[n]самом деле?[n][w][e]
 ##-[s]I hear she's kinda weak... but that's[n]just a rumor. I wonder what she's[n]really like.[n][w][e]-##
-[s]В любом случае, иметь другого[n]пользователя-персонажа не может быть плохо![n][w][e]
+[s]В любом случае, иметь другого[n]пользователя-персоны не может быть плохо![n][w][e]
 ##-[s]Either way, having another Persona-user[n]can't be a bad thing![n][w][e]-##
 
 [msg MSG_056 [Джунпэй]]
