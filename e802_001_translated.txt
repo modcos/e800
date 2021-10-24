@@ -713,7 +713,7 @@
 ##-[s][bup 2 3 65535 0]Duh! The ghost story! Did you already[n]forget what we talked about last night?[n][w][e]-##
 [s][bup 2 1 65535 0]...Ну, в любом случае.[n][w][e]
 ##-[s][bup 2 1 65535 0]...Well, anyways.[n][w][e]-##
-[s]Тебе тоже лучше узнать как можно больше...[n]Помните, у вас есть только до[n][clr 2]Пятница[clr 0]![n][w][e]
+[s]Тебе тоже лучше узнать как можно больше...[n]Помните, у вас есть только до[n][clr 2]Пятницы[clr 0]![n][w][e]
 ##-[s]You better find out as much as you can,[n]too... Remember, you only have until[n][clr 2]Friday[clr 0]![n][w][e]-##
 [s]Я тоже на тебя рассчитываю.[n][w][e]
 ##-[s]I'm counting on you too.[n][w][e]-##
@@ -723,7 +723,7 @@
 ##-[s][bup 2 3 65535 0]Do you even know what I'm talking[n]about?[n][w][e]-##
 [s][bup 2 1 65535 0]...Ну, в любом случае.[n][w][e]
 ##-[s][bup 2 1 65535 0]...Well, anyways.[n][w][e]-##
-[s]Тебе тоже лучше узнать как можно больше...[n]Помните, у вас есть только до[n][clr 2]Пятница[clr 0]![n][w][e]
+[s]Тебе тоже лучше узнать как можно больше...[n]Помните, у вас есть только до[n][clr 2]Пятницы[clr 0]![n][w][e]
 ##-[s]You better find out as much as you can,[n]too... Remember, you only have until[n][clr 2]Friday[clr 0]![n][w][e]-##
 [s]Я тоже на тебя рассчитываю.[n][w][e]
 ##-[s]I'm counting on you too.[n][w][e]-##
@@ -791,7 +791,7 @@
 ##-[s][bup 2 1 65535 0]Mm... It's going.[n][w][e]-##
 [s]Но вокруг ходит так много глупых слухов,[n]что трудно собрать их все вместе.[n][w][e]
 ##-[s]But, there's so many stupid rumors[n]going around that it's tough to put[n]them all together.[n][w][e]-##
-[s]Однако я получил кое-какую полезную[n]информацию.[n][w][e]
+[s]Однако я получила кое-какую полезную[n]информацию.[n][w][e]
 ##-[s]I did get some useful information,[n]though.[n][w][e]-##
 [s]Я собираюсь изучить это подробнее сегодня.[n][w][e]
 ##-[s]I'm gonna look into it more today.[n][w][e]-##
@@ -801,7 +801,7 @@
 ##-[s][bup 2 1 65535 0]Don't worry. I'm fine.[n][w][e]-##
 [s]Но вокруг ходит так много глупых слухов,[n]что трудно собрать их все вместе.[n][w][e]
 ##-[s]But, there's so many stupid rumors[n]going around that it's tough to put[n]them all together.[n][w][e]-##
-[s]Однако я получил кое-какую полезную[n]информацию.[n][w][e]
+[s]Однако я получила кое-какую полезную[n]информацию.[n][w][e]
 ##-[s]I did get some useful information,[n]though.[n][w][e]-##
 [s]Я собираюсь изучить это подробнее сегодня.[n][w][e]
 ##-[s]I'm gonna look into it more today.[n][w][e]-##
@@ -825,7 +825,7 @@
 ##-[s]"What was that about?"[e]-##
 
 [msg MSG_078 [Юкари]]
-[s][bup 2 1 65535 0]Да, я слышал несколько интересных[n]историй...[n][w][e]
+[s][bup 2 1 65535 0]Да, я слышала несколько интересных[n]историй...[n][w][e]
 ##-[s][bup 2 1 65535 0]Yep, I heard some interesting stories...[n][w][e]-##
 [s]Не забывай, ладно?[n][w][e]
 ##-[s]Don't forget, okay?[n][w][e]-##
@@ -833,15 +833,15 @@
 [msg MSG_079 [Юкари]]
 [s][bup 2 3 65535 0]Эй! Не бросать![n][w][e]
 ##-[s][bup 2 3 65535 0]Hey! No ditching![n][w][e]-##
-[s][bup 2 1 65535 0]Я слышал несколько интересных историй, так[n]что убедись, что ты там, хорошо?[n][w][e]
+[s][bup 2 1 65535 0]Я слышала несколько интересных историй, так[n]что убедись, что ты там, хорошо?[n][w][e]
 ##-[s][bup 2 1 65535 0]I heard some interesting stories,[n]so make sure you're there, okay?[n][w][e]-##
 
 [msg MSG_080 [Юкари]]
-[s][bup 2 1 65535 0]Эй, я тут подумал...[n][w][e]
+[s][bup 2 1 65535 0]Эй, я тут подумала...[n][w][e]
 ##-[s][bup 2 1 65535 0]Hey, I was thinking...[n][w][e]-##
 [s]Как ты думаешь, Мицуру-семпай спас Фууку,[n]потому что это было правильно?[n][w][e]
 ##-[s]Do you think Мицуру-senpai saved[n]Фука because it was the right thing[n]to do?[n][w][e]-##
-[s]Или это было просто потому, что она[n]пользователь Личностей, и она нам нужна...?[n][w][e]
+[s]Или это было просто потому, что она[n]пользователь Персоны, и она нам нужна...?[n][w][e]
 ##-[s]Or was it just because she's a[n]Persona-user and we need her...?[n][w][e]-##
 
 [sel SEL081 top]
@@ -911,7 +911,7 @@
 [msg MSG_088 [Юкари]]
 [s][bup 2 1 65535 0]Доброе утро.[n][w][e]
 ##-[s][bup 2 1 65535 0]Mornin'.[n][w][e]-##
-[s]Эй, [f 4 2]- кун... Что вы думаете о Фууке?[n][w][e]
+[s]Эй, [f 4 2]- кун... Что ты думаешь о Фууке?[n][w][e]
 ##-[s]Hey, [f 4 2]-kun...[n]What do you think about Фука?[n][w][e]-##
 
 [sel SEL089 top]
@@ -977,7 +977,7 @@
 ##-[s]It just feels wrong...[n][w][e]-##
 
 [msg MSG_095 [Юкари]]
-[s][bup 2 8 65535 0]Блин, я не это имел в виду.[n][w][e]
+[s][bup 2 8 65535 0]Блин, я не это имела в виду.[n][w][e]
 ##-[s][bup 2 8 65535 0]Yikes, that's not what I meant.[n][w][e]-##
 [s][bup 2 4 65535 0]Тебе не кажется, что она как бы подтолкнула[n]Фууку присоединиться?[n][w][e]
 ##-[s][bup 2 4 65535 0]Don't you think she sort of pushed[n]Фука into joining?[n][w][e]-##
@@ -1011,13 +1011,13 @@
 [msg MSG_098 [Мицуру]]
 [s][bup 4 2 65535 0]Да, вы можете на меня положиться.[n][w][e]
 ##-[s][bup 4 2 65535 0]Yes, you can depend on me.[n][w][e]-##
-[s]Несмотря на то, что я немного отстал от[n]практики, я скоро вернусь к своей прежней[n]форме.[n][w][e]
+[s]Несмотря на то, что я немного отстала от[n]практики, я скоро вернусь к своей прежней[n]форме.[n][w][e]
 ##-[s]Even though I'm a bit out of practice,[n]I will soon return to my prior form.[n][w][e]-##
 
 [msg MSG_099 [Мицуру]]
 [s][bup 4 3 65535 0]Хм... Что ж, ты сам увидишь.[n][w][e]
 ##-[s][bup 4 3 65535 0]Hrm... Well, you'll see for yourself.[n][w][e]-##
-[s][bup 4 1 65535 0]Несмотря на то, что я немного отстал от[n]практики, я скоро вернусь к своей прежней[n]форме.[n][w][e]
+[s][bup 4 1 65535 0]Несмотря на то, что я немного отстала от[n]практики, я скоро вернусь к своей прежней[n]форме.[n][w][e]
 ##-[s][bup 4 1 65535 0]Even though I'm a bit out of practice,[n]I will soon return to my prior form.[n][w][e]-##
 
 [msg MSG_100 [Джунпэй]]
@@ -1065,7 +1065,7 @@
 [sel SEL105_G top]
 [s]"Как она?"[e]
 ##-[s]"How is she?"[e]-##
-[s]"Я рад это слышать".[e]
+[s]"Я рада это слышать".[e]
 ##-[s]"I'm glad to hear that."[e]-##
 
 [msg MSG_106 [Юкари]]
@@ -1266,13 +1266,13 @@
 [s]"Предоставь это мне!"[e]
 ##-[s]"Leave it to me!"[e]-##
 
-[msg MSG_134 [Фука]]
+[msg MSG_134 [Фуука]]
 [s][bup 6 1 65535 0]Я знаю, что ты чувствуешь. Мои способности[n]тоже имеют свои пределы.[n][w][e]
 ##-[s][bup 6 1 65535 0]I know how you feel. My abilities[n]have their limits as well.[n][w][e]-##
 [s]Но я хочу быть в состоянии помочь больше...[n][w][e]
 ##-[s]But, I want to be able to help[n]more...[n][w][e]-##
 
-[msg MSG_135 [Фука]]
+[msg MSG_135 [Фуука]]
 [s][bup 6 1 65535 0]Тогда я буду рассчитывать на тебя.[n][w][e]
 ##-[s][bup 6 1 65535 0]I'll be counting on you, then.[n][w][e]-##
 [s]Я могу только оказать поддержку, поэтому[n]иногда чувствую себя немного виноватым...[n][w][e]
@@ -1355,7 +1355,7 @@
 [msg MSG_146 [Мицуру]]
 [s][bup 4 1 65535 0]Я понимаю. Ваша способность адаптироваться[n]к новым ситуациям и условиям очень[n]впечатляет.[n][w][e]
 ##-[s][bup 4 1 65535 0]I see. Your ability to adapt to[n]new situations and environments is[n]very impressive.[n][w][e]-##
-[s]Кстати, я кое-что забыл тебе сказать...[n][w][e]
+[s]Кстати, я кое-что забыла тебе сказать...[n][w][e]
 ##-[s]By the way, there's something[n]I forgot to tell you...[n][w][e]-##
 [s]В большинстве случаев вы можете найти меня[n]в гостиной. Однако меня там не будет, если[n]мне нужно будет чем-то заняться.[n][w][e]
 ##-[s]Most times you can find me in the[n]lounge. However, I won't be there if[n]there is something I must attend to.[n][w][e]-##
@@ -1365,7 +1365,7 @@
 [msg MSG_147 [Мицуру]]
 [s][bup 4 1 65535 0]Что ж, это понятно. Кажется, так много[n]всего происходит в эти дни.[n][w][e]
 ##-[s][bup 4 1 65535 0]Well, that's understandable. So much[n]seems to be happening these days.[n][w][e]-##
-[s]Кстати, я кое-что забыл тебе сказать...[n][w][e]
+[s]Кстати, я кое-что забыла тебе сказать...[n][w][e]
 ##-[s]By the way, there's something[n]I forgot to tell you...[n][w][e]-##
 [s]В большинстве случаев вы можете найти меня[n]в гостиной. Однако меня там не будет, если[n]мне нужно будет чем-то заняться.[n][w][e]
 ##-[s]Most times you can find me in the[n]lounge. However, I won't be there if[n]there is something I must attend to.[n][w][e]-##
@@ -1417,7 +1417,7 @@
 ##-[s]If the doctor gives me the O.K.,[n]I'll be able to fight with you guys[n]again... finally.[n][w][e]-##
 [s]Кстати, я хочу попросить тебя об одолжении.[n][w][e]
 ##-[s]By the way, I have a favor to ask.[n][w][e]-##
-[s]Вы проделали хорошую работу[n][clr 2]ведущий[clr 0] команда[n]в Тартаре...[n][w][e]
+[s]Вы проделали хорошую работу[n][clr 2]введя[clr 0] команду[n]в Тартаре...[n][w][e]
 ##-[s]You've been doing a good job[n][clr 2]leading[clr 0] the team in Tartarus...[n][w][e]-##
 [s]Не могли бы вы продолжить после того, как я[n]вернусь?[n][w][e]
 ##-[s]Would you mind continuing after[n]I come back?[n][w][e]-##
@@ -1515,7 +1515,7 @@
 ##-[s]I'm worried something may happen...[n]So, please keep that in mind.[n][w][e]-##
 
 [msg MSG_164 [Юкари]]
-[s][bup 2 1 65535 0]Эй, [f 4 2]- кун... Я тут подумал...[n][w][e]
+[s][bup 2 1 65535 0]Эй, [f 4 2]- кун... Я тут подумала...[n][w][e]
 ##-[s][bup 2 1 65535 0]Hey, [f 4 2]-kun...[n]I was thinking...[n][w][e]-##
 [s][bup 2 4 65535 0]Позапрошлой ночью... 12 Теней... Тартар...[n][w][e]
 ##-[s][bup 2 4 65535 0]The night before last...[n]The 12 Shadows... Tartarus...[n][w][e]-##
