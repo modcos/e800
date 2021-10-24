@@ -11,7 +11,7 @@
 ##-[s][bup 49 161 0 0]*sigh*[n]December already?[n][w][e]-##
 [s]Это почти конец года... Давай не будем[n]портить наш последний месяц года вместе с[n]ленью, хорошо?[n][w][e]
 ##-[s]It's almost the end of the year...[n]Let's not ruin our last month of the[n]year together with laziness, okay?[n][w][e]-##
-[s]Помните, [clr 2]экзамен на следующей[n]неделе[clr 0].Хотя разве у вас, ребята, только что[n]не было экзаменов...? Время летит.[n][w][e]
+[s]Помните, [clr 2]экзамен на следующей[n]неделе[clr 0].[n]Хотя, такое чувство, будто вы[n]их сдавали только вчера... Время летит.[n][w][e]
 ##-[s]Remember, there's [clr 2]an exam next week[clr 0].[n]Though didn't you guys just have[n]exams...? Time flies.[n][w][e]-##
 [s]Материал по экзамену начинается со страницы[n]160 и будет включать в себя то, что мы[n]рассмотрим на сегодняшнем уроке.[n][w][e]
 ##-[s]The material on the exam begins on[n]page 160, and will include what we[n]go over in today's lesson.[n][w][e]-##
@@ -19,7 +19,7 @@
 ##-[s]Which is... the definition of[n]allotropy.[n][w][e]-##
 [s]"Свойство некоторых элементов существовать[n]в двух или более формах, которые химически[n]идентичны, но физически дискретны".[n][w][e]
 ##-[s]"The property of some elements to exist[n]in two or more forms that are chemically[n]identical, yet physically discrete."[n][w][e]-##
-[s]...Понял? Держу пари, что есть по крайней[n]мере один аллотроп, с которым вы, ребята,[n]знакомы.[n][w][e]
+[s]...Понятно? Держу пари, что есть по крайней[n]мере один аллотроп, с которым вы, ребята,[n]знакомы.[n][w][e]
 ##-[s]...Get it? I bet there's at least one[n]allotrope you guys are familiar with.[n][w][e]-##
 [s]Давайте посмотрим, понимаете ли вы, о чем я[n]говорю, [f 4 2].[n][w][e]
 ##-[s]Let's see if you know what I'm talking[n]about, [f 4 2].[n][w][e]-##
@@ -37,11 +37,11 @@
 ##-[s]"Dry ice."[e]-##
 
 [msg MSG_003 [Учитель Оуниши]]
-[s][bup 49 161 0 0]Ух ты, хорошая работа. Я уверен, что ты[n]хорошо сдашь экзамен.[n][w][e]
+[s][bup 49 161 0 0]Молодцы, хорошая работа. Я уверен, что вы[n]хорошо сдадите экзамен.[n][w][e]
 ##-[s][bup 49 161 0 0]Wow, good job. I'm sure you'll do[n]fine on the exam.[n][w][e]-##
 [s]Каждое живое существо нуждается в[n]кислороде, чтобы выжить.[n][w][e]
 ##-[s]Every living being needs oxygen[n]to survive.[n][w][e]-##
-[s]И все на планете тоже нуждается в озоне.[n][w][e]
+[s]Но также, не стоит забывать про озон.[n][w][e]
 ##-[s]And everything on the planet needs[n]ozone, too.[n][w][e]-##
 [s]Вы ведь знаете, как ядовитые[n]ультрафиолетовые лучи разъедают озоновый[n]слой, верно?[n][w][e]
 ##-[s]You know how toxic UV rays have been[n]eating away at the ozone layer, right?[n][w][e]-##
@@ -49,15 +49,15 @@
 ##-[s]Due to the environmental destruction,[n]there's less and less ozone...[n][w][e]-##
 [s]Мне, наверное, не о чем беспокоиться, но[n]вам, ребята, может быть.[n][w][e]
 ##-[s]I probably have nothing to worry[n]about, but you guys might.[n][w][e]-##
-[s]Так что будь осторожен, хорошо?[n][w][e]
+[s]Так что будьте осторожны, хорошо?[n][w][e]
 ##-[s]So watch out, okay?[n][w][e]-##
 
 [msg MSG_004 [Учитель Оуниши]]
-[s][bup 49 161 0 0]Неправильный. Ответ - озон.[n][w][e]
+[s][bup 49 161 0 0]Неправильно. Правильный ответ - озон.[n][w][e]
 ##-[s][bup 49 161 0 0]Wrong. The answer is ozone.[n][w][e]-##
 [s]Каждое живое существо нуждается в[n]кислороде, чтобы выжить.[n][w][e]
 ##-[s]Every living being needs oxygen[n]to survive.[n][w][e]-##
-[s]И все на планете тоже нуждается в озоне.[n][w][e]
+[s]Но также, не стоит забывать про озон.[n][w][e]
 ##-[s]And everything on the planet needs[n]ozone, too.[n][w][e]-##
 [s]Вы ведь знаете, как ядовитые[n]ультрафиолетовые лучи разъедают озоновый[n]слой, верно?[n][w][e]
 ##-[s]You know how toxic UV rays have been[n]eating away at the ozone layer, right?[n][w][e]-##
@@ -65,7 +65,7 @@
 ##-[s]Due to the environmental destruction,[n]there's less and less ozone...[n][w][e]-##
 [s]Мне, наверное, не о чем беспокоиться, но[n]вам, ребята, может быть.[n][w][e]
 ##-[s]I probably have nothing to worry[n]about, but you guys might.[n][w][e]-##
-[s]Так что будь осторожен, хорошо?[n][w][e]
+[s]Так что будьте осторожены, хорошо?[n][w][e]
 ##-[s]So watch out, okay?[n][w][e]-##
 
 [msg MSG_005 [Учитель Экода]]
