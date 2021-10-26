@@ -383,7 +383,7 @@
 [msg MSG_068 [Громкий Студент]]
 [s]О, не унывай, друг![n][w][e]
 ##-[s]Aww, cheer up, friend![n][w][e]-##
-[s]Я купил для тебя кое-что экзотическое, раз[n]уж ты оказался в ловушке в жаркой, влажной[n]Японии![n][w][e]
+[s]Я купил для тебя кое-что экзотическое, раз[n]уж ты оказался заперт в жаркой, влажной[n]Японии![n][w][e]
 ##-[s]I bought something exotic for you,[n]since you were trapped in hot,[n]humid Japan![n][w][e]-##
 [s]Зацени: орехи макадамии![n][w][e]
 ##-[s]Check it out: Macadamia nuts![n][w][e]-##
@@ -405,57 +405,57 @@
 ##-[s]I thought our school was peaceful,[n]too, but I guess it's not so much.[n][w][e]-##
 
 [msg MSG_072 [Шепчущий Студент]]
-[s]Эй, ты слышал? Тот 11-классник...[n][w][e]
+[s]Эй, ты слышал? Та 11-классница...[n][w][e]
 ##-[s]Hey, did you hear? That 11th-grader...[n][w][e]-##
 
 [msg MSG_073 [Громкий Студент]]
-[s]О да! Тот, кто лежал на земле сегодня[n]утром, верно?[n][w][e]
+[s]О да! Которая лежала на земле сегодня[n]утром, верно?[n][w][e]
 ##-[s]Oh, yeah! The one who was lying on[n]the ground this morning, right?[n][w][e]-##
 [s]Надеюсь, она просто сбежала из дома... Но я[n]чувствую, что это начало чего-то большого.[n][w][e]
 ##-[s]I hope she just ran away from home...[n]But I feel like this is the start of[n]something big.[n][w][e]-##
 
 [msg MSG_074 [Шепчущий Студент]]
-[s]Да... Там могут быть репортеры, съемочные[n]группы и все такое. *вздох* Я не хочу иметь[n]с этим дело.[n][w][e]
+[s]Да... Там могут быть репортеры, съемочные[n]группы и все такое. *вздох* Не хочу иметь[n]с этим дело.[n][w][e]
 ##-[s]Yeah... There might be reporters[n]and camera crews and stuff.[n]*sigh* I don't want to deal with it.[n][w][e]-##
 
 [msg MSG_075 [Шепчущий Студент]]
-[s]Вы слышали об этом [clr 2]веб-сайт с просьбой о[n]мести[clr 0]?[n][w][e]
+[s]Ты слышал про тот [clr 2]веб-сайт с просьбой о[n]мести[clr 0]?[n][w][e]
 ##-[s]Have you heard of this [clr 2]revenge request[n]website[clr 0]?[n][w][e]-##
 
 [msg MSG_076 [Громкий Студент]]
-[s]Просьба о мести...? Что это такое?[n][w][e]
+[s]С просьбой о мести...? Это еще что такое?[n][w][e]
 ##-[s]Revenge request...? What's that?[n][w][e]-##
 
 [msg MSG_077 [Шепчущий Студент]]
-[s]Вы можете написать имя человека, которому[n]хотите отомстить, и бац! Миссия выполнена.[n][w][e]
+[s]Ты можешь написать имя человека, которому[n]хочешь отомстить, и бац! Дело сделано.[n][w][e]
 ##-[s]You can write the person's name you[n]want to get revenge on, and bam![n]Mission accomplished.[n][w][e]-##
-[s]Они говорят, что это гарантированно успешно[n]и полностью анонимно.[n][w][e]
+[s]Они говорят, что успех гарантирован[n]и все полностью анонимно.[n][w][e]
 ##-[s]They say it's guaranteed successful,[n]and completely anonymous.[n][w][e]-##
-[s][f 1 5]Громкий Студент[n]Серьезно!? Дайте мне[n]URL-адрес! Быстрее![n][w][e]
+[s][f 1 5]Громкий Студент[n]Серьезно!? Дай мне[n]адрес этого сайта! Быстрее![n][w][e]
 ##-[s][f 1 5]Громкий Студент[n]Seriously!? Give me the URL! Quick![n][w][e]-##
-[s][f 1 5]Сплетничающий Студент[n]Хорошо... Это всего[n]лишь слухи... Я имею в виду, я не знаю[n]подробностей...[n][w][e]
+[s][f 1 5]Сплетничающий Студент[n]Ну... Это всего[n]лишь слухи... Я имею в виду, что я не знаю[n]подробностей...[n][w][e]
 ##-[s][f 1 5]Шепчущий Студент[n]Well... It's just a rumor...[n]I mean, I don't know the details...[n][w][e]-##
-[s]Почему ты в таком отчаянии...?[n][w][e]
+[s]Почему ты так заторопился...?[n][w][e]
 ##-[s]Why are you so desperate...?[n][w][e]-##
-[s][f 1 5]Громкий Студент[n]А? Я не... Я вообще не думаю[n]о мести.[n][w][e]
+[s][f 1 5]Громкий Студент[n]Что? Я не... Я совсем не думал[n]о мести.[n][w][e]
 ##-[s][f 1 5]Громкий Студент[n]Huh? I'm not... I'm not thinking about[n]revenge at all.[n][w][e]-##
 [s][f 1 5]Сплетничающий Студент[n]......[n][w][e]
 ##-[s][f 1 5]Шепчущий Студент[n]......[n][w][e]-##
 
 [msg MSG_078 [Шепчущий Студент]]
-[s]Уже почти летние каникулы. Давай поедем[n]куда-нибудь в отпуск![n][w][e]
+[s]Скоро летние каникулы. Давай поедем[n]куда-нибудь в отпуск![n][w][e]
 ##-[s]It's almost summer break. Let's go[n]somewhere for vacation![n][w][e]-##
 
 [msg MSG_079 [Громкий Студент]]
-[s]Звучит круто для меня! Я хочу поехать на[n]море, в горы, куда угодно![n][w][e]
+[s]Звучит круто! Я хочу поехать на[n]море, в горы, да куда угодно![n][w][e]
 ##-[s]Sounds cool to me! I wanna go to the sea,[n]the mountains, everywhere![n][w][e]-##
-[s]Но до этого... у нас во вторник начинаются[n]экзамены.[n][w][e]
+[s]Но до этого... во вторник у нас начинаются[n]экзамены.[n][w][e]
 ##-[s]But, before that... we've got finals[n]starting on Tuesday.[n][w][e]-##
 
 [msg MSG_080 [Шепчущий Студент]]
-[s]Фу, я совсем забыл об этом.[n][w][e]
+[s]Ох, я совсем забыл об этом.[n][w][e]
 ##-[s]Ugh, I'd forgotten about that.[n][w][e]-##
-[s]Но это означает перерыв после экзаменов! А[n]летние каникулы уже не за горами![n][w][e]
+[s]Но это означает, что после экзаменов - отдых! А[n]потом и летние каникулы![n][w][e]
 ##-[s]But that means a break after the exams![n]And summer vacation is just around[n]the corner![n][w][e]-##
 
 [msg MSG_081 [Шепчущий Студент]]
@@ -463,23 +463,23 @@
 ##-[s]The morning sunrise is so refreshing![n]The sunlight reflecting off the windows[n]is beautiful![n][w][e]-##
 
 [msg MSG_082 [Громкий Студент]]
-[s]Это потому, что здание было построено не[n]так давно, так что все еще блестит.[n][w][e]
+[s]Это потому, что здание было построено не[n]так давно, так что все еще сияет.[n][w][e]
 ##-[s]It's because the building wasn't built[n]that long ago, so everything is still[n]gleaming.[n][w][e]-##
-[s]Знаете, я слышал от своих родителей, что[n]здесь 10 лет назад произошел взрыв.[n][w][e]
+[s]Знаешь, я слышал от своих родителей, что[n]здесь 10 лет назад произошел взрыв.[n][w][e]
 ##-[s]You know, I heard from my parents[n]there was an explosion here[n]10 years ago.[n][w][e]-##
-[s]После этого они заменили здание, но...[n][w][e]
+[s]После этого они отстроили здание, но...[n][w][e]
 ##-[s]They replaced the building after that,[n]but...[n][w][e]-##
-[s]И это еще не все.[n][w][e]
+[s]Это еще не все.[n][w][e]
 ##-[s]There's more to it, too.[n][w][e]-##
 [s]Примерно в то же время многие ученики[n]перестали ходить в школу.[n][w][e]
 ##-[s]Around that time, a lot of students[n]stopped coming to school.[n][w][e]-##
-[s]Может быть, именно поэтому они построили[n]новое здание... Начать с чистого листа...[n][w][e]
+[s]Может быть, именно поэтому они построили[n]новое здание... Чтобы начать с чистого листа...[n][w][e]
 ##-[s]Maybe that's why they put up the[n]new building... To start with a clean[n]slate...[n][w][e]-##
 
 [msg MSG_083 [Шепчущий Студент]]
 [s]Взрыв!?[n][w][e]
 ##-[s]An explosion!?[n][w][e]-##
-[s]Кто-то напортачил в химической лаборатории[n]или что-то в этом роде? Должно быть, это[n]была опасная лекция...[n][w][e]
+[s]Кто-то напортачил в химической лаборатории?[n] Должно быть, [n]опасная была лекция...[n][w][e]
 ##-[s]Did someone screw up in chem lab[n]or something? That must have been[n]a dangerous lecture...[n][w][e]-##
 
 [msg MSG_084 [Шепчущий Студент]]
