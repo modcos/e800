@@ -371,9 +371,9 @@
 [msg MSG_040 [Учитель Ториуми]]
 [s][bup 44 161 0 0]Зимние каникулы начинаются завтра, хотя я[n]уверен, что большинство из вас просто будут[n]спать в течение Нового года.[n][w][e]
 ##-[s][bup 44 161 0 0]Winter break starts tomorrow, though[n]I'm sure most of you are just going to[n]sleep in during New Year's.[n][w][e]-##
-[s]Тебе лучше перестать так сильно полагаться[n]на своих родителей. Ради всего святого, по[n]крайней мере, очисти свои собственные[n]апельсины.[n][w][e]
+[s]Тебе лучше перестать так сильно полагаться[n]на своих родителей. Ради всего святого,[n] очисти хотя бы свои собственные[n]мандарины.[n][w][e]
 ##-[s]You'd better stop relying on your[n]parents so much. For heaven's sake,[n]at least peel your own oranges.[n][w][e]-##
-[s]Давайте пропустим сегодняшнюю лекцию и[n]пойдем в класс.[n][w][e]
+[s]Давайте вместо лекции проведем[n]классный час.[n][w][e]
 ##-[s]Let's skip the lecture for today,[n]and go to homeroom.[n][w][e]-##
 [s]Ну тогда, [f 4 2]...[n][w][e]
 ##-[s]Well then, [f 4 2]...[n][w][e]-##
@@ -399,7 +399,7 @@
 [msg MSG_044 [Учитель Ториуми]]
 [s][bup 44 161 0 0]Даже не думай об этом, малыш![n][w][e]
 ##-[s][bup 44 161 0 0]Don't even think about it, kid![n][w][e]-##
-[s]Молодость... Проклятая молодость...[n][w][e]
+[s]Молодость... Чертова молодость...[n][w][e]
 ##-[s]Youth...[n]Curse youth...[n][w][e]-##
 
 [msg MSG_045 [Учитель Такенозука]]
@@ -409,7 +409,7 @@
 ##-[s]Now, let's review.[n]...[f 4 2].[n][w][e]-##
 
 [msg MSG_046 [Учитель Такенозука]]
-[s][bup 47 161 0 0]Как вы называете явление, когда[n]электрическое сопротивление равно нулю?[n][w][e]
+[s][bup 47 161 0 0]Как называется явление, когда[n]электрическое сопротивление равно нулю?[n][w][e]
 ##-[s][bup 47 161 0 0]What do you call the phenomenon[n]when electrical resistance is zero?[n][w][e]-##
 
 [sel SEL047 top]
@@ -431,7 +431,7 @@
 ##-[s]......[n][w][e]-##
 [s]Много лет назад я пытался использовать этот[n]факт, чтобы признаться кому-то в своей[n]любви...[n][w][e]
 ##-[s]Many years ago, I tried to use this[n]fact to confess my love to someone...[n][w][e]-##
-[s]"Моя любовь к тебе сверхпроводящая!" Я[n]сказал им.[n][w][e]
+[s]"Моя любовь к тебе сверхпроводящая!" Я[n]сказал ей.[n][w][e]
 ##-[s]"My love for you is superconductive!"[n]I told them.[n][w][e]-##
 [s]......[n][w][e]
 ##-[s]......[n][w][e]-##
@@ -439,11 +439,11 @@
 ##-[s]Sure enough, she liked my enthusiasm,[n]and we started dating.[n][w][e]-##
 [s]Но энтузиазм - это не очень научно. Вскоре[n]я потерял к ней интерес.[n][w][e]
 ##-[s]But enthusiasm isn't very scientific.[n]I lost interest in her before long.[n][w][e]-##
-[s]Хорошо, в следующем разделе...[n][w][e]
+[s]Не будем отвлекаться, в следующем разделе...[n][w][e]
 ##-[s]All right, in the next section...[n][w][e]-##
 
 [msg MSG_049 [Учитель Такенозука]]
-[s][bup 47 161 0 0]...Твоя голова все еще в отпуске?[n][w][e]
+[s][bup 47 161 0 0]...Твоя голова все еще на каникулах?[n][w][e]
 ##-[s][bup 47 161 0 0]...Is your head still on vacation?[n][w][e]-##
 [s]Сверхпроводящий материал обладает нулевым[n]электрическим сопротивлением.[n][w][e]
 ##-[s]A superconductive material has zero[n]electrical resistance.[n][w][e]-##
@@ -453,7 +453,7 @@
 ##-[s]......[n][w][e]-##
 [s]Много лет назад я пытался использовать этот[n]факт, чтобы признаться кому-то в своей[n]любви...[n][w][e]
 ##-[s]Many years ago, I tried to use this[n]fact to confess my love to someone...[n][w][e]-##
-[s]"Моя любовь к тебе сверхпроводящая!" Я[n]сказал им.[n][w][e]
+[s]"Моя любовь к тебе сверхпроводящая!" Я[n]сказал ей.[n][w][e]
 ##-[s]"My love for you is superconductive!"[n]I told them.[n][w][e]-##
 [s]......[n][w][e]
 ##-[s]......[n][w][e]-##
@@ -461,17 +461,17 @@
 ##-[s]Sure enough, she liked my enthusiasm,[n]and we started dating.[n][w][e]-##
 [s]Но энтузиазм - это не очень научно. Вскоре[n]я потерял к ней интерес.[n][w][e]
 ##-[s]But enthusiasm isn't very scientific.[n]I lost interest in her before long.[n][w][e]-##
-[s]Хорошо, в следующем разделе...[n][w][e]
+[s]Не будем отвлекаться, в следующем разделе...[n][w][e]
 ##-[s]All right, in the next section...[n][w][e]-##
 
 [msg MSG_050 [Учитель Ториуми]]
-[s][bup 44 161 0 0]Давайте посмотрим здесь... [clr 2]Финалы начнутся[n]в следующий вторник.[clr 0] Боже, у нас только что[n]был экзамен. Какая боль...[n][w][e]
+[s][bup 44 161 0 0]Давайте посмотрим здесь... [clr 2]Выпускные экзамены начнутся[n]в следующий вторник.[clr 0] Боже, у нас же только что[n]они были. Какая боль...[n][w][e]
 ##-[s][bup 44 161 0 0]Let's see here... [clr 2]Finals will start[n]next Tuesday.[clr 0] Geez, we just had an[n]exam. What a pain...[n][w][e]-##
-[s]Ну, может быть, "боль" - это не то слово,[n]которое я ищу. Английские фразы довольно[n]сложны...[n][w][e]
+[s]Ну, может быть, "боль" - это не то слово,[n]которое я имею в виду. Английские фразы довольно[n]сложны...[n][w][e]
 ##-[s]Well, maybe "pain" wasn't the word[n]I'm looking for. English phrases are[n]pretty tricky...[n][w][e]-##
 [s]Теперь давайте поговорим о соединении[n]запятых.[n][w][e]
 ##-[s]Now, let's talk about comma splices.[n][w][e]-##
-[s]Я уверен, что вы все слышали о них раньше,[n]но для обзора...[n][w][e]
+[s]Я уверен, что вы все слышали о них раньше,[n]но для закрепления...[n][w][e]
 ##-[s]I'm sure you've heard all about them[n]before, but to review...[n][w][e]-##
 [s]Соединение запятой - это когда два[n]независимых предложения соединяются запятой[n]без союза.[n][w][e]
 ##-[s]A comma splice is when two independent[n]clauses are joined by a comma, with no[n]conjunction.[n][w][e]-##
@@ -503,7 +503,7 @@
 ##-[s]If no one has any questions, let's[n]move on.[n][w][e]-##
 
 [msg MSG_054 [Учитель Ториуми]]
-[s][bup 44 161 0 0]Бззззт! Я думал, что это была явная выдача.[n][w][e]
+[s][bup 44 161 0 0]Бззззт! Я думал, что это было очевидно.[n][w][e]
 ##-[s][bup 44 161 0 0]Bzzzzt! I thought that one was a[n]dead giveaway.[n][w][e]-##
 [s]Запятая не может использоваться для связи[n]двух независимых предложений.[n][w][e]
 ##-[s]A comma cannot be used to link two[n]independent clauses.[n][w][e]-##
