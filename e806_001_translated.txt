@@ -141,25 +141,25 @@
 ##-[s]ВВ畏磯侃ЯьХЭ、於、鞄勧й…[n][w][e]-##
 
 [msg MSG_015 [Учитель Мияхара]]
-[s][bup 46 161 0 0]...Тогда собирайтесь, так что... Ответ:[n]X=1.[n][w][e]
+[s][bup 46 161 0 0]...теперь окргулим, итак... Ответ:[n]X=1.[n][w][e]
 ##-[s][bup 46 161 0 0]...Then round up, so... The answer[n]is X=1.[n][w][e]-##
-[s]Хм? Это не так? О, я вижу, это становится[n]11, так что...[n][w][e]
+[s]Хм? Что-то не так? О, я вижу, это будет[n]11, так что...[n][w][e]
 ##-[s]Hmm? It isn't? Oh, I see, this becomes 11,[n]so...[n][w][e]-##
-[s]Мне очень жаль, но вы правы. X=2.[n][w][e]
+[s]Прошу прощения, вы оказались правы. X=2.[n][w][e]
 ##-[s]I'm sorry, you're right. X=2.[n][w][e]-##
-[s]Ждать... Это правильно?[n][w][e]
+[s]Ждать... Это правильное решение?[n][w][e]
 ##-[s]Wait... Is that right?[n][w][e]-##
-[s]Ладно, твое задание - разобраться в этом[n]деле.[n][w][e]
+[s]Вот и решили, ваше задание - разобраться в этом[n]деле.[n][w][e]
 ##-[s]Okay, uh, your assignment is to[n]figure this one out.[n][w][e]-##
 [s]В любом случае... Разве это не было[n]невероятно?[n][w][e]
 ##-[s]Anyway... Wasn't that incredible?[n][w][e]-##
-[s]Даже с такой сложной проблемой, как эта,[n]как только вы ее решите, X все равно будет[n]равно 1. Или, может быть, 2.[n][w][e]
+[s]Даже с такой сложной проблемой, как эта,[n]как только вы ее решите, X все равно будет[n]равен 1. А может и 2.[n][w][e]
 ##-[s]Even with a difficult problem like[n]this one, once you solve it, X still[n]equals 1. Or maybe 2.[n][w][e]-##
-[s]Я хочу сказать, что математика - это[n]весело! Ты так не думаешь?[n][w][e]
+[s]Я хочу сказать, что математика - это[n]весело! вы так не думаете?[n][w][e]
 ##-[s]What I'm getting at is, math is fun![n]Don't you think so?[n][w][e]-##
 [s]Цивилизация обязана своим существованием[n]математике![n][w][e]
 ##-[s]Civilization owes its very existence[n]to math![n][w][e]-##
-[s]Все в порядке. Сегодня самый [f 5 5]эт, так что[n]получается... твоя очередь,[n][f 4 2].[n][w][e]
+[s]Все в порядке. Сегодня [f 5 5], так что[n]получается... твоя очередь,[n][f 4 2].[n][w][e]
 ##-[s]All right. Today is the [f 5 5]th,[n]so that works out to... your turn,[n][f 4 2].[n][w][e]-##
 
 [msg MSG_016 [Учитель Мияхара]]
@@ -175,7 +175,7 @@
 ##-[s]"4,000 years ago."[e]-##
 
 [msg MSG_018 [Учитель Мияхара]]
-[s][bup 46 161 0 0]У тебя получилось! Шумеры изобрели числа[n]6000 лет назад.[n][w][e]
+[s][bup 46 161 0 0]В точку! Шумеры изобрели числа[n]6000 лет назад.[n][w][e]
 ##-[s][bup 46 161 0 0]You got it! The Sumerians invented[n]numbers 6,000 years ago.[n][w][e]-##
 [s]Позже в Индии были изобретены арабские[n]цифры, которые принесли нам число 0 и[n]бесчисленные уравнения![n][w][e]
 ##-[s]Later, Arabic numerals were invented[n]in India, which brought us the number[n]0 and countless equations![n][w][e]-##
@@ -195,9 +195,9 @@
 [msg MSG_020 [Учитель Такенозука]]
 [s][bup 47 161 0 0]...Итак, давайте сегодня обсудим вращение[n]Земли.[n][w][e]
 ##-[s][bup 47 161 0 0]...So let's discuss the Earth's[n]rotation today.[n][w][e]-##
-[s]Земля вращается один раз в 24 часа...[n][w][e]
+[s]Земля делает полный оборот вокруг своей оси за 24 часа...[n][w][e]
 ##-[s]The Earth rotates once every[n]24 hours...[n][w][e]-##
-[s]Ладно, не засыпай или что-нибудь в этом[n]роде. Это основное, но это важная[n]предпосылка для всего остального.[n][w][e]
+[s]Ладно, не засыпай[n]. Это хоть и основа, но это важная[n]предпосылка для всего остального.[n][w][e]
 ##-[s]All right, don't fall asleep or[n]anything. It's basic, but it's an[n]important premise for the rest.[n][w][e]-##
 [s]Давайте посмотрим... Хм... [f 4 2]?[n][w][e]
 ##-[s]Let's see... Hmm... [f 4 2]?[n][w][e]-##
@@ -217,13 +217,13 @@
 [msg MSG_023 [Учитель Такенозука]]
 [s][bup 47 161 0 0]Правильно! Вблизи экватора Земля вращается[n]быстрее скорости звука. Хорошо, что[n]дальше...?[n][w][e]
 ##-[s][bup 47 161 0 0]Correct! Near the equator, the Earth[n]spins faster than the speed of sound.[n]All right, what's next...?[n][w][e]-##
-[s]Перейдите на следующую страницу... О, это[n]приложение. Давайте пропустим это и... Хм,[n]это эксперимент. Ладно, эм...[n][w][e]
+[s]Переверните страницу... О, это[n]приложение. Давайте пропустим это и... Хм,[n]это эксперимент. Ладно, эм...[n][w][e]
 ##-[s]Flip to the next page... Oh, this is[n]an application. Let's skip that and...[n]Hm, that's an experiment. Okay, um...[n][w][e]-##
 
 [msg MSG_024 [Учитель Такенозука]]
-[s][bup 47 161 0 0]Извините, нет. Хотите верьте, хотите нет,[n]но вблизи экватора Земля вращается быстрее[n]скорости звука. Двигаться дальше...[n][w][e]
+[s][bup 47 161 0 0]Ошибочка. Хотите верьте, хотите нет,[n]но вблизи экватора Земля вращается быстрее[n]скорости звука. Двигаемся дальше...[n][w][e]
 ##-[s][bup 47 161 0 0]Sorry, no. Believe it or not, but near[n]the equator, the Earth spins faster[n]than the speed of sound. Moving on...[n][w][e]-##
-[s]Перейдите на следующую страницу... О, это[n]приложение. Давайте пропустим это и... Хм,[n]это эксперимент. Ладно, эм...[n][w][e]
+[s]Переверните страницу... О, это[n]приложение. Давайте пропустим это и... Хм,[n]это эксперимент. Ладно, эм...[n][w][e]
 ##-[s]Flip to the next page... Oh, this is[n]an application. Let's skip that and...[n]Hm, that's an experiment. Okay, um...[n][w][e]-##
 
 [msg MSG_025 [Учитель Оуниши]]
@@ -237,15 +237,15 @@
 ##-[s]What about the osmotic pressure,[n]huh? It's misinformation, but people[n]believe what they see on TV...[n][w][e]-##
 [s]Многие компании говорят что-то вроде: "Наш[n]продукт содержит минералы!" Но это полная[n]чушь.[n][w][e]
 ##-[s]A lot of companies say stuff like,[n]"Our product contains minerals!"[n]But that's a load of hooey.[n][w][e]-##
-[s]Там едва ли больше, чем микроэлементы того,[n]о чем они говорят. Это бессмысленно.[n][w][e]
+[s]Там едва ли больше, чем доли того,[n]о чем они говорят. Это бессмысленно.[n][w][e]
 ##-[s]There's hardly more than trace[n]elements of whatever they're talking[n]about. It's meaningless.[n][w][e]-##
 [s]Знаете ли вы, что существуют разные[n]названия воды в зависимости от содержания в[n]ней кальция или магния?[n][w][e]
 ##-[s]Did you know that there are different[n]names for water depending on its[n]calcium or magnesium content?[n][w][e]-##
-[s]Ты выглядишь так, будто знаешь ответ,[n][f 4 2][n]..Удиви меня.[n][w][e]
+[s]Вы выглядишь так, будто знаешь ответ,[n][f 4 2][n]..Удивите меня.[n][w][e]
 ##-[s]You look like you know the answer,[n][f 4 2]... Surprise me.[n][w][e]-##
 
 [msg MSG_026 [Учитель Оуниши]]
-[s][bup 49 161 0 0]Что вы называете водой без большого[n]количества кальция и магния?[n][w][e]
+[s][bup 49 161 0 0]Что называют водой без большого[n]количества кальция и магния?[n][w][e]
 ##-[s][bup 49 161 0 0]What do you call water without much[n]calcium and magnesium?[n][w][e]-##
 
 [sel SEL027 top]
@@ -261,17 +261,17 @@
 ##-[s][bup 49 161 0 0]That's right. You're better-informed[n]than I thought![n][w][e]-##
 [s]Большая часть воды в Японии - мягкая вода.[n][w][e]
 ##-[s]Most of the water in Japan is soft[n]water.[n][w][e]-##
-[s]Вот почему многим японцам кажется странным[n]пить жесткую воду, потому что они привыкли[n]к другому виду.[n][w][e]
+[s]Вот почему многим японцам кажется странным[n]пить жесткую воду, потому что они привыкли[n]к другому.[n][w][e]
 ##-[s]That's why many Japanese find it[n]strange to drink hard water, because[n]they're used to the other kind.[n][w][e]-##
 [s]Помните, что приготовление риса с жесткой[n]водой портит вкус. Теперь давайте посмотрим[n]на различные ионы в воде...[n][w][e]
 ##-[s]Remember, cooking rice with hard water[n]ruins the flavor. Now, let's look at[n]the various ions in water...[n][w][e]-##
 
 [msg MSG_029 [Учитель Оуниши]]
-[s][bup 49 161 0 0]Э-э-э. Ответ - мягкая вода.[n][w][e]
+[s][bup 49 161 0 0]Ух. Ответ - мягкая вода.[n][w][e]
 ##-[s][bup 49 161 0 0]Uh-uh. The answer is soft water.[n][w][e]-##
 [s]Большая часть воды в Японии - мягкая вода.[n][w][e]
 ##-[s]Most of the water in Japan is soft[n]water.[n][w][e]-##
-[s]Вот почему многим японцам кажется странным[n]пить жесткую воду, потому что они привыкли[n]к другому виду.[n][w][e]
+[s]Вот почему многим японцам кажется странным[n]пить жесткую воду, потому что они привыкли[n]к другому.[n][w][e]
 ##-[s]That's why many Japanese find it[n]strange to drink hard water, because[n]they're used to the other kind.[n][w][e]-##
 [s]Помните, что приготовление риса с жесткой[n]водой портит вкус. Теперь давайте посмотрим[n]на различные ионы в воде...[n][w][e]
 ##-[s]Remember, cooking rice with hard water[n]ruins the flavor. Now, let's look at[n]the various ions in water...[n][w][e]-##
@@ -281,7 +281,7 @@
 ##-[s][bup 45 161 0 0]Let's talk about the Heian era today.[n]I won't spend a lot of time on this,[n]so pay attention.[n][w][e]-##
 [s]В 794 году был основан Хэйан-Ке. В 894 году[n]они отменили императорские посольства в[n]Китай...[n][w][e]
 ##-[s]In 794, the Heian-Kyo was established.[n]In 894, they abolished imperial[n]embassies to China...[n][w][e]-##
-[s]Я мог бы поместить этот раздел на [clr 2]экзамен[n]на следующей неделе[clr 0]...Я чувствую себя[n]ленивым.[n][w][e]
+[s]Я мог бы включить этот раздел в [clr 2]экзамен[n]на следующей неделе[clr 0]...Я чувствую себя[n]ленивым.[n][w][e]
 ##-[s]I might put this section on the [clr 2]exam[n]next week[clr 0]... I'm feeling lazy.[n][w][e]-##
 [s]В любом случае, перейдем к феодализму.[n]Слушайте внимательно, потому что это имеет[n]отношение к происхождению самураев.[n][w][e]
 ##-[s]Anyways, on to feudalism. Listen[n]carefully, because this has to do[n]with the origins of the samurai.[n][w][e]-##
@@ -309,7 +309,7 @@
 ##-[s]The farmers got lazy. Not that that's[n]unusual for any era... But that's[n]all for the Heian period.[n][w][e]-##
 
 [msg MSG_034 [Учитель Оно]]
-[s][bup 45 161 0 0]Ты можешь сделать лучше, чем это! Ты[n]потомок самурая![n][w][e]
+[s][bup 45 161 0 0]Ты можешь лучше! Ты же[n]потомок самурая![n][w][e]
 ##-[s][bup 45 161 0 0]You can do better than that! You're[n]descended from the samurai![n][w][e]-##
 [s]Правильный ответ - Конден Эйнен Шизайхо.[n][w][e]
 ##-[s]The correct answer is the Konden[n]Einen Shizaihou.[n][w][e]-##
@@ -329,11 +329,11 @@
 ##-[s]Doesn't it warm your heart?[n][w][e]-##
 [s]Итак, кто хочет ответить на вопрос?[n][w][e]
 ##-[s]Now, who wants to answer a question?[n][w][e]-##
-[s]Сегодня самый [f 5 5]эт, так что я выберу...[n][f 4 2].[n][w][e]
+[s]Сегодня [f 5 5], так что я выберу...[n][f 4 2].[n][w][e]
 ##-[s]Today's the [f 5 5]th, so I'll pick...[n][f 4 2].[n][w][e]-##
 
 [msg MSG_036 [Учитель Тераучи]]
-[s][bup 50 161 0 0]Одним из пунктов меню для всей семьи[n]является "сковорода". Как бы вы перевели[n]это на английский?[n][w][e]
+[s][bup 50 161 0 0]Одним из пунктов меню для всей семьи[n]является "pan". Как бы вы перевели[n]это на русский?[n][w][e]
 ##-[s][bup 50 161 0 0]One of the items on the menu for the[n]family is "pan." How would you[n]translate this to English?[n][w][e]-##
 
 [sel SEL037 top]
@@ -347,11 +347,11 @@
 [msg MSG_038 [Учитель Тераучи]]
 [s][bup 50 161 0 0]Хорошая работа![n][w][e]
 ##-[s][bup 50 161 0 0]Good job![n][w][e]-##
-[s]"Пан" по-английски означает "хлеб".[n][w][e]
+[s]"Pan" по-русски означает "хлеб".[n][w][e]
 ##-[s]"Pan" means "bread" in English.[n][w][e]-##
-[s]Термин "пан" пришел из Португалии в Японию[n]давным-давно.[n][w][e]
+[s]Термин "pan" пришел из Португалии в Японию[n]давным-давно.[n][w][e]
 ##-[s]The term "pan" came from Portugal[n]to Japan a long time ago.[n][w][e]-##
-[s][clr 2]Это будет на следующем экзамене[clr 0], так что[n]убедитесь, что вы все предусмотрели![n][w][e]
+[s][clr 2]Это будет на следующем экзамене[clr 0], так что[n]убедитесь, что вы это усвоили![n][w][e]
 ##-[s][clr 2]This will be on the next exam[clr 0],[n]so make sure you got this covered![n][w][e]-##
 [s]У нас еще есть пара минут в запасе... О, в[n]сегодняшней газете...[n][w][e]
 ##-[s]We've still got a couple minutes[n]left... Oh, in today's newspaper...[n][w][e]-##
@@ -359,11 +359,11 @@
 [msg MSG_039 [Учитель Тераучи]]
 [s][bup 50 161 0 0]Нет. Тем не менее, хорошая попытка![n][w][e]
 ##-[s][bup 50 161 0 0]Nope. Good try, though![n][w][e]-##
-[s]"Пан" по-английски означает "хлеб".[n][w][e]
+[s]"Pan" по-русски означает "хлеб".[n][w][e]
 ##-[s]"Pan" means "bread" in English.[n][w][e]-##
-[s]Термин "пан" пришел из Португалии в Японию[n]давным-давно.[n][w][e]
+[s]Термин "pan" пришел из Португалии в Японию[n]давным-давно.[n][w][e]
 ##-[s]The term "pan" came from Portugal[n]to Japan a long time ago.[n][w][e]-##
-[s][clr 2]Это будет на следующем экзамене[clr 0], так что[n]убедитесь, что вы все предусмотрели![n][w][e]
+[s][clr 2]Это будет на следующем экзамене[clr 0], так что[n]убедитесь, что вы это усвоили![n][w][e]
 ##-[s][clr 2]This will be on the next exam[clr 0],[n]so make sure you got this covered![n][w][e]-##
 [s]У нас еще есть пара минут в запасе... О, в[n]сегодняшней газете...[n][w][e]
 ##-[s]We've still got a couple minutes[n]left... Oh, in today's newspaper...[n][w][e]-##
@@ -371,6 +371,7 @@
 [msg MSG_040 [Учитель Ториуми]]
 [s][bup 44 161 0 0]Зимние каникулы начинаются завтра, хотя я[n]уверен, что большинство из вас просто будут[n]спать в течение Нового года.[n][w][e]
 ##-[s][bup 44 161 0 0]Winter break starts tomorrow, though[n]I'm sure most of you are just going to[n]sleep in during New Year's.[n][w][e]-##
+
 [s]Тебе лучше перестать так сильно полагаться[n]на своих родителей. Ради всего святого,[n] очисти хотя бы свои собственные[n]мандарины.[n][w][e]
 ##-[s]You'd better stop relying on your[n]parents so much. For heaven's sake,[n]at least peel your own oranges.[n][w][e]-##
 [s]Давайте вместо лекции проведем[n]классный час.[n][w][e]
