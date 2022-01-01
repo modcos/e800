@@ -379,7 +379,7 @@
 ##-[s]Well then, [f 4 2]...[n][w][e]-##
 
 [msg MSG_041 [Учитель Ториуми]]
-[s][bup 44 161 0 0]Момент страсти внезапно возникает летом![n]Что ты делаешь?[n][w][e]
+[s][bup 44 161 0 0]Летом внезапно наступает момент страсти![n]Что ты делаешь?[n][w][e]
 ##-[s][bup 44 161 0 0]A moment of passion suddenly arises[n]in the summer! What do you do?[n][w][e]-##
 
 [sel SEL042 top]
@@ -391,7 +391,7 @@
 ##-[s][f 2 7 0 1 1552 1]"Stay calm and act accordingly."[e]-##
 
 [msg MSG_043 [Учитель Ториуми]]
-[s][bup 44 161 0 0]Повезло тебе. Это было бы скучно без[n]романтики и всего такого, но не теряй[n]контроль.[n][w][e]
+[s][bup 44 161 0 0]Повезло тебе. Это было бы скучно без[n]романтики и всего такого, но не теряй[n]голову.[n][w][e]
 ##-[s][bup 44 161 0 0]Good for you. It would be boring[n]without some romance and whatnot,[n]but don't lose control.[n][w][e]-##
 [s]Наслаждайся этим, пока ты еще молод... *[n]вздох*[n][w][e]
 ##-[s]Enjoy it while you're still[n]young... *sigh*[n][w][e]-##
@@ -405,11 +405,11 @@
 [msg MSG_045 [Учитель Такенозука]]
 [s][bup 47 161 0 0]Успокойся! Летние каникулы закончились![n]Теперь ты снова в школе, так что веди себя[n]соответственно![n][w][e]
 ##-[s][bup 47 161 0 0]Quiet down! Summer vacation's over![n]You're back in school now, so act[n]accordingly![n][w][e]-##
-[s]Теперь давайте рассмотрим....[f 4 2].[n][w][e]
+[s]Итак, давайте рассмотрим....[f 4 2].[n][w][e]
 ##-[s]Now, let's review.[n]...[f 4 2].[n][w][e]-##
 
 [msg MSG_046 [Учитель Такенозука]]
-[s][bup 47 161 0 0]Как вы называете явление, когда[n]электрическое сопротивление равно нулю?[n][w][e]
+[s][bup 47 161 0 0]Как называется явление, когда[n]электрическое сопротивление равно нулю?[n][w][e]
 ##-[s][bup 47 161 0 0]What do you call the phenomenon[n]when electrical resistance is zero?[n][w][e]-##
 
 [sel SEL047 top]
@@ -429,9 +429,9 @@
 ##-[s]As a result, electric current can[n]travel eternally through a[n]superconductive circuit.[n][w][e]-##
 [s]......[n][w][e]
 ##-[s]......[n][w][e]-##
-[s]Много лет назад я пытался использовать этот[n]факт, чтобы признаться кому-то в своей[n]любви...[n][w][e]
+[s]Много лет назад я пытался использовать этот[n]факт, чтобы признаться кое-кому в[n]любви...[n][w][e]
 ##-[s]Many years ago, I tried to use this[n]fact to confess my love to someone...[n][w][e]-##
-[s]"Моя любовь к тебе сверхпроводящая!" Я[n]сказал им.[n][w][e]
+[s]"Моя любовь к тебе сверхпроводящая!" Я[n]говорил ей.[n][w][e]
 ##-[s]"My love for you is superconductive!"[n]I told them.[n][w][e]-##
 [s]......[n][w][e]
 ##-[s]......[n][w][e]-##
@@ -439,11 +439,11 @@
 ##-[s]Sure enough, she liked my enthusiasm,[n]and we started dating.[n][w][e]-##
 [s]Но энтузиазм - это не очень научно. Вскоре[n]я потерял к ней интерес.[n][w][e]
 ##-[s]But enthusiasm isn't very scientific.[n]I lost interest in her before long.[n][w][e]-##
-[s]Хорошо, в следующем разделе...[n][w][e]
+[s]Ладно, в следующем разделе...[n][w][e]
 ##-[s]All right, in the next section...[n][w][e]-##
 
 [msg MSG_049 [Учитель Такенозука]]
-[s][bup 47 161 0 0]...Твоя голова все еще в отпуске?[n][w][e]
+[s][bup 47 161 0 0]...Твоя голова все еще на каникулах?[n][w][e]
 ##-[s][bup 47 161 0 0]...Is your head still on vacation?[n][w][e]-##
 [s]Сверхпроводящий материал обладает нулевым[n]электрическим сопротивлением.[n][w][e]
 ##-[s]A superconductive material has zero[n]electrical resistance.[n][w][e]-##
@@ -451,9 +451,9 @@
 ##-[s]As a result, electric current can[n]travel eternally through a[n]superconductive circuit.[n][w][e]-##
 [s]......[n][w][e]
 ##-[s]......[n][w][e]-##
-[s]Много лет назад я пытался использовать этот[n]факт, чтобы признаться кому-то в своей[n]любви...[n][w][e]
+[s]Много лет назад я пытался использовать этот[n]факт, чтобы признаться кое-кому в[n]любви...[n][w][e]
 ##-[s]Many years ago, I tried to use this[n]fact to confess my love to someone...[n][w][e]-##
-[s]"Моя любовь к тебе сверхпроводящая!" Я[n]сказал им.[n][w][e]
+[s]"Моя любовь к тебе сверхпроводящая!" Я[n]говорил ей.[n][w][e]
 ##-[s]"My love for you is superconductive!"[n]I told them.[n][w][e]-##
 [s]......[n][w][e]
 ##-[s]......[n][w][e]-##
@@ -461,27 +461,27 @@
 ##-[s]Sure enough, she liked my enthusiasm,[n]and we started dating.[n][w][e]-##
 [s]Но энтузиазм - это не очень научно. Вскоре[n]я потерял к ней интерес.[n][w][e]
 ##-[s]But enthusiasm isn't very scientific.[n]I lost interest in her before long.[n][w][e]-##
-[s]Хорошо, в следующем разделе...[n][w][e]
+[s]Ладно, в следующем разделе...[n][w][e]
 ##-[s]All right, in the next section...[n][w][e]-##
 
 [msg MSG_050 [Учитель Ториуми]]
-[s][bup 44 161 0 0]Давайте посмотрим здесь... [clr 2]Финалы начнутся[n]в следующий вторник.[clr 0] Боже, у нас только что[n]был экзамен. Какая боль...[n][w][e]
+[s][bup 44 161 0 0]Давайте посмотрим здесь... [clr 2]Экзамены начнутся[n]в следующий вторник.[clr 0] Боже, у нас только что[n]были экзамены. Какая боль...[n][w][e]
 ##-[s][bup 44 161 0 0]Let's see here... [clr 2]Finals will start[n]next Tuesday.[clr 0] Geez, we just had an[n]exam. What a pain...[n][w][e]-##
 [s]Ну, может быть, "боль" - это не то слово,[n]которое я ищу. Английские фразы довольно[n]сложны...[n][w][e]
 ##-[s]Well, maybe "pain" wasn't the word[n]I'm looking for. English phrases are[n]pretty tricky...[n][w][e]-##
 [s]Теперь давайте поговорим о соединении[n]запятых.[n][w][e]
 ##-[s]Now, let's talk about comma splices.[n][w][e]-##
-[s]Я уверен, что вы все слышали о них раньше,[n]но для обзора...[n][w][e]
+[s]Я уверен, что вы все слышали о них раньше,[n]но для закрепления...[n][w][e]
 ##-[s]I'm sure you've heard all about them[n]before, but to review...[n][w][e]-##
 [s]Соединение запятой - это когда два[n]независимых предложения соединяются запятой[n]без союза.[n][w][e]
 ##-[s]A comma splice is when two independent[n]clauses are joined by a comma, with no[n]conjunction.[n][w][e]-##
-[s]Окей, [f 4 2]![n][w][e]
+[s]Хорошо, [f 4 2]![n][w][e]
 ##-[s]Okay, [f 4 2]![n][w][e]-##
 
 [msg MSG_051 [Учитель Ториуми]]
-[s][bup 44 161 0 0]Вот тебе вопрос... Дун дун данннн![n][w][e]
+[s][bup 44 161 0 0]Вот тебе вопрос... Та да дан![n][w][e]
 ##-[s][bup 44 161 0 0]Here's a question for you...[n]Dun dun dunnn![n][w][e]-##
-[s]Какая из этих фраз неверна?[n][w][e]
+[s]Какой из этих вариантов неверный?[n][w][e]
 ##-[s]Which of these phrases is incorrect?[n][w][e]-##
 
 [sel SEL052 top]
@@ -503,7 +503,7 @@
 ##-[s]If no one has any questions, let's[n]move on.[n][w][e]-##
 
 [msg MSG_054 [Учитель Ториуми]]
-[s][bup 44 161 0 0]Бззззт! Я думал, что это была явная выдача.[n][w][e]
+[s][bup 44 161 0 0]Уффф! Я думал, что это было совсем не сложно.[n][w][e]
 ##-[s][bup 44 161 0 0]Bzzzzt! I thought that one was a[n]dead giveaway.[n][w][e]-##
 [s]Запятая не может использоваться для связи[n]двух независимых предложений.[n][w][e]
 ##-[s]A comma cannot be used to link two[n]independent clauses.[n][w][e]-##
@@ -519,7 +519,7 @@
 ##-[s][bup 47 161 0 0]We'll be talking about nuclear[n]fission today.[n][w][e]-##
 [s]Представьте себе ядерную реакцию, в которой[n]массивное ядро распадается на более мелкие[n]ядра, высвобождая при этом энергию.[n][w][e]
 ##-[s]Imagine a nuclear reaction in which[n]a massive nucleus splits into smaller[n]nuclei, releasing energy as it does.[n][w][e]-##
-[s]Я верю, что вы все это знаете.[n][w][e]
+[s]Я полагаю, что вы все это знаете.[n][w][e]
 ##-[s]I believe you all know that much.[n][w][e]-##
 [s]В результате реакции выделяется огромное[n]количество энергии, поэтому ее используют[n]на атомных электростанциях.[n][w][e]
 ##-[s]The reaction emits massive quantities[n]of energy, which is why it's used in[n]nuclear power plants.[n][w][e]-##
@@ -533,15 +533,15 @@
 ##-[s][bup 47 161 0 0]Which of these is NOT one of Japan's[n]prohibitions on nuclear weapons?[n][w][e]-##
 
 [sel SEL057 top]
-[s]Не может производить[e]
+[s]Запрет на производство[e]
 ##-[s]Can't produce[e]-##
-[s][f 2 7 0 1 1552 1]Не могу позволить другим производить[e]
+[s][f 2 7 0 1 1552 1]Запрет производить другим[e]
 ##-[s][f 2 7 0 1 1552 1]Can't let others produce[e]-##
-[s]Не могу допустить в Японию[e]
+[s]Допуск в Японии[e]
 ##-[s]Can't allow into Japan[e]-##
 
 [msg MSG_058 [Учитель Такенозука]]
-[s][bup 47 161 0 0]Правильный. Мы запрещаем владение,[n]производство и допуск ядерного оружия на[n]территорию Японии.[n][w][e]
+[s][bup 47 161 0 0]Верно. Мы запрещаем иметь,[n]производить и ввозить ядерное оружие на[n]территории Японии.[n][w][e]
 ##-[s][bup 47 161 0 0]Correct. We forbid possession,[n]production, and admission of nuclear[n]weapons within Japan.[n][w][e]-##
 [s]Третий запрет немного спорен, но это урок[n]физики, а не политологии.[n][w][e]
 ##-[s]The third prohibition is a little[n]controversial, but this is physics[n]class, not political science.[n][w][e]-##
@@ -549,9 +549,9 @@
 ##-[s]Now as for nuclear fission...[n][w][e]-##
 
 [msg MSG_059 [Учитель Такенозука]]
-[s][bup 47 161 0 0]Боюсь, что нет. Это должно быть[n]общеизвестно для японских граждан.[n][w][e]
+[s][bup 47 161 0 0]Боюсь, что нет. По-хорошему, это должно быть[n]общеизвестно для японских граждан.[n][w][e]
 ##-[s][bup 47 161 0 0]I'm afraid not. That should be[n]common knowledge for Japanese[n]citizens.[n][w][e]-##
-[s]Мы запрещаем владение, производство и[n]допуск ядерного оружия на территорию[n]Японии.[n][w][e]
+[s]Мы запрещаем иметь,[n]производить и ввозить ядерное оружие на[n]территории Японии.[n][w][e]
 ##-[s]We forbid possession, production,[n]and admission of nuclear weapons[n]within Japan.[n][w][e]-##
 [s]Третий запрет немного спорен, но это урок[n]физики, а не политологии.[n][w][e]
 ##-[s]The third prohibition is a little[n]controversial, but this is physics[n]class, not political science.[n][w][e]-##
@@ -567,11 +567,11 @@
 ##-[s]Masakado was pursued by the Imperial[n]Court, and had no choice but to[n]openly oppose them...[n][w][e]-##
 [s]Результат был известен как Война Масакадо.[n][w][e]
 ##-[s]The result was known as the War of[n]Masakado.[n][w][e]-##
-[s][f 4 2]...Ты совсем не похож на самурая, но давай[n]посмотрим, знаешь ли ты этого.[n][w][e]
+[s][f 4 2]...Ты совсем не похож на самурая, но давай[n]посмотрим, знаешь ли ты это.[n][w][e]
 ##-[s][f 4 2]... You don't look[n]anything like a samurai, but[n]let's see if you know this one.[n][w][e]-##
 
 [msg MSG_061 [Учитель Оно]]
-[s][bup 45 161 0 0]На какой титул претендовал Тайра Но[n]Масакадо для себя?[n][w][e]
+[s][bup 45 161 0 0]На какой титул претендовал Тайра Но[n]Масакадо?[n][w][e]
 ##-[s][bup 45 161 0 0]What title did Taira No Masakado[n]claim for himself?[n][w][e]-##
 
 [sel SEL062 top]
@@ -585,7 +585,7 @@
 [msg MSG_063 [Учитель Оно]]
 [s][bup 45 161 0 0]Правильно![n][w][e]
 ##-[s][bup 45 161 0 0]Correct![n][w][e]-##
-[s]Это будет на [clr 2]экзамен на следующей неделе[clr 0],[n]так что будьте готовы![n][w][e]
+[s]Это будет в [clr 2]экзамене на следующей неделе[clr 0],[n]так что будьте готовы![n][w][e]
 ##-[s]This will be on the [clr 2]exam next[n]week[clr 0], so be prepared![n][w][e]-##
 [s]Давайте немного перенесемся в эпоху[n]Камакура![n][w][e]
 ##-[s]Let's skip forward a little to the[n]Kamakura era![n][w][e]-##
@@ -599,7 +599,7 @@
 [msg MSG_064 [Учитель Оно]]
 [s][bup 45 161 0 0]Неправильно! Разумеется, он называл себя[n]принцем-императором.[n][w][e]
 ##-[s][bup 45 161 0 0]Wrong! He called himself the[n]Imperial Prince, of course.[n][w][e]-##
-[s]Это будет на [clr 2]экзамен на следующей неделе[clr 0],[n]так что будьте готовы![n][w][e]
+[s]Это будет в [clr 2]экзамене на следующей неделе[clr 0],[n]так что будьте готовы![n][w][e]
 ##-[s]This will be on the [clr 2]exam next[n]week[clr 0], so be prepared![n][w][e]-##
 [s]Давайте немного перенесемся в эпоху[n]Камакура![n][w][e]
 ##-[s]Let's skip forward a little to the[n]Kamakura era![n][w][e]-##
@@ -611,7 +611,7 @@
 ##-[s]And of course, its founder was[n]Minamoto no Yoritomo. I can't[n]believe we're finally here![n][w][e]-##
 
 [msg MSG_065 [Учитель Ториуми]]
-[s][bup 44 161 0 0]Следующий... Давайте посмотрим здесь...[n][w][e]
+[s][bup 44 161 0 0]Следующее... Давайте посмотрим здесь...[n][w][e]
 ##-[s][bup 44 161 0 0]Next is... Let's see here...[n][w][e]-##
 [s][f 4 2], не думай, что я тебя там не вижу.[n][w][e]
 ##-[s][f 4 2], don't think I don't[n]see you there.[n][w][e]-##
